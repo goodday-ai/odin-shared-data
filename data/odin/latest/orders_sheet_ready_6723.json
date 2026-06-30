@@ -2559,9 +2559,9 @@
       "姓名": "",
       "房型": "5F",
       "專案名稱": "官網專案",
-      "訂單款項": 7000,
-      "已收金額": 0,
-      "剩餘尾款": 7000,
+      "訂單款項": 5000,
+      "已收金額": 5000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -3659,12 +3659,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-06-30T06:24:46.898Z",
+    "generatedAt": "2026-06-30T15:41:15.869Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-06-30T06:24:46.898Z",
+      "lastUpdated": "2026-06-30T15:41:15.869Z",
       "months": [
         {
           "month": "2026-01",
@@ -4373,9 +4373,9 @@
           ],
           "totalBookingRate": 92.5,
           "wholeHouseRate": 0,
-          "totalSales": 776811,
-          "adr": 6998,
-          "revpar": 6473,
+          "totalSales": 774811,
+          "adr": 6980,
+          "revpar": 6457,
           "soldNights": 111,
           "capacityNights": 120,
           "roomDetails": [
@@ -4391,7 +4391,7 @@
             {
               "roomType": "5F",
               "bookingRate": 93.3,
-              "avgDailyRate": 7214,
+              "avgDailyRate": 7142,
               "orderCount": 13,
               "soldNights": 28,
               "capacityNights": 30,

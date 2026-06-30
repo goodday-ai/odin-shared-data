@@ -1104,19 +1104,47 @@
       "房型": "粉色201",
       "專案名稱": "官網專案",
       "訂單款項": 6000,
-      "已收金額": 0,
-      "剩餘尾款": 6000,
+      "已收金額": 1800,
+      "剩餘尾款": 4200,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-06-30",
+      "訂單編號": "OBE86900591726063002",
+      "入住日期": "2026-07-24",
+      "退房日期": "2026-07-26",
+      "姓名": "",
+      "房型": "粉色201",
+      "專案名稱": "官網專案",
+      "訂單款項": 5000,
+      "已收金額": 1500,
+      "剩餘尾款": 3500,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-06-30",
+      "訂單編號": "OBE03900591726063003",
+      "入住日期": "2026-07-02",
+      "退房日期": "2026-07-03",
+      "姓名": "",
+      "房型": "藍色202",
+      "專案名稱": "官網專案",
+      "訂單款項": 1800,
+      "已收金額": 1800,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-06-30T06:23:46.022Z",
+    "generatedAt": "2026-06-30T15:40:15.469Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-06-30T06:23:46.022Z",
+      "lastUpdated": "2026-06-30T15:40:15.469Z",
       "months": [
         {
           "month": "2025-12",
@@ -2019,8 +2047,8 @@
         },
         {
           "month": "2026-07",
-          "totalOrders": 20,
-          "averageLeadDays": 39.9,
+          "totalOrders": 22,
+          "averageLeadDays": 37.5,
           "buckets": [
             {
               "label": "0-1天",
@@ -2029,8 +2057,8 @@
             },
             {
               "label": "2-3天",
-              "percent": 0,
-              "orders": 0
+              "percent": 4.5,
+              "orders": 1
             },
             {
               "label": "4-7天",
@@ -2039,30 +2067,30 @@
             },
             {
               "label": "8-14天",
-              "percent": 5,
+              "percent": 4.5,
               "orders": 1
             },
             {
               "label": "15-30天",
-              "percent": 15,
-              "orders": 3,
-              "rank": 3
+              "percent": 18.2,
+              "orders": 4,
+              "rank": 2
             },
             {
               "label": "31-45天",
-              "percent": 55,
+              "percent": 50,
               "orders": 11,
               "rank": 1
             },
             {
               "label": "46-60天",
-              "percent": 20,
+              "percent": 18.2,
               "orders": 4,
-              "rank": 2
+              "rank": 3
             },
             {
               "label": "61-75天",
-              "percent": 5,
+              "percent": 4.5,
               "orders": 1
             },
             {
@@ -2086,20 +2114,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 68.5,
+          "totalBookingRate": 71,
           "wholeHouseRate": 22.6,
-          "totalSales": 275340,
-          "adr": 3239,
-          "revpar": 2220,
-          "soldNights": 85,
+          "totalSales": 282140,
+          "adr": 3206,
+          "revpar": 2275,
+          "soldNights": 88,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "202四人房",
-              "bookingRate": 83.9,
-              "avgDailyRate": 3414,
-              "orderCount": 8.8,
-              "soldNights": 26,
+              "bookingRate": 87.1,
+              "avgDailyRate": 3354,
+              "orderCount": 9.8,
+              "soldNights": 27,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 3 筆"
@@ -2116,10 +2144,10 @@
             },
             {
               "roomType": "201雙人房",
-              "bookingRate": 61.3,
-              "avgDailyRate": 3141,
-              "orderCount": 6.3,
-              "soldNights": 19,
+              "bookingRate": 67.7,
+              "avgDailyRate": 3080,
+              "orderCount": 7.3,
+              "soldNights": 21,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 3 筆"
