@@ -1,0 +1,250 @@
+{
+  "hotelId": "7480",
+  "hotelName": "",
+  "rangeStr": "2026-07-03~2026-08-30",
+  "columns": [
+    "訂單日期",
+    "訂單編號",
+    "入住日期",
+    "退房日期",
+    "姓名",
+    "房型",
+    "專案名稱",
+    "訂單款項",
+    "已收金額",
+    "剩餘尾款",
+    "UUID",
+    "電話"
+  ],
+  "rows": [
+    {
+      "訂單日期": "2026-07-01",
+      "訂單編號": "OBE73850748026070101",
+      "入住日期": "2026-07-03",
+      "退房日期": "2026-07-05",
+      "姓名": "",
+      "房型": "包棟包棟",
+      "專案名稱": "手動訂單",
+      "訂單款項": 4000,
+      "已收金額": 0,
+      "剩餘尾款": 4000,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-01",
+      "訂單編號": "OBE95310748026070102",
+      "入住日期": "2026-08-27",
+      "退房日期": "2026-08-30",
+      "姓名": "",
+      "房型": "包棟包棟",
+      "專案名稱": "手動訂單",
+      "訂單款項": 41400,
+      "已收金額": 0,
+      "剩餘尾款": 41400,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-03",
+      "訂單編號": "OBE48180748026070302",
+      "入住日期": "2026-07-06",
+      "退房日期": "2026-07-08",
+      "姓名": "",
+      "房型": "包棟包棟",
+      "專案名稱": "手動訂單",
+      "訂單款項": 25500,
+      "已收金額": 0,
+      "剩餘尾款": 25500,
+      "UUID": "",
+      "電話": ""
+    }
+  ],
+  "bookingCycleReport": {
+    "generatedAt": "2026-07-03T13:00:15.150Z",
+    "brand": {
+      "brandKey": "7480",
+      "hotelId": "7480",
+      "name": "7480",
+      "lastUpdated": "2026-07-03T13:00:15.150Z",
+      "months": [
+        {
+          "month": "2026-07",
+          "totalOrders": 2,
+          "averageLeadDays": 2.5,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 100,
+              "orders": 2,
+              "rank": 1
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 29500,
+          "adr": 7375,
+          "revpar": 0,
+          "soldNights": 0,
+          "capacityNights": 0,
+          "roomDetails": [
+            {
+              "roomType": "包棟包棟",
+              "bookingRate": 0,
+              "avgDailyRate": 7375,
+              "orderCount": 2,
+              "soldNights": 4,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            }
+          ],
+          "notes": [
+            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
+          ]
+        },
+        {
+          "month": "2026-08",
+          "totalOrders": 1,
+          "averageLeadDays": 57,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 100,
+              "orders": 1,
+              "rank": 1
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 41400,
+          "adr": 13800,
+          "revpar": 0,
+          "soldNights": 0,
+          "capacityNights": 0,
+          "roomDetails": [
+            {
+              "roomType": "包棟包棟",
+              "bookingRate": 0,
+              "avgDailyRate": 13800,
+              "orderCount": 1,
+              "soldNights": 3,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            }
+          ],
+          "notes": [
+            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
+          ]
+        }
+      ]
+    }
+  }
+}
