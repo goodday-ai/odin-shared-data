@@ -884,15 +884,29 @@
       "剩餘尾款": 19171,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-04",
+      "訂單編號": "OBE06660632326070401",
+      "入住日期": "2026-09-25",
+      "退房日期": "2026-09-28",
+      "姓名": "",
+      "房型": "弎居胡同",
+      "專案名稱": "Agoda",
+      "訂單款項": 48166.14,
+      "已收金額": 48166.14,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-03T15:22:53.454Z",
+    "generatedAt": "2026-07-04T05:55:20.446Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-07-03T15:22:53.454Z",
+      "lastUpdated": "2026-07-04T05:55:20.446Z",
       "months": [
         {
           "month": "2026-01",
@@ -1872,8 +1886,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 1,
-          "averageLeadDays": 119,
+          "totalOrders": 2,
+          "averageLeadDays": 101,
           "buckets": [
             {
               "label": "0-1天",
@@ -1917,8 +1931,9 @@
             },
             {
               "label": "76-90天",
-              "percent": 0,
-              "orders": 0
+              "percent": 50,
+              "orders": 1,
+              "rank": 1
             },
             {
               "label": "91-105天",
@@ -1927,9 +1942,9 @@
             },
             {
               "label": "106-136天",
-              "percent": 100,
+              "percent": 50,
               "orders": 1,
-              "rank": 1
+              "rank": 2
             },
             {
               "label": "137天以上",
@@ -1937,50 +1952,50 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 6.7,
-          "wholeHouseRate": 6.7,
-          "totalSales": 22966,
-          "adr": 3828,
-          "revpar": 255,
-          "soldNights": 6,
+          "totalBookingRate": 16.7,
+          "wholeHouseRate": 16.7,
+          "totalSales": 71132,
+          "adr": 4742,
+          "revpar": 790,
+          "soldNights": 15,
           "capacityNights": 90,
           "roomDetails": [
             {
               "roomType": "201四人房",
-              "bookingRate": 6.7,
-              "avgDailyRate": 3828,
-              "orderCount": 1,
-              "soldNights": 2,
+              "bookingRate": 16.7,
+              "avgDailyRate": 4742,
+              "orderCount": 2,
+              "soldNights": 5,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
-              "wholeHouseImpact": "含包棟展開 1 筆"
+              "wholeHouseImpact": "含包棟展開 2 筆"
             },
             {
               "roomType": "202四人房",
-              "bookingRate": 6.7,
-              "avgDailyRate": 3828,
-              "orderCount": 1,
-              "soldNights": 2,
+              "bookingRate": 16.7,
+              "avgDailyRate": 4742,
+              "orderCount": 2,
+              "soldNights": 5,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
-              "wholeHouseImpact": "含包棟展開 1 筆"
+              "wholeHouseImpact": "含包棟展開 2 筆"
             },
             {
               "roomType": "301雙人房",
-              "bookingRate": 6.7,
-              "avgDailyRate": 3828,
-              "orderCount": 1,
-              "soldNights": 2,
+              "bookingRate": 16.7,
+              "avgDailyRate": 4742,
+              "orderCount": 2,
+              "soldNights": 5,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
-              "wholeHouseImpact": "含包棟展開 1 筆"
+              "wholeHouseImpact": "含包棟展開 2 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 6.7,
-              "avgDailyRate": 11483,
-              "orderCount": 1,
-              "soldNights": 2,
+              "bookingRate": 16.7,
+              "avgDailyRate": 14226,
+              "orderCount": 2,
+              "soldNights": 5,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             }
