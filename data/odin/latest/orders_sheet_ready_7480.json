@@ -1,7 +1,7 @@
 {
   "hotelId": "7480",
   "hotelName": "晴井包棟民宿",
-  "rangeStr": "2026-07-03~2026-09-19",
+  "rangeStr": "2026-07-03~2026-09-28",
   "columns": [
     "訂單日期",
     "訂單編號",
@@ -72,15 +72,29 @@
       "剩餘尾款": 14000,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-11",
+      "訂單編號": "OBE57260748026071101",
+      "入住日期": "2026-09-25",
+      "退房日期": "2026-09-28",
+      "姓名": "",
+      "房型": "包棟",
+      "專案名稱": "Booking",
+      "訂單款項": 45900,
+      "已收金額": 0,
+      "剩餘尾款": 45900,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-11T05:24:45.182Z",
+    "generatedAt": "2026-07-11T14:28:47.439Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-07-11T05:24:45.182Z",
+      "lastUpdated": "2026-07-11T14:28:47.439Z",
       "months": [
         {
           "month": "2026-07",
@@ -260,8 +274,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 1,
-          "averageLeadDays": 75,
+          "totalOrders": 2,
+          "averageLeadDays": 75.5,
           "buckets": [
             {
               "label": "0-1天",
@@ -300,14 +314,15 @@
             },
             {
               "label": "61-75天",
-              "percent": 100,
+              "percent": 50,
               "orders": 1,
               "rank": 1
             },
             {
               "label": "76-90天",
-              "percent": 0,
-              "orders": 0
+              "percent": 50,
+              "orders": 1,
+              "rank": 2
             },
             {
               "label": "91-105天",
@@ -326,8 +341,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 28000,
-          "adr": 14000,
+          "totalSales": 73900,
+          "adr": 14780,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -335,9 +350,9 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 14000,
-              "orderCount": 1,
-              "soldNights": 2,
+              "avgDailyRate": 14780,
+              "orderCount": 2,
+              "soldNights": 5,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
