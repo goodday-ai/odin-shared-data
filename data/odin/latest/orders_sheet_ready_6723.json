@@ -3785,20 +3785,6 @@
     },
     {
       "訂單日期": "2026-07-10",
-      "訂單編號": "OBE47390672326071004",
-      "入住日期": "2026-08-27",
-      "退房日期": "2026-08-29",
-      "姓名": "",
-      "房型": "2F",
-      "專案名稱": "Agoda",
-      "訂單款項": 12476.28,
-      "已收金額": 12476.28,
-      "剩餘尾款": 0,
-      "UUID": "",
-      "電話": ""
-    },
-    {
-      "訂單日期": "2026-07-10",
       "訂單編號": "OBE65450672326071005",
       "入住日期": "2026-08-29",
       "退房日期": "2026-08-31",
@@ -3838,15 +3824,29 @@
       "剩餘尾款": 10334,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-12",
+      "訂單編號": "OBE76460672326071201",
+      "入住日期": "2026-08-26",
+      "退房日期": "2026-08-28",
+      "姓名": "",
+      "房型": "2F",
+      "專案名稱": "Agoda",
+      "訂單款項": 11770.87,
+      "已收金額": 11770.87,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-11T14:26:45.412Z",
+    "generatedAt": "2026-07-12T05:38:20.363Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-07-11T14:26:45.412Z",
+      "lastUpdated": "2026-07-12T05:38:20.363Z",
       "months": [
         {
           "month": "2026-01",
@@ -4742,7 +4742,7 @@
         {
           "month": "2026-08",
           "totalOrders": 33,
-          "averageLeadDays": 69.2,
+          "averageLeadDays": 69.1,
           "buckets": [
             {
               "label": "0-1天",
@@ -4771,14 +4771,14 @@
             },
             {
               "label": "31-45天",
-              "percent": 18.2,
-              "orders": 6,
+              "percent": 21.2,
+              "orders": 7,
               "rank": 3
             },
             {
               "label": "46-60天",
-              "percent": 42.4,
-              "orders": 14,
+              "percent": 39.4,
+              "orders": 13,
               "rank": 1
             },
             {
@@ -4810,16 +4810,16 @@
           ],
           "totalBookingRate": 58.1,
           "wholeHouseRate": 0,
-          "totalSales": 530306,
-          "adr": 7365,
-          "revpar": 4277,
+          "totalSales": 529601,
+          "adr": 7356,
+          "revpar": 4271,
           "soldNights": 72,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "2F",
               "bookingRate": 80.6,
-              "avgDailyRate": 7054,
+              "avgDailyRate": 7026,
               "orderCount": 13,
               "soldNights": 25,
               "capacityNights": 31,
