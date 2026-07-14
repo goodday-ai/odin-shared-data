@@ -4,11 +4,11 @@
   "tenant": "hs261",
   "hotelId": "6537",
   "displayName": "好思民宿",
-  "rangeStart": "2026-07-13",
-  "rangeEnd": "2026-11-09",
+  "rangeStart": "2026-07-14",
+  "rangeEnd": "2026-11-10",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-07-13T23:52:23.800Z",
+  "capturedAt": "2026-07-14T13:30:26.676Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-07-13",
-      "salesUnitId": "31484",
-      "salesUnitName": "雙人房",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 8000,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-07-13",
-      "salesUnitId": "31486",
-      "salesUnitName": "包棟",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 7200,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-07-14",
       "salesUnitId": "31484",
@@ -3377,6 +3349,34 @@
     },
     {
       "date": "2026-11-09",
+      "salesUnitId": "31486",
+      "salesUnitName": "包棟",
+      "planId": "35980",
+      "planName": "官網限定優惠",
+      "price": 8000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-10",
+      "salesUnitId": "31484",
+      "salesUnitName": "雙人房",
+      "planId": "35980",
+      "planName": "官網限定優惠",
+      "price": 8000,
+      "currency": "TWD",
+      "inventory": 2,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-10",
       "salesUnitId": "31486",
       "salesUnitName": "包棟",
       "planId": "35980",
