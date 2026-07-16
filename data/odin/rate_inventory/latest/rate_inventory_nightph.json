@@ -4,11 +4,11 @@
   "tenant": "nightph",
   "hotelId": "6454",
   "displayName": "伊莉莎白甜夜",
-  "rangeStart": "2026-07-14",
-  "rangeEnd": "2026-11-10",
+  "rangeStart": "2026-07-16",
+  "rangeEnd": "2026-11-12",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-07-14T13:30:03.120Z",
+  "capturedAt": "2026-07-16T23:56:26.051Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -28,34 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-07-14",
-      "salesUnitId": "31168",
-      "salesUnitName": "包棟",
-      "planId": "35157",
-      "planName": "官網專案",
-      "price": 12500,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-07-15",
-      "salesUnitId": "31168",
-      "salesUnitName": "包棟",
-      "planId": "35157",
-      "planName": "官網專案",
-      "price": 14500,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-07-16",
       "salesUnitId": "31168",
@@ -1696,6 +1668,34 @@
     },
     {
       "date": "2026-11-10",
+      "salesUnitId": "31168",
+      "salesUnitName": "包棟",
+      "planId": "35157",
+      "planName": "官網專案",
+      "price": 99999,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-11",
+      "salesUnitId": "31168",
+      "salesUnitName": "包棟",
+      "planId": "35157",
+      "planName": "官網專案",
+      "price": 99999,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-12",
       "salesUnitId": "31168",
       "salesUnitName": "包棟",
       "planId": "35157",
