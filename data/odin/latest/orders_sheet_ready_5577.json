@@ -9056,8 +9056,8 @@
       "房型": "高級雙人房｜高級雙人房｜高級雙人房",
       "專案名稱": "一般訂房｜標準價格",
       "訂單款項": "13200",
-      "已收金額": "0",
-      "剩餘尾款": "13200",
+      "已收金額": "13200",
+      "剩餘尾款": "0",
       "UUID": "",
       "電話": ""
     },
@@ -9958,6 +9958,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-07-17",
+      "訂單編號": "101219",
+      "入住日期": "2026-07-29",
+      "退房日期": "2026-07-31",
+      "姓名": "",
+      "房型": "高級雙人房",
+      "專案名稱": "[Nabe] tripla2｜官網 高級雙人 連住專案(x)",
+      "訂單款項": "3600",
+      "已收金額": "3600",
+      "剩餘尾款": "0",
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-04-17",
       "訂單編號": "100662",
       "入住日期": "2026-07-31",
@@ -10476,6 +10490,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-07-17",
+      "訂單編號": "101218",
+      "入住日期": "2026-08-06",
+      "退房日期": "2026-08-08",
+      "姓名": "",
+      "房型": "高級家庭房",
+      "專案名稱": "[NABE] Booking｜Booking高級家庭房(不含早餐)",
+      "訂單款項": "8544",
+      "已收金額": "",
+      "剩餘尾款": "",
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-05-29",
       "訂單編號": "100951",
       "入住日期": "2026-08-07",
@@ -10723,6 +10751,20 @@
       "專案名稱": "[NABE] ezTravel｜EZ高級雙人房(不含早餐)",
       "訂單款項": "4463",
       "已收金額": "4463",
+      "剩餘尾款": "0",
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-16",
+      "訂單編號": "101217",
+      "入住日期": "2026-08-10",
+      "退房日期": "2026-08-12",
+      "姓名": "",
+      "房型": "豪華雙人房",
+      "專案名稱": "[Nabe] tripla2｜官網 豪華雙人 連住專案(x)",
+      "訂單款項": "5100",
+      "已收金額": "5100",
       "剩餘尾款": "0",
       "UUID": "",
       "電話": ""
@@ -12311,12 +12353,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-16T15:03:43.416Z",
+    "generatedAt": "2026-07-17T09:35:42.838Z",
     "brand": {
       "brandKey": "superbhotel",
       "hotelId": "5577",
       "name": "今棧行旅",
-      "lastUpdated": "2026-07-16T15:03:43.416Z",
+      "lastUpdated": "2026-07-17T09:35:42.838Z",
       "months": [
         {
           "month": "2026-01",
@@ -13027,8 +13069,8 @@
         },
         {
           "month": "2026-07",
-          "totalOrders": 150,
-          "averageLeadDays": 50,
+          "totalOrders": 151,
+          "averageLeadDays": 49.7,
           "buckets": [
             {
               "label": "0-1天",
@@ -13047,45 +13089,45 @@
             },
             {
               "label": "8-14天",
-              "percent": 10,
-              "orders": 15
+              "percent": 10.6,
+              "orders": 16
             },
             {
               "label": "15-30天",
-              "percent": 18,
+              "percent": 17.9,
               "orders": 27,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 16,
+              "percent": 15.9,
               "orders": 24,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 15.3,
+              "percent": 15.2,
               "orders": 23,
               "rank": 3
             },
             {
               "label": "61-75天",
-              "percent": 10,
+              "percent": 9.9,
               "orders": 15
             },
             {
               "label": "76-90天",
-              "percent": 6.7,
+              "percent": 6.6,
               "orders": 10
             },
             {
               "label": "91-105天",
-              "percent": 12,
+              "percent": 11.9,
               "orders": 18
             },
             {
               "label": "106-136天",
-              "percent": 4.7,
+              "percent": 4.6,
               "orders": 7
             },
             {
@@ -13094,19 +13136,19 @@
               "orders": 1
             }
           ],
-          "totalBookingRate": 72.3,
-          "totalSales": 982095,
-          "adr": 2578,
-          "revpar": 1864,
-          "soldNights": 381,
+          "totalBookingRate": 72.7,
+          "totalSales": 985695,
+          "adr": 2574,
+          "revpar": 1870,
+          "soldNights": 383,
           "capacityNights": 527,
           "roomDetails": [
             {
               "roomType": "高級雙人房",
-              "bookingRate": 79,
-              "avgDailyRate": 2242,
-              "orderCount": 73.4,
-              "soldNights": 196,
+              "bookingRate": 79.8,
+              "avgDailyRate": 2238,
+              "orderCount": 74.4,
+              "soldNights": 198,
               "capacityNights": 248,
               "capacityText": "最大 8 間 × 31 天"
             },
@@ -13146,8 +13188,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 115,
-          "averageLeadDays": 66,
+          "totalOrders": 117,
+          "averageLeadDays": 65.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -13171,40 +13213,40 @@
             },
             {
               "label": "15-30天",
-              "percent": 8.7,
-              "orders": 10
+              "percent": 10.3,
+              "orders": 12
             },
             {
               "label": "31-45天",
-              "percent": 22.6,
+              "percent": 22.2,
               "orders": 26,
               "rank": 1
             },
             {
               "label": "46-60天",
-              "percent": 18.3,
+              "percent": 17.9,
               "orders": 21,
               "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 18.3,
+              "percent": 17.9,
               "orders": 21,
               "rank": 3
             },
             {
               "label": "76-90天",
-              "percent": 10.4,
+              "percent": 10.3,
               "orders": 12
             },
             {
               "label": "91-105天",
-              "percent": 7.8,
+              "percent": 7.7,
               "orders": 9
             },
             {
               "label": "106-136天",
-              "percent": 12.2,
+              "percent": 12,
               "orders": 14
             },
             {
@@ -13213,11 +13255,11 @@
               "orders": 2
             }
           ],
-          "totalBookingRate": 62,
-          "totalSales": 862334,
-          "adr": 2637,
-          "revpar": 1636,
-          "soldNights": 327,
+          "totalBookingRate": 62.8,
+          "totalSales": 875978,
+          "adr": 2646,
+          "revpar": 1662,
+          "soldNights": 331,
           "capacityNights": 527,
           "roomDetails": [
             {
@@ -13231,19 +13273,19 @@
             },
             {
               "roomType": "高級家庭房",
-              "bookingRate": 59.7,
-              "avgDailyRate": 3293,
-              "orderCount": 29.8,
-              "soldNights": 74,
+              "bookingRate": 61.3,
+              "avgDailyRate": 3319,
+              "orderCount": 30.8,
+              "soldNights": 76,
               "capacityNights": 124,
               "capacityText": "最大 4 間 × 31 天"
             },
             {
               "roomType": "豪華雙人房",
-              "bookingRate": 51.6,
-              "avgDailyRate": 2808,
-              "orderCount": 25.8,
-              "soldNights": 64,
+              "bookingRate": 53.2,
+              "avgDailyRate": 2800,
+              "orderCount": 26.8,
+              "soldNights": 66,
               "capacityNights": 124,
               "capacityText": "最大 4 間 × 31 天"
             },
