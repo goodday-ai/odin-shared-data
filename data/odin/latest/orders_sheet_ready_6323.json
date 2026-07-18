@@ -879,9 +879,9 @@
       "姓名": "",
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
-      "訂單款項": 19900,
-      "已收金額": 10000,
-      "剩餘尾款": 9900,
+      "訂單款項": 20900,
+      "已收金額": 20990,
+      "剩餘尾款": -90,
       "UUID": "",
       "電話": ""
     },
@@ -929,12 +929,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-18T05:06:16.284Z",
+    "generatedAt": "2026-07-18T14:24:18.725Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-07-18T05:06:16.284Z",
+      "lastUpdated": "2026-07-18T14:24:18.725Z",
       "months": [
         {
           "month": "2026-01",
@@ -1739,16 +1739,16 @@
           ],
           "totalBookingRate": 61.3,
           "wholeHouseRate": 61.3,
-          "totalSales": 257013,
-          "adr": 4509,
-          "revpar": 2764,
+          "totalSales": 258013,
+          "adr": 4527,
+          "revpar": 2774,
           "soldNights": 57,
           "capacityNights": 93,
           "roomDetails": [
             {
               "roomType": "201四人房",
               "bookingRate": 61.3,
-              "avgDailyRate": 4509,
+              "avgDailyRate": 4527,
               "orderCount": 10,
               "soldNights": 19,
               "capacityNights": 31,
@@ -1758,7 +1758,7 @@
             {
               "roomType": "202四人房",
               "bookingRate": 61.3,
-              "avgDailyRate": 4509,
+              "avgDailyRate": 4527,
               "orderCount": 10,
               "soldNights": 19,
               "capacityNights": 31,
@@ -1768,7 +1768,7 @@
             {
               "roomType": "301雙人房",
               "bookingRate": 61.3,
-              "avgDailyRate": 4509,
+              "avgDailyRate": 4527,
               "orderCount": 10,
               "soldNights": 19,
               "capacityNights": 31,
@@ -1778,7 +1778,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 61.3,
-              "avgDailyRate": 13527,
+              "avgDailyRate": 13580,
               "orderCount": 10,
               "soldNights": 19,
               "capacityNights": 31,
