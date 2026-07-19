@@ -1068,20 +1068,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-07-10",
-      "訂單編號": "OBE98850672126071001",
-      "入住日期": "2026-08-21",
-      "退房日期": "2026-08-22",
-      "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "官網專案",
-      "訂單款項": 25290,
-      "已收金額": 0,
-      "剩餘尾款": 25290,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-07-17",
       "訂單編號": "OBE61160672126071701",
       "入住日期": "2026-10-03",
@@ -1097,12 +1083,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-19T05:32:00.515Z",
+    "generatedAt": "2026-07-19T14:34:33.602Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-07-19T05:32:00.515Z",
+      "lastUpdated": "2026-07-19T14:34:33.602Z",
       "months": [
         {
           "month": "2025-12",
@@ -2141,8 +2127,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 11,
-          "averageLeadDays": 101.5,
+          "totalOrders": 10,
+          "averageLeadDays": 107.4,
           "buckets": [
             {
               "label": "0-1天",
@@ -2171,8 +2157,8 @@
             },
             {
               "label": "31-45天",
-              "percent": 9.1,
-              "orders": 1
+              "percent": 0,
+              "orders": 0
             },
             {
               "label": "46-60天",
@@ -2181,7 +2167,7 @@
             },
             {
               "label": "61-75天",
-              "percent": 18.2,
+              "percent": 20,
               "orders": 2,
               "rank": 3
             },
@@ -2192,58 +2178,58 @@
             },
             {
               "label": "91-105天",
-              "percent": 27.3,
+              "percent": 30,
               "orders": 3,
               "rank": 1
             },
             {
               "label": "106-136天",
-              "percent": 27.3,
+              "percent": 30,
               "orders": 3,
               "rank": 2
             },
             {
               "label": "137天以上",
-              "percent": 18.2,
+              "percent": 20,
               "orders": 2
             }
           ],
-          "totalBookingRate": 71,
-          "wholeHouseRate": 71,
-          "totalSales": 305591,
-          "adr": 2778,
-          "revpar": 1972,
-          "soldNights": 110,
+          "totalBookingRate": 67.7,
+          "wholeHouseRate": 67.7,
+          "totalSales": 280301,
+          "adr": 2670,
+          "revpar": 1808,
+          "soldNights": 105,
           "capacityNights": 155,
           "roomDetails": [
             {
               "roomType": "四人房",
-              "bookingRate": 71,
-              "avgDailyRate": 2778,
-              "orderCount": 12,
-              "soldNights": 88,
+              "bookingRate": 67.7,
+              "avgDailyRate": 2670,
+              "orderCount": 11,
+              "soldNights": 84,
               "capacityNights": 124,
               "capacityText": "最大 4 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 12 筆"
+              "wholeHouseImpact": "含包棟展開 11 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 71,
-              "avgDailyRate": 13891,
-              "orderCount": 12,
-              "soldNights": 22,
+              "bookingRate": 67.7,
+              "avgDailyRate": 13348,
+              "orderCount": 11,
+              "soldNights": 21,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             },
             {
               "roomType": "雙人房",
-              "bookingRate": 71,
-              "avgDailyRate": 2778,
-              "orderCount": 12,
-              "soldNights": 22,
+              "bookingRate": 67.7,
+              "avgDailyRate": 2670,
+              "orderCount": 11,
+              "soldNights": 21,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 12 筆"
+              "wholeHouseImpact": "含包棟展開 11 筆"
             },
             {
               "roomType": "2F",
