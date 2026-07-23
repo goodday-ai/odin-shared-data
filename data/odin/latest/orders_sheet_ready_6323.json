@@ -494,20 +494,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-04-07",
-      "訂單編號": "OBE93370632326040701",
-      "入住日期": "2026-08-03",
-      "退房日期": "2026-08-06",
-      "姓名": "",
-      "房型": "弎居胡同",
-      "專案名稱": "Agoda",
-      "訂單款項": 34850.1,
-      "已收金額": 34850.1,
-      "剩餘尾款": 0,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-04-08",
       "訂單編號": "OBE57840632326040803",
       "入住日期": "2026-06-04",
@@ -929,12 +915,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-23T05:34:31.764Z",
+    "generatedAt": "2026-07-23T15:21:56.498Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-07-23T05:34:31.764Z",
+      "lastUpdated": "2026-07-23T15:21:56.498Z",
       "months": [
         {
           "month": "2026-01",
@@ -1792,8 +1778,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 8,
-          "averageLeadDays": 77.8,
+          "totalOrders": 7,
+          "averageLeadDays": 72,
           "buckets": [
             {
               "label": "0-1天",
@@ -1817,7 +1803,7 @@
             },
             {
               "label": "15-30天",
-              "percent": 12.5,
+              "percent": 14.3,
               "orders": 1,
               "rank": 3
             },
@@ -1828,13 +1814,13 @@
             },
             {
               "label": "46-60天",
-              "percent": 25,
+              "percent": 28.6,
               "orders": 2,
-              "rank": 2
+              "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 12.5,
+              "percent": 14.3,
               "orders": 1
             },
             {
@@ -1844,14 +1830,14 @@
             },
             {
               "label": "91-105天",
-              "percent": 12.5,
+              "percent": 14.3,
               "orders": 1
             },
             {
               "label": "106-136天",
-              "percent": 37.5,
-              "orders": 3,
-              "rank": 1
+              "percent": 28.6,
+              "orders": 2,
+              "rank": 2
             },
             {
               "label": "137天以上",
@@ -1859,50 +1845,50 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 64.5,
-          "wholeHouseRate": 64.5,
-          "totalSales": 273382,
-          "adr": 4556,
-          "revpar": 2940,
-          "soldNights": 60,
+          "totalBookingRate": 54.8,
+          "wholeHouseRate": 54.8,
+          "totalSales": 238532,
+          "adr": 4677,
+          "revpar": 2565,
+          "soldNights": 51,
           "capacityNights": 93,
           "roomDetails": [
             {
               "roomType": "201四人房",
-              "bookingRate": 64.5,
-              "avgDailyRate": 4556,
-              "orderCount": 9,
-              "soldNights": 20,
+              "bookingRate": 54.8,
+              "avgDailyRate": 4677,
+              "orderCount": 8,
+              "soldNights": 17,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 9 筆"
+              "wholeHouseImpact": "含包棟展開 8 筆"
             },
             {
               "roomType": "202四人房",
-              "bookingRate": 64.5,
-              "avgDailyRate": 4556,
-              "orderCount": 9,
-              "soldNights": 20,
+              "bookingRate": 54.8,
+              "avgDailyRate": 4677,
+              "orderCount": 8,
+              "soldNights": 17,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 9 筆"
+              "wholeHouseImpact": "含包棟展開 8 筆"
             },
             {
               "roomType": "301雙人房",
-              "bookingRate": 64.5,
-              "avgDailyRate": 4556,
-              "orderCount": 9,
-              "soldNights": 20,
+              "bookingRate": 54.8,
+              "avgDailyRate": 4677,
+              "orderCount": 8,
+              "soldNights": 17,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 9 筆"
+              "wholeHouseImpact": "含包棟展開 8 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 64.5,
-              "avgDailyRate": 13669,
-              "orderCount": 9,
-              "soldNights": 20,
+              "bookingRate": 54.8,
+              "avgDailyRate": 14031,
+              "orderCount": 8,
+              "soldNights": 17,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
