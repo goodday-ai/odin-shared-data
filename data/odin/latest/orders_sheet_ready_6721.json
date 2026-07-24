@@ -1096,27 +1096,27 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-07-21",
-      "訂單編號": "OBE47640672126072101",
-      "入住日期": "2026-09-20",
-      "退房日期": "2026-09-22",
+      "訂單日期": "2026-07-24",
+      "訂單編號": "OBE96870672126072401",
+      "入住日期": "2026-09-19",
+      "退房日期": "2026-09-21",
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 25670,
+      "訂單款項": 27200,
       "已收金額": 0,
-      "剩餘尾款": 25670,
+      "剩餘尾款": 27200,
       "UUID": "",
       "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-24T05:30:21.940Z",
+    "generatedAt": "2026-07-24T15:04:48.498Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-07-24T05:30:21.940Z",
+      "lastUpdated": "2026-07-24T15:04:48.498Z",
       "months": [
         {
           "month": "2025-12",
@@ -2286,7 +2286,7 @@
         {
           "month": "2026-09",
           "totalOrders": 7,
-          "averageLeadDays": 104.6,
+          "averageLeadDays": 104,
           "buckets": [
             {
               "label": "0-1天",
@@ -2320,14 +2320,14 @@
             },
             {
               "label": "46-60天",
-              "percent": 0,
-              "orders": 0
-            },
-            {
-              "label": "61-75天",
               "percent": 14.3,
               "orders": 1,
               "rank": 2
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
             },
             {
               "label": "76-90天",
@@ -2354,16 +2354,16 @@
           ],
           "totalBookingRate": 66.7,
           "wholeHouseRate": 66.7,
-          "totalSales": 331624,
-          "adr": 3316,
-          "revpar": 2211,
+          "totalSales": 333154,
+          "adr": 3332,
+          "revpar": 2221,
           "soldNights": 100,
           "capacityNights": 150,
           "roomDetails": [
             {
               "roomType": "四人房",
               "bookingRate": 66.7,
-              "avgDailyRate": 3316,
+              "avgDailyRate": 3332,
               "orderCount": 8,
               "soldNights": 80,
               "capacityNights": 120,
@@ -2373,7 +2373,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 66.7,
-              "avgDailyRate": 16581,
+              "avgDailyRate": 16658,
               "orderCount": 8,
               "soldNights": 20,
               "capacityNights": 30,
@@ -2382,7 +2382,7 @@
             {
               "roomType": "雙人房",
               "bookingRate": 66.7,
-              "avgDailyRate": 3316,
+              "avgDailyRate": 3332,
               "orderCount": 8,
               "soldNights": 20,
               "capacityNights": 30,
