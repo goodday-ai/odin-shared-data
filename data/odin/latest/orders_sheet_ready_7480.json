@@ -123,9 +123,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 42230,
+      "訂單款項": 0,
       "已收金額": 0,
-      "剩餘尾款": 42230,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -201,12 +201,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-27T06:02:22.391Z",
+    "generatedAt": "2026-07-27T15:53:27.176Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-07-27T06:02:22.391Z",
+      "lastUpdated": "2026-07-27T15:53:27.176Z",
       "months": [
         {
           "month": "2026-07",
@@ -278,8 +278,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 138245,
-          "adr": 10634,
+          "totalSales": 96015,
+          "adr": 7386,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -287,7 +287,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 10634,
+              "avgDailyRate": 7386,
               "orderCount": 6,
               "soldNights": 13,
               "capacityNights": 0,
@@ -295,7 +295,8 @@
             }
           ],
           "notes": [
-            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
+            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。",
+            "部分訂單缺少訂單款項，銷售額、ADR 與 RevPAR 只反映已提供金額的資料。"
           ]
         },
         {
