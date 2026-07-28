@@ -6109,20 +6109,6 @@
     },
     {
       "訂單日期": "2026-07-27",
-      "訂單編號": "OBE12650581626072701",
-      "入住日期": "2026-09-24",
-      "退房日期": "2026-09-25",
-      "姓名": "",
-      "房型": "M1",
-      "專案名稱": "OTA串接專案",
-      "訂單款項": 1388,
-      "已收金額": 0,
-      "剩餘尾款": 1388,
-      "UUID": "",
-      "電話": ""
-    },
-    {
-      "訂單日期": "2026-07-27",
       "訂單編號": "OBE99730581626072702",
       "入住日期": "2026-09-26",
       "退房日期": "2026-09-29",
@@ -6190,15 +6176,29 @@
       "剩餘尾款": 2262,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-28",
+      "訂單編號": "OBE12630581626072707",
+      "入住日期": "2026-09-27",
+      "退房日期": "2026-09-29",
+      "姓名": "",
+      "房型": "1",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 3234,
+      "已收金額": 0,
+      "剩餘尾款": 3234,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-27T15:51:30.296Z",
+    "generatedAt": "2026-07-28T05:25:46.243Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-07-27T15:51:30.296Z",
+      "lastUpdated": "2026-07-28T05:25:46.243Z",
       "months": [
         {
           "month": "2026-01",
@@ -7748,13 +7748,13 @@
             },
             {
               "label": "46-60天",
-              "percent": 15.2,
-              "orders": 7
+              "percent": 13,
+              "orders": 6
             },
             {
               "label": "61-75天",
-              "percent": 17.4,
-              "orders": 8,
+              "percent": 19.6,
+              "orders": 9,
               "rank": 2
             },
             {
@@ -7780,19 +7780,19 @@
               "orders": 4
             }
           ],
-          "totalBookingRate": 57.7,
+          "totalBookingRate": 57.3,
           "wholeHouseRate": 6.7,
-          "totalSales": 270312,
-          "adr": 1352,
-          "revpar": 901,
-          "soldNights": 173,
+          "totalSales": 272158,
+          "adr": 1361,
+          "revpar": 907,
+          "soldNights": 172,
           "capacityNights": 300,
           "roomDetails": [
             {
               "roomType": "1雙人房",
               "bookingRate": 100,
-              "avgDailyRate": 1067,
-              "orderCount": 15.2,
+              "avgDailyRate": 1092,
+              "orderCount": 15.7,
               "soldNights": 30,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
@@ -7809,21 +7809,21 @@
               "wholeHouseImpact": "含包棟展開 1 筆"
             },
             {
-              "roomType": "M1雙人房",
+              "roomType": "M2大雙人房",
               "bookingRate": 60,
-              "avgDailyRate": 1145,
-              "orderCount": 3.9,
+              "avgDailyRate": 1703,
+              "orderCount": 6.5,
               "soldNights": 18,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 1 筆"
             },
             {
-              "roomType": "M2大雙人房",
-              "bookingRate": 60,
-              "avgDailyRate": 1703,
-              "orderCount": 6.5,
-              "soldNights": 18,
+              "roomType": "M1雙人房",
+              "bookingRate": 56.7,
+              "avgDailyRate": 1171,
+              "orderCount": 3.4,
+              "soldNights": 17,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 1 筆"
