@@ -1150,15 +1150,29 @@
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-07-31",
+      "訂單編號": "OBE16840672126073102",
+      "入住日期": "2026-08-18",
+      "退房日期": "2026-08-19",
+      "姓名": "",
+      "房型": "包棟",
+      "專案名稱": "Booking",
+      "訂單款項": 15744,
+      "已收金額": 0,
+      "剩餘尾款": 15744,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-07-31T05:45:34.970Z",
+    "generatedAt": "2026-07-31T13:49:34.191Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-07-31T05:45:34.970Z",
+      "lastUpdated": "2026-07-31T13:49:34.191Z",
       "months": [
         {
           "month": "2025-12",
@@ -2197,8 +2211,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 12,
-          "averageLeadDays": 93.9,
+          "totalOrders": 13,
+          "averageLeadDays": 88.1,
           "buckets": [
             {
               "label": "0-1天",
@@ -2222,12 +2236,13 @@
             },
             {
               "label": "15-30天",
-              "percent": 8.3,
-              "orders": 1
+              "percent": 15.4,
+              "orders": 2,
+              "rank": 3
             },
             {
               "label": "31-45天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
@@ -2237,9 +2252,8 @@
             },
             {
               "label": "61-75天",
-              "percent": 16.7,
-              "orders": 2,
-              "rank": 3
+              "percent": 15.4,
+              "orders": 2
             },
             {
               "label": "76-90天",
@@ -2248,58 +2262,58 @@
             },
             {
               "label": "91-105天",
-              "percent": 25,
+              "percent": 23.1,
               "orders": 3,
               "rank": 1
             },
             {
               "label": "106-136天",
-              "percent": 25,
+              "percent": 23.1,
               "orders": 3,
               "rank": 2
             },
             {
               "label": "137天以上",
-              "percent": 16.7,
+              "percent": 15.4,
               "orders": 2
             }
           ],
-          "totalBookingRate": 74.2,
-          "wholeHouseRate": 74.2,
-          "totalSales": 307694,
-          "adr": 2676,
-          "revpar": 1985,
-          "soldNights": 115,
+          "totalBookingRate": 77.4,
+          "wholeHouseRate": 77.4,
+          "totalSales": 323438,
+          "adr": 2695,
+          "revpar": 2087,
+          "soldNights": 120,
           "capacityNights": 155,
           "roomDetails": [
             {
               "roomType": "四人房",
-              "bookingRate": 74.2,
-              "avgDailyRate": 2676,
-              "orderCount": 13,
-              "soldNights": 92,
+              "bookingRate": 77.4,
+              "avgDailyRate": 2695,
+              "orderCount": 14,
+              "soldNights": 96,
               "capacityNights": 124,
               "capacityText": "最大 4 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 13 筆"
+              "wholeHouseImpact": "含包棟展開 14 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 74.2,
-              "avgDailyRate": 13378,
-              "orderCount": 13,
-              "soldNights": 23,
+              "bookingRate": 77.4,
+              "avgDailyRate": 13477,
+              "orderCount": 14,
+              "soldNights": 24,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             },
             {
               "roomType": "雙人房",
-              "bookingRate": 74.2,
-              "avgDailyRate": 2676,
-              "orderCount": 13,
-              "soldNights": 23,
+              "bookingRate": 77.4,
+              "avgDailyRate": 2695,
+              "orderCount": 14,
+              "soldNights": 24,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 13 筆"
+              "wholeHouseImpact": "含包棟展開 14 筆"
             },
             {
               "roomType": "2F",
