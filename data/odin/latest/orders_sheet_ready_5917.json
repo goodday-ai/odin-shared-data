@@ -1047,9 +1047,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 28000,
+      "訂單款項": 27200,
       "已收金額": 0,
-      "剩餘尾款": 28000,
+      "剩餘尾款": 27200,
       "UUID": "",
       "電話": ""
     },
@@ -1180,20 +1180,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-07-24",
-      "訂單編號": "OBE90140591726072401",
-      "入住日期": "2026-09-25",
-      "退房日期": "2026-09-28",
-      "姓名": "",
-      "房型": "灰色302｜粉色201",
-      "專案名稱": "Booking",
-      "訂單款項": 20640,
-      "已收金額": 0,
-      "剩餘尾款": 20640,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-07-28",
       "訂單編號": "OBE20400591726072801",
       "入住日期": "2026-08-12",
@@ -1216,8 +1202,8 @@
       "房型": "藍色202",
       "專案名稱": "官網專案",
       "訂單款項": 7680,
-      "已收金額": 0,
-      "剩餘尾款": 7680,
+      "已收金額": 7680,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1265,12 +1251,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-02T03:19:20.041Z",
+    "generatedAt": "2026-08-02T13:46:14.911Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-08-02T03:19:20.041Z",
+      "lastUpdated": "2026-08-02T13:46:14.911Z",
       "months": [
         {
           "month": "2025-12",
@@ -2375,16 +2361,16 @@
           ],
           "totalBookingRate": 58.9,
           "wholeHouseRate": 48.4,
-          "totalSales": 228540,
-          "adr": 3131,
-          "revpar": 1843,
+          "totalSales": 227740,
+          "adr": 3120,
+          "revpar": 1837,
           "soldNights": 73,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "202四人房",
               "bookingRate": 74.2,
-              "avgDailyRate": 3365,
+              "avgDailyRate": 3356,
               "orderCount": 9.5,
               "soldNights": 23,
               "capacityNights": 31,
@@ -2394,7 +2380,7 @@
             {
               "roomType": "301雙人房",
               "bookingRate": 58.1,
-              "avgDailyRate": 2956,
+              "avgDailyRate": 2945,
               "orderCount": 8,
               "soldNights": 18,
               "capacityNights": 31,
@@ -2404,7 +2390,7 @@
             {
               "roomType": "201雙人房",
               "bookingRate": 54.8,
-              "avgDailyRate": 3084,
+              "avgDailyRate": 3072,
               "orderCount": 7.5,
               "soldNights": 17,
               "capacityNights": 31,
@@ -2414,7 +2400,7 @@
             {
               "roomType": "302四人房",
               "bookingRate": 48.4,
-              "avgDailyRate": 3035,
+              "avgDailyRate": 3022,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
@@ -2424,7 +2410,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 48.4,
-              "avgDailyRate": 12140,
+              "avgDailyRate": 12087,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
@@ -2439,8 +2425,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 6,
-          "averageLeadDays": 84.5,
+          "totalOrders": 5,
+          "averageLeadDays": 88.8,
           "buckets": [
             {
               "label": "0-1天",
@@ -2474,15 +2460,15 @@
             },
             {
               "label": "46-60天",
-              "percent": 16.7,
+              "percent": 20,
               "orders": 1,
-              "rank": 3
+              "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 33.3,
-              "orders": 2,
-              "rank": 1
+              "percent": 20,
+              "orders": 1,
+              "rank": 3
             },
             {
               "label": "76-90天",
@@ -2491,9 +2477,9 @@
             },
             {
               "label": "91-105天",
-              "percent": 33.3,
+              "percent": 40,
               "orders": 2,
-              "rank": 2
+              "rank": 1
             },
             {
               "label": "106-136天",
@@ -2502,27 +2488,18 @@
             },
             {
               "label": "137天以上",
-              "percent": 16.7,
+              "percent": 20,
               "orders": 1
             }
           ],
-          "totalBookingRate": 14.2,
+          "totalBookingRate": 9.2,
           "wholeHouseRate": 0,
-          "totalSales": 58780,
-          "adr": 3458,
-          "revpar": 490,
-          "soldNights": 17,
+          "totalSales": 38140,
+          "adr": 3467,
+          "revpar": 318,
+          "soldNights": 11,
           "capacityNights": 120,
           "roomDetails": [
-            {
-              "roomType": "201雙人房",
-              "bookingRate": 23.3,
-              "avgDailyRate": 3046,
-              "orderCount": 2.5,
-              "soldNights": 7,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
-            },
             {
               "roomType": "202四人房",
               "bookingRate": 16.7,
@@ -2533,11 +2510,20 @@
               "capacityText": "最大 1 間 × 30 天"
             },
             {
+              "roomType": "201雙人房",
+              "bookingRate": 13.3,
+              "avgDailyRate": 2750,
+              "orderCount": 2,
+              "soldNights": 4,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
               "roomType": "302四人房",
-              "bookingRate": 16.7,
-              "avgDailyRate": 3536,
-              "orderCount": 1.5,
-              "soldNights": 5,
+              "bookingRate": 6.7,
+              "avgDailyRate": 3680,
+              "orderCount": 1,
+              "soldNights": 2,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -2560,9 +2546,7 @@
               "capacityText": "最大 1 組包棟 × 30 天"
             }
           ],
-          "notes": [
-            "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。"
-          ]
+          "notes": []
         },
         {
           "month": "2026-10",
