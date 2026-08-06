@@ -403,9 +403,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "獨享包棟",
-      "訂單款項": 34000,
-      "已收金額": 17000,
-      "剩餘尾款": 17000,
+      "訂單款項": 45000,
+      "已收金額": 45000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -558,8 +558,8 @@
       "房型": "包棟",
       "專案名稱": "獨享包棟",
       "訂單款項": 35000,
-      "已收金額": 17000,
-      "剩餘尾款": 18000,
+      "已收金額": 35000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -712,8 +712,8 @@
       "房型": "3F",
       "專案名稱": "Booking 3F",
       "訂單款項": 26957,
-      "已收金額": 13000,
-      "剩餘尾款": 13957,
+      "已收金額": 26957,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -817,12 +817,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-05T03:18:25.040Z",
+    "generatedAt": "2026-08-06T03:18:36.162Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-08-05T03:18:25.040Z",
+      "lastUpdated": "2026-08-06T03:18:36.162Z",
       "months": [
         {
           "month": "2026-02",
@@ -1558,16 +1558,16 @@
           ],
           "totalBookingRate": 51.6,
           "wholeHouseRate": 48.4,
-          "totalSales": 306957,
-          "adr": 9592,
-          "revpar": 4951,
+          "totalSales": 317957,
+          "adr": 9936,
+          "revpar": 5128,
           "soldNights": 32,
           "capacityNights": 62,
           "roomDetails": [
             {
               "roomType": "3F",
               "bookingRate": 54.8,
-              "avgDailyRate": 9821,
+              "avgDailyRate": 10145,
               "orderCount": 8,
               "soldNights": 17,
               "capacityNights": 31,
@@ -1577,7 +1577,7 @@
             {
               "roomType": "2F",
               "bookingRate": 48.4,
-              "avgDailyRate": 9333,
+              "avgDailyRate": 9700,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
@@ -1587,7 +1587,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 48.4,
-              "avgDailyRate": 18667,
+              "avgDailyRate": 19400,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
