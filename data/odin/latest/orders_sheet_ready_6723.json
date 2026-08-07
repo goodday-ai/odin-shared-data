@@ -4244,15 +4244,57 @@
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-06",
+      "訂單編號": "OBE51480672326080602",
+      "入住日期": "2026-09-04",
+      "退房日期": "2026-09-07",
+      "姓名": "",
+      "房型": "2F",
+      "專案名稱": "Agoda",
+      "訂單款項": 14854.06,
+      "已收金額": 14854.06,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-07",
+      "訂單編號": "OBE35080672326080603",
+      "入住日期": "2026-09-29",
+      "退房日期": "2026-09-30",
+      "姓名": "",
+      "房型": "4F",
+      "專案名稱": "Agoda",
+      "訂單款項": 7789.3,
+      "已收金額": 7789.3,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-07",
+      "訂單編號": "OBE26170672326080701",
+      "入住日期": "2026-08-13",
+      "退房日期": "2026-08-15",
+      "姓名": "",
+      "房型": "2F｜3F",
+      "專案名稱": "Agoda",
+      "訂單款項": 11578.43,
+      "已收金額": 11578.43,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-06T13:50:07.501Z",
+    "generatedAt": "2026-08-07T03:14:54.523Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-08-06T13:50:07.501Z",
+      "lastUpdated": "2026-08-07T03:14:54.523Z",
       "months": [
         {
           "month": "2026-01",
@@ -5147,8 +5189,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 47,
-          "averageLeadDays": 51.6,
+          "totalOrders": 48,
+          "averageLeadDays": 50.7,
           "buckets": [
             {
               "label": "0-1天",
@@ -5157,13 +5199,13 @@
             },
             {
               "label": "2-3天",
-              "percent": 4.3,
+              "percent": 4.2,
               "orders": 2
             },
             {
               "label": "4-7天",
-              "percent": 2.1,
-              "orders": 1
+              "percent": 4.2,
+              "orders": 2
             },
             {
               "label": "8-14天",
@@ -5172,25 +5214,25 @@
             },
             {
               "label": "15-30天",
-              "percent": 27.7,
+              "percent": 27.1,
               "orders": 13,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 17,
+              "percent": 16.7,
               "orders": 8,
               "rank": 3
             },
             {
               "label": "46-60天",
-              "percent": 25.5,
+              "percent": 25,
               "orders": 12,
               "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 4.3,
+              "percent": 4.2,
               "orders": 2
             },
             {
@@ -5200,12 +5242,12 @@
             },
             {
               "label": "91-105天",
-              "percent": 4.3,
+              "percent": 4.2,
               "orders": 2
             },
             {
               "label": "106-136天",
-              "percent": 14.9,
+              "percent": 14.6,
               "orders": 7
             },
             {
@@ -5214,20 +5256,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 79,
+          "totalBookingRate": 82.3,
           "wholeHouseRate": 0,
-          "totalSales": 708381,
-          "adr": 7228,
-          "revpar": 5713,
-          "soldNights": 98,
+          "totalSales": 719960,
+          "adr": 7058,
+          "revpar": 5806,
+          "soldNights": 102,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "2F",
-              "bookingRate": 87.1,
-              "avgDailyRate": 7605,
-              "orderCount": 15,
-              "soldNights": 27,
+              "bookingRate": 93.5,
+              "avgDailyRate": 7280,
+              "orderCount": 15.5,
+              "soldNights": 29,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -5242,10 +5284,10 @@
             },
             {
               "roomType": "3F",
-              "bookingRate": 71,
-              "avgDailyRate": 6726,
-              "orderCount": 11,
-              "soldNights": 22,
+              "bookingRate": 77.4,
+              "avgDailyRate": 6407,
+              "orderCount": 11.5,
+              "soldNights": 24,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -5269,13 +5311,14 @@
             }
           ],
           "notes": [
+            "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。",
             "跨月入住已依實際住宿夜拆分到月份。"
           ]
         },
         {
           "month": "2026-09",
-          "totalOrders": 22,
-          "averageLeadDays": 74,
+          "totalOrders": 24,
+          "averageLeadDays": 71.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -5299,39 +5342,39 @@
             },
             {
               "label": "15-30天",
-              "percent": 0,
-              "orders": 0
+              "percent": 4.2,
+              "orders": 1
             },
             {
               "label": "31-45天",
-              "percent": 13.6,
+              "percent": 12.5,
               "orders": 3,
               "rank": 3
             },
             {
               "label": "46-60天",
-              "percent": 36.4,
-              "orders": 8,
+              "percent": 37.5,
+              "orders": 9,
               "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 4.5,
+              "percent": 4.2,
               "orders": 1
             },
             {
               "label": "76-90天",
-              "percent": 13.6,
+              "percent": 12.5,
               "orders": 3
             },
             {
               "label": "91-105天",
-              "percent": 13.6,
+              "percent": 12.5,
               "orders": 3
             },
             {
               "label": "106-136天",
-              "percent": 18.2,
+              "percent": 16.7,
               "orders": 4,
               "rank": 2
             },
@@ -5341,20 +5384,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 40,
+          "totalBookingRate": 43.3,
           "wholeHouseRate": 0,
-          "totalSales": 358433,
-          "adr": 7467,
-          "revpar": 2987,
-          "soldNights": 48,
+          "totalSales": 381076,
+          "adr": 7328,
+          "revpar": 3176,
+          "soldNights": 52,
           "capacityNights": 120,
           "roomDetails": [
             {
               "roomType": "2F",
-              "bookingRate": 66.7,
-              "avgDailyRate": 7049,
-              "orderCount": 10,
-              "soldNights": 20,
+              "bookingRate": 76.7,
+              "avgDailyRate": 6776,
+              "orderCount": 11,
+              "soldNights": 23,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -5369,10 +5412,10 @@
             },
             {
               "roomType": "4F",
-              "bookingRate": 30,
-              "avgDailyRate": 8032,
-              "orderCount": 4,
-              "soldNights": 9,
+              "bookingRate": 33.3,
+              "avgDailyRate": 8008,
+              "orderCount": 5,
+              "soldNights": 10,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },

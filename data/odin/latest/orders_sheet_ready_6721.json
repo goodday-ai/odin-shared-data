@@ -823,9 +823,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 35505,
+      "訂單款項": 39000,
       "已收金額": 39000,
-      "剩餘尾款": -3495,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -963,9 +963,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 27300,
-      "已收金額": 0,
-      "剩餘尾款": 27300,
+      "訂單款項": 28000,
+      "已收金額": 28000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1167,12 +1167,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-06T13:49:05.951Z",
+    "generatedAt": "2026-08-07T03:14:24.796Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-08-06T13:49:05.951Z",
+      "lastUpdated": "2026-08-07T03:14:24.796Z",
       "months": [
         {
           "month": "2025-12",
@@ -2280,16 +2280,16 @@
           ],
           "totalBookingRate": 77.4,
           "wholeHouseRate": 77.4,
-          "totalSales": 319982,
-          "adr": 2667,
-          "revpar": 2064,
+          "totalSales": 324177,
+          "adr": 2701,
+          "revpar": 2091,
           "soldNights": 120,
           "capacityNights": 155,
           "roomDetails": [
             {
               "roomType": "四人房",
               "bookingRate": 77.4,
-              "avgDailyRate": 2667,
+              "avgDailyRate": 2701,
               "orderCount": 14,
               "soldNights": 96,
               "capacityNights": 124,
@@ -2299,7 +2299,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 77.4,
-              "avgDailyRate": 13333,
+              "avgDailyRate": 13507,
               "orderCount": 14,
               "soldNights": 24,
               "capacityNights": 31,
@@ -2308,7 +2308,7 @@
             {
               "roomType": "雙人房",
               "bookingRate": 77.4,
-              "avgDailyRate": 2667,
+              "avgDailyRate": 2701,
               "orderCount": 14,
               "soldNights": 24,
               "capacityNights": 31,
