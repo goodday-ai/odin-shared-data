@@ -1066,15 +1066,29 @@
       "剩餘尾款": 29500,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-13",
+      "訂單編號": "OBE20710632326081301",
+      "入住日期": "2026-10-22",
+      "退房日期": "2026-10-24",
+      "姓名": "",
+      "房型": "弎居胡同",
+      "專案名稱": "Agoda",
+      "訂單款項": 19000.56,
+      "已收金額": 19000.56,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-13T03:07:19.204Z",
+    "generatedAt": "2026-08-13T13:42:31.590Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-08-13T03:07:19.204Z",
+      "lastUpdated": "2026-08-13T13:42:31.590Z",
       "months": [
         {
           "month": "2026-01",
@@ -2175,7 +2189,7 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 4,
+          "totalOrders": 5,
           "averageLeadDays": 69.8,
           "buckets": [
             {
@@ -2210,19 +2224,19 @@
             },
             {
               "label": "46-60天",
-              "percent": 25,
+              "percent": 20,
               "orders": 1,
               "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 50,
-              "orders": 2,
+              "percent": 60,
+              "orders": 3,
               "rank": 1
             },
             {
               "label": "76-90天",
-              "percent": 25,
+              "percent": 20,
               "orders": 1,
               "rank": 3
             },
@@ -2242,50 +2256,50 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 32.3,
-          "wholeHouseRate": 32.3,
-          "totalSales": 95909,
-          "adr": 3197,
-          "revpar": 1031,
-          "soldNights": 30,
+          "totalBookingRate": 38.7,
+          "wholeHouseRate": 38.7,
+          "totalSales": 114910,
+          "adr": 3192,
+          "revpar": 1236,
+          "soldNights": 36,
           "capacityNights": 93,
           "roomDetails": [
             {
               "roomType": "201四人房",
-              "bookingRate": 32.3,
-              "avgDailyRate": 3197,
-              "orderCount": 5,
-              "soldNights": 10,
+              "bookingRate": 38.7,
+              "avgDailyRate": 3192,
+              "orderCount": 6,
+              "soldNights": 12,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 5 筆"
+              "wholeHouseImpact": "含包棟展開 6 筆"
             },
             {
               "roomType": "202四人房",
-              "bookingRate": 32.3,
-              "avgDailyRate": 3197,
-              "orderCount": 5,
-              "soldNights": 10,
+              "bookingRate": 38.7,
+              "avgDailyRate": 3192,
+              "orderCount": 6,
+              "soldNights": 12,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 5 筆"
+              "wholeHouseImpact": "含包棟展開 6 筆"
             },
             {
               "roomType": "301雙人房",
-              "bookingRate": 32.3,
-              "avgDailyRate": 3197,
-              "orderCount": 5,
-              "soldNights": 10,
+              "bookingRate": 38.7,
+              "avgDailyRate": 3192,
+              "orderCount": 6,
+              "soldNights": 12,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
-              "wholeHouseImpact": "含包棟展開 5 筆"
+              "wholeHouseImpact": "含包棟展開 6 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 32.3,
-              "avgDailyRate": 9591,
-              "orderCount": 5,
-              "soldNights": 10,
+              "bookingRate": 38.7,
+              "avgDailyRate": 9576,
+              "orderCount": 6,
+              "soldNights": 12,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
