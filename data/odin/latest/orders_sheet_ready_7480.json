@@ -1,7 +1,7 @@
 {
   "hotelId": "7480",
   "hotelName": "晴井包棟民宿",
-  "rangeStr": "2026-07-03~2026-10-09",
+  "rangeStr": "2026-07-03~2026-10-10",
   "columns": [
     "訂單日期",
     "訂單編號",
@@ -310,15 +310,43 @@
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-13",
+      "訂單編號": "OBE24580748026081301",
+      "入住日期": "2026-09-20",
+      "退房日期": "2026-09-23",
+      "姓名": "",
+      "房型": "包棟",
+      "專案名稱": "Booking",
+      "訂單款項": 43238,
+      "已收金額": 0,
+      "剩餘尾款": 43238,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-14",
+      "訂單編號": "OBE77260748026081401",
+      "入住日期": "2026-10-09",
+      "退房日期": "2026-10-10",
+      "姓名": "",
+      "房型": "包棟",
+      "專案名稱": "CTrip",
+      "訂單款項": 11899,
+      "已收金額": 11899,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-13T13:44:37.924Z",
+    "generatedAt": "2026-08-14T03:08:13.084Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-08-13T13:44:37.924Z",
+      "lastUpdated": "2026-08-14T03:08:13.084Z",
       "months": [
         {
           "month": "2026-07",
@@ -504,8 +532,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 3,
-          "averageLeadDays": 61,
+          "totalOrders": 4,
+          "averageLeadDays": 55.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -534,8 +562,8 @@
             },
             {
               "label": "31-45天",
-              "percent": 33.3,
-              "orders": 1,
+              "percent": 50,
+              "orders": 2,
               "rank": 1
             },
             {
@@ -545,13 +573,13 @@
             },
             {
               "label": "61-75天",
-              "percent": 33.3,
+              "percent": 25,
               "orders": 1,
               "rank": 2
             },
             {
               "label": "76-90天",
-              "percent": 33.3,
+              "percent": 25,
               "orders": 1,
               "rank": 3
             },
@@ -572,8 +600,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 99660,
-          "adr": 14237,
+          "totalSales": 142898,
+          "adr": 14290,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -581,9 +609,9 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 14237,
-              "orderCount": 3,
-              "soldNights": 7,
+              "avgDailyRate": 14290,
+              "orderCount": 4,
+              "soldNights": 10,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
@@ -594,8 +622,8 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 2,
-          "averageLeadDays": 61.5,
+          "totalOrders": 3,
+          "averageLeadDays": 59.7,
           "buckets": [
             {
               "label": "0-1天",
@@ -629,13 +657,13 @@
             },
             {
               "label": "46-60天",
-              "percent": 50,
-              "orders": 1,
+              "percent": 66.7,
+              "orders": 2,
               "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 50,
+              "percent": 33.3,
               "orders": 1,
               "rank": 2
             },
@@ -661,8 +689,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 51086,
-          "adr": 12772,
+          "totalSales": 62985,
+          "adr": 12597,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -670,9 +698,9 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 12772,
-              "orderCount": 2,
-              "soldNights": 4,
+              "avgDailyRate": 12597,
+              "orderCount": 3,
+              "soldNights": 5,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
