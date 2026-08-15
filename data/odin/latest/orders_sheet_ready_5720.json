@@ -613,9 +613,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "獨享包棟",
-      "訂單款項": 60000,
-      "已收金額": 30000,
-      "剩餘尾款": 30000,
+      "訂單款項": 57000,
+      "已收金額": 57000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -817,12 +817,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-15T02:34:15.139Z",
+    "generatedAt": "2026-08-15T13:20:43.929Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-08-15T02:34:15.139Z",
+      "lastUpdated": "2026-08-15T13:20:43.929Z",
       "months": [
         {
           "month": "2026-02",
@@ -1558,16 +1558,16 @@
           ],
           "totalBookingRate": 51.6,
           "wholeHouseRate": 48.4,
-          "totalSales": 317957,
-          "adr": 9936,
-          "revpar": 5128,
+          "totalSales": 314957,
+          "adr": 9842,
+          "revpar": 5080,
           "soldNights": 32,
           "capacityNights": 62,
           "roomDetails": [
             {
               "roomType": "3F",
               "bookingRate": 54.8,
-              "avgDailyRate": 10145,
+              "avgDailyRate": 10056,
               "orderCount": 8,
               "soldNights": 17,
               "capacityNights": 31,
@@ -1577,7 +1577,7 @@
             {
               "roomType": "2F",
               "bookingRate": 48.4,
-              "avgDailyRate": 9700,
+              "avgDailyRate": 9600,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
@@ -1587,7 +1587,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 48.4,
-              "avgDailyRate": 19400,
+              "avgDailyRate": 19200,
               "orderCount": 7,
               "soldNights": 15,
               "capacityNights": 31,
