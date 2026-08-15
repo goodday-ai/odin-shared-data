@@ -1276,15 +1276,29 @@
       "剩餘尾款": 17920,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-15",
+      "訂單編號": "OBE67080591726081501",
+      "入住日期": "2026-08-20",
+      "退房日期": "2026-08-24",
+      "姓名": "",
+      "房型": "灰色302",
+      "專案名稱": "官網專案",
+      "訂單款項": 15000,
+      "已收金額": 0,
+      "剩餘尾款": 15000,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-14T13:42:37.416Z",
+    "generatedAt": "2026-08-15T02:34:25.476Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-08-14T13:42:37.416Z",
+      "lastUpdated": "2026-08-15T02:34:25.476Z",
       "months": [
         {
           "month": "2025-12",
@@ -2320,8 +2334,8 @@
         },
         {
           "month": "2026-08",
-          "totalOrders": 12,
-          "averageLeadDays": 36.3,
+          "totalOrders": 13,
+          "averageLeadDays": 33.9,
           "buckets": [
             {
               "label": "0-1天",
@@ -2330,14 +2344,15 @@
             },
             {
               "label": "2-3天",
-              "percent": 16.7,
+              "percent": 15.4,
               "orders": 2,
               "rank": 2
             },
             {
               "label": "4-7天",
-              "percent": 8.3,
-              "orders": 1
+              "percent": 15.4,
+              "orders": 2,
+              "rank": 3
             },
             {
               "label": "8-14天",
@@ -2346,18 +2361,17 @@
             },
             {
               "label": "15-30天",
-              "percent": 16.7,
-              "orders": 2,
-              "rank": 3
+              "percent": 15.4,
+              "orders": 2
             },
             {
               "label": "31-45天",
-              "percent": 16.7,
+              "percent": 15.4,
               "orders": 2
             },
             {
               "label": "46-60天",
-              "percent": 25,
+              "percent": 23.1,
               "orders": 3,
               "rank": 1
             },
@@ -2368,12 +2382,12 @@
             },
             {
               "label": "76-90天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
               "label": "91-105天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
@@ -2387,12 +2401,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 66.9,
+          "totalBookingRate": 70.2,
           "wholeHouseRate": 48.4,
-          "totalSales": 254700,
-          "adr": 3069,
-          "revpar": 2054,
-          "soldNights": 83,
+          "totalSales": 269700,
+          "adr": 3100,
+          "revpar": 2175,
+          "soldNights": 87,
           "capacityNights": 124,
           "roomDetails": [
             {
@@ -2416,21 +2430,21 @@
               "wholeHouseImpact": "含包棟展開 7 筆"
             },
             {
-              "roomType": "301雙人房",
-              "bookingRate": 58.1,
-              "avgDailyRate": 2945,
+              "roomType": "302四人房",
+              "bookingRate": 61.3,
+              "avgDailyRate": 3175,
               "orderCount": 8,
-              "soldNights": 18,
+              "soldNights": 19,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 7 筆"
             },
             {
-              "roomType": "302四人房",
-              "bookingRate": 48.4,
-              "avgDailyRate": 3022,
-              "orderCount": 7,
-              "soldNights": 15,
+              "roomType": "301雙人房",
+              "bookingRate": 58.1,
+              "avgDailyRate": 2945,
+              "orderCount": 8,
+              "soldNights": 18,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 7 筆"
