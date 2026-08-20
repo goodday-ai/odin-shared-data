@@ -6652,15 +6652,43 @@
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-19",
+      "訂單編號": "OBE08950717726081904",
+      "入住日期": "2026-09-11",
+      "退房日期": "2026-09-13",
+      "姓名": "",
+      "房型": "301(雙)",
+      "專案名稱": "CTrip",
+      "訂單款項": 3417,
+      "已收金額": 3417,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-20",
+      "訂單編號": "OBE93350717726081905",
+      "入住日期": "2026-09-13",
+      "退房日期": "2026-09-16",
+      "姓名": "",
+      "房型": "301(雙)",
+      "專案名稱": "Agoda",
+      "訂單款項": 3139.4,
+      "已收金額": 3139.4,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-19T13:31:53.716Z",
+    "generatedAt": "2026-08-20T02:37:22.101Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-08-19T13:31:53.716Z",
+      "lastUpdated": "2026-08-20T02:37:22.101Z",
       "months": [
         {
           "month": "2026-03",
@@ -7756,8 +7784,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 37,
-          "averageLeadDays": 53.9,
+          "totalOrders": 39,
+          "averageLeadDays": 52.4,
           "buckets": [
             {
               "label": "0-1天",
@@ -7781,39 +7809,39 @@
             },
             {
               "label": "15-30天",
-              "percent": 40.5,
-              "orders": 15,
+              "percent": 43.6,
+              "orders": 17,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 21.6,
+              "percent": 20.5,
               "orders": 8,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 2.7,
+              "percent": 2.6,
               "orders": 1
             },
             {
               "label": "61-75天",
-              "percent": 2.7,
+              "percent": 2.6,
               "orders": 1
             },
             {
               "label": "76-90天",
-              "percent": 13.5,
+              "percent": 12.8,
               "orders": 5
             },
             {
               "label": "91-105天",
-              "percent": 2.7,
+              "percent": 2.6,
               "orders": 1
             },
             {
               "label": "106-136天",
-              "percent": 16.2,
+              "percent": 15.4,
               "orders": 6,
               "rank": 3
             },
@@ -7823,12 +7851,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 33,
+          "totalBookingRate": 34.7,
           "wholeHouseRate": 0,
-          "totalSales": 204937,
-          "adr": 2070,
-          "revpar": 683,
-          "soldNights": 99,
+          "totalSales": 211493,
+          "adr": 2034,
+          "revpar": 705,
+          "soldNights": 104,
           "capacityNights": 300,
           "roomDetails": [
             {
@@ -7859,6 +7887,15 @@
               "capacityText": "最大 1 間 × 30 天"
             },
             {
+              "roomType": "301雙人房",
+              "bookingRate": 46.7,
+              "avgDailyRate": 2222,
+              "orderCount": 4.1,
+              "soldNights": 14,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
               "roomType": "102四人房",
               "bookingRate": 40,
               "avgDailyRate": 1808,
@@ -7881,15 +7918,6 @@
               "bookingRate": 30,
               "avgDailyRate": 2949,
               "orderCount": 3.3,
-              "soldNights": 9,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
-            },
-            {
-              "roomType": "301雙人房",
-              "bookingRate": 30,
-              "avgDailyRate": 2729,
-              "orderCount": 2.1,
               "soldNights": 9,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
