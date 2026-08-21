@@ -1286,8 +1286,8 @@
       "房型": "粉色201",
       "專案名稱": "官網專案",
       "訂單款項": 5000,
-      "已收金額": 0,
-      "剩餘尾款": 5000,
+      "已收金額": 1500,
+      "剩餘尾款": 3500,
       "UUID": "",
       "電話": ""
     },
@@ -1299,9 +1299,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 25600,
-      "已收金額": 0,
-      "剩餘尾款": 25600,
+      "訂單款項": 16000,
+      "已收金額": 4800,
+      "剩餘尾款": 11200,
       "UUID": "",
       "電話": ""
     },
@@ -1314,19 +1314,19 @@
       "房型": "粉色201｜藍色202",
       "專案名稱": "官網專案",
       "訂單款項": 12800,
-      "已收金額": 0,
-      "剩餘尾款": 12800,
+      "已收金額": 3800,
+      "剩餘尾款": 9000,
       "UUID": "",
       "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-21T02:38:45.082Z",
+    "generatedAt": "2026-08-21T13:29:18.378Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-08-21T02:38:45.082Z",
+      "lastUpdated": "2026-08-21T13:29:18.378Z",
       "months": [
         {
           "month": "2025-12",
@@ -2564,16 +2564,16 @@
           ],
           "totalBookingRate": 18.3,
           "wholeHouseRate": 6.7,
-          "totalSales": 71240,
-          "adr": 3238,
-          "revpar": 594,
+          "totalSales": 61640,
+          "adr": 2802,
+          "revpar": 514,
           "soldNights": 22,
           "capacityNights": 120,
           "roomDetails": [
             {
               "roomType": "202四人房",
               "bookingRate": 23.3,
-              "avgDailyRate": 3740,
+              "avgDailyRate": 3397,
               "orderCount": 3,
               "soldNights": 7,
               "capacityNights": 30,
@@ -2583,7 +2583,7 @@
             {
               "roomType": "201雙人房",
               "bookingRate": 20,
-              "avgDailyRate": 2900,
+              "avgDailyRate": 2500,
               "orderCount": 3,
               "soldNights": 6,
               "capacityNights": 30,
@@ -2593,7 +2593,7 @@
             {
               "roomType": "301雙人房",
               "bookingRate": 16.7,
-              "avgDailyRate": 2780,
+              "avgDailyRate": 2300,
               "orderCount": 2,
               "soldNights": 5,
               "capacityNights": 30,
@@ -2603,7 +2603,7 @@
             {
               "roomType": "302四人房",
               "bookingRate": 13.3,
-              "avgDailyRate": 3440,
+              "avgDailyRate": 2840,
               "orderCount": 2,
               "soldNights": 4,
               "capacityNights": 30,
@@ -2613,7 +2613,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 6.7,
-              "avgDailyRate": 12800,
+              "avgDailyRate": 8000,
               "orderCount": 1,
               "soldNights": 2,
               "capacityNights": 30,
