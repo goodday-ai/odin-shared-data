@@ -753,9 +753,9 @@
       "姓名": "",
       "房型": "三房包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 23200,
-      "已收金額": 11600,
-      "剩餘尾款": 11600,
+      "訂單款項": 18200,
+      "已收金額": 18200,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1083,12 +1083,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-25T02:37:51.672Z",
+    "generatedAt": "2026-08-25T13:32:43.495Z",
     "brand": {
       "brandKey": "housestay",
       "hotelId": "6537",
       "name": "好思民宿",
-      "lastUpdated": "2026-08-25T02:37:51.672Z",
+      "lastUpdated": "2026-08-25T13:32:43.495Z",
       "months": [
         {
           "month": "2026-03",
@@ -1718,16 +1718,16 @@
           ],
           "totalBookingRate": 83.9,
           "wholeHouseRate": 83.9,
-          "totalSales": 204983,
-          "adr": 2628,
-          "revpar": 2204,
+          "totalSales": 199983,
+          "adr": 2564,
+          "revpar": 2150,
           "soldNights": 78,
           "capacityNights": 93,
           "roomDetails": [
             {
               "roomType": "雙人房",
               "bookingRate": 83.9,
-              "avgDailyRate": 2628,
+              "avgDailyRate": 2564,
               "orderCount": 14,
               "soldNights": 52,
               "capacityNights": 62,
@@ -1737,7 +1737,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 83.9,
-              "avgDailyRate": 7884,
+              "avgDailyRate": 7692,
               "orderCount": 14,
               "soldNights": 26,
               "capacityNights": 31,
@@ -1746,7 +1746,7 @@
             {
               "roomType": "四人房",
               "bookingRate": 83.9,
-              "avgDailyRate": 2628,
+              "avgDailyRate": 2564,
               "orderCount": 14,
               "soldNights": 26,
               "capacityNights": 31,
