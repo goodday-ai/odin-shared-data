@@ -207,8 +207,8 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 41000,
-      "已收金額": 41000,
+      "訂單款項": 32000,
+      "已收金額": 32000,
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
@@ -348,8 +348,8 @@
       "房型": "包棟",
       "專案名稱": "官網專案",
       "訂單款項": 20000,
-      "已收金額": 10000,
-      "剩餘尾款": 10000,
+      "已收金額": 20000,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -369,12 +369,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-25T13:32:59.057Z",
+    "generatedAt": "2026-08-26T02:42:17.396Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-08-25T13:32:59.057Z",
+      "lastUpdated": "2026-08-26T02:42:17.396Z",
       "months": [
         {
           "month": "2026-07",
@@ -537,8 +537,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 214398,
-          "adr": 7941,
+          "totalSales": 205398,
+          "adr": 7607,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -546,7 +546,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 7941,
+              "avgDailyRate": 7607,
               "orderCount": 12,
               "soldNights": 27,
               "capacityNights": 0,
