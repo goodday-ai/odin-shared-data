@@ -1066,29 +1066,15 @@
       "剩餘尾款": 26054,
       "UUID": "",
       "電話": ""
-    },
-    {
-      "訂單日期": "2026-08-22",
-      "訂單編號": "OBE83700653726082201",
-      "入住日期": "2026-09-28",
-      "退房日期": "2026-09-30",
-      "姓名": "",
-      "房型": "三房包棟",
-      "專案名稱": "官網專案",
-      "訂單款項": 16000,
-      "已收金額": 0,
-      "剩餘尾款": 16000,
-      "UUID": "",
-      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-27T04:00:48.851Z",
+    "generatedAt": "2026-08-27T16:53:20.379Z",
     "brand": {
       "brandKey": "housestay",
       "hotelId": "6537",
       "name": "好思民宿",
-      "lastUpdated": "2026-08-27T04:00:48.851Z",
+      "lastUpdated": "2026-08-27T16:53:20.379Z",
       "months": [
         {
           "month": "2026-03",
@@ -1761,8 +1747,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 10,
-          "averageLeadDays": 83.3,
+          "totalOrders": 9,
+          "averageLeadDays": 88.4,
           "buckets": [
             {
               "label": "0-1天",
@@ -1791,23 +1777,23 @@
             },
             {
               "label": "31-45天",
-              "percent": 30,
-              "orders": 3,
+              "percent": 22.2,
+              "orders": 2,
               "rank": 1
             },
             {
               "label": "46-60天",
-              "percent": 10,
+              "percent": 11.1,
               "orders": 1
             },
             {
               "label": "61-75天",
-              "percent": 10,
+              "percent": 11.1,
               "orders": 1
             },
             {
               "label": "76-90天",
-              "percent": 20,
+              "percent": 22.2,
               "orders": 2,
               "rank": 2
             },
@@ -1818,52 +1804,52 @@
             },
             {
               "label": "106-136天",
-              "percent": 10,
+              "percent": 11.1,
               "orders": 1
             },
             {
               "label": "137天以上",
-              "percent": 20,
+              "percent": 22.2,
               "orders": 2,
               "rank": 3
             }
           ],
-          "totalBookingRate": 73.3,
-          "wholeHouseRate": 73.3,
-          "totalSales": 174576,
-          "adr": 2645,
-          "revpar": 1940,
-          "soldNights": 66,
+          "totalBookingRate": 66.7,
+          "wholeHouseRate": 66.7,
+          "totalSales": 158576,
+          "adr": 2643,
+          "revpar": 1762,
+          "soldNights": 60,
           "capacityNights": 90,
           "roomDetails": [
             {
               "roomType": "雙人房",
-              "bookingRate": 73.3,
-              "avgDailyRate": 2645,
-              "orderCount": 11,
-              "soldNights": 44,
+              "bookingRate": 66.7,
+              "avgDailyRate": 2643,
+              "orderCount": 10,
+              "soldNights": 40,
               "capacityNights": 60,
               "capacityText": "最大 2 間 × 30 天",
-              "wholeHouseImpact": "含包棟展開 11 筆"
+              "wholeHouseImpact": "含包棟展開 10 筆"
             },
             {
               "roomType": "包棟",
-              "bookingRate": 73.3,
-              "avgDailyRate": 7935,
-              "orderCount": 11,
-              "soldNights": 22,
+              "bookingRate": 66.7,
+              "avgDailyRate": 7929,
+              "orderCount": 10,
+              "soldNights": 20,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             },
             {
               "roomType": "四人房",
-              "bookingRate": 73.3,
-              "avgDailyRate": 2645,
-              "orderCount": 11,
-              "soldNights": 22,
+              "bookingRate": 66.7,
+              "avgDailyRate": 2643,
+              "orderCount": 10,
+              "soldNights": 20,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
-              "wholeHouseImpact": "含包棟展開 11 筆"
+              "wholeHouseImpact": "含包棟展開 10 筆"
             }
           ],
           "notes": [
