@@ -1,7 +1,7 @@
 {
   "hotelId": "6405",
   "hotelName": "好思公寓",
-  "rangeStr": "2025-12-31~2026-11-02",
+  "rangeStr": "2025-12-31~2026-12-08",
   "columns": [
     "訂單日期",
     "訂單編號",
@@ -3236,15 +3236,29 @@
       "剩餘尾款": 3200,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-29",
+      "訂單編號": "OBE80040640526082903",
+      "入住日期": "2026-12-03",
+      "退房日期": "2026-12-08",
+      "姓名": "",
+      "房型": "1F",
+      "專案名稱": "官網專案",
+      "訂單款項": 10000,
+      "已收金額": 5000,
+      "剩餘尾款": 5000,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-29T13:20:01.228Z",
+    "generatedAt": "2026-08-30T02:32:19.768Z",
     "brand": {
       "brandKey": "houseapt",
       "hotelId": "6405",
       "name": "好思公寓",
-      "lastUpdated": "2026-08-29T13:20:01.228Z",
+      "lastUpdated": "2026-08-30T02:32:19.768Z",
       "months": [
         {
           "month": "2025-12",
@@ -4883,6 +4897,138 @@
           "notes": [
             "跨月入住已依實際住宿夜拆分到月份。"
           ]
+        },
+        {
+          "month": "2026-12",
+          "totalOrders": 1,
+          "averageLeadDays": 96,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 100,
+              "orders": 1,
+              "rank": 1
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 3.2,
+          "wholeHouseRate": 0,
+          "totalSales": 10000,
+          "adr": 2000,
+          "revpar": 65,
+          "soldNights": 5,
+          "capacityNights": 155,
+          "roomDetails": [
+            {
+              "roomType": "1F",
+              "bookingRate": 16.1,
+              "avgDailyRate": 2000,
+              "orderCount": 1,
+              "soldNights": 5,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "2F",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "3F",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "4F",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "5F",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "包棟",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 組包棟 × 31 天"
+            }
+          ],
+          "notes": []
         }
       ]
     }
