@@ -1388,15 +1388,29 @@
       "剩餘尾款": 2500,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-08-31",
+      "訂單編號": "OBE82650591726083101",
+      "入住日期": "2026-09-05",
+      "退房日期": "2026-09-07",
+      "姓名": "",
+      "房型": "粉色201",
+      "專案名稱": "官網專案",
+      "訂單款項": 5000,
+      "已收金額": 0,
+      "剩餘尾款": 5000,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-08-31T13:25:10.699Z",
+    "generatedAt": "2026-09-01T02:34:31.312Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-08-31T13:25:10.699Z",
+      "lastUpdated": "2026-09-01T02:34:31.312Z",
       "months": [
         {
           "month": "2025-12",
@@ -2565,8 +2579,8 @@
         },
         {
           "month": "2026-09",
-          "totalOrders": 12,
-          "averageLeadDays": 51.3,
+          "totalOrders": 13,
+          "averageLeadDays": 47.8,
           "buckets": [
             {
               "label": "0-1天",
@@ -2580,34 +2594,34 @@
             },
             {
               "label": "4-7天",
-              "percent": 0,
-              "orders": 0
+              "percent": 7.7,
+              "orders": 1
             },
             {
               "label": "8-14天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
               "label": "15-30天",
-              "percent": 33.3,
+              "percent": 30.8,
               "orders": 4,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 16.7,
+              "percent": 15.4,
               "orders": 2,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
               "label": "61-75天",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             },
             {
@@ -2617,7 +2631,7 @@
             },
             {
               "label": "91-105天",
-              "percent": 16.7,
+              "percent": 15.4,
               "orders": 2,
               "rank": 3
             },
@@ -2628,24 +2642,24 @@
             },
             {
               "label": "137天以上",
-              "percent": 8.3,
+              "percent": 7.7,
               "orders": 1
             }
           ],
-          "totalBookingRate": 31.7,
+          "totalBookingRate": 33.3,
           "wholeHouseRate": 6.7,
-          "totalSales": 101640,
-          "adr": 2675,
-          "revpar": 847,
-          "soldNights": 38,
+          "totalSales": 106640,
+          "adr": 2666,
+          "revpar": 889,
+          "soldNights": 40,
           "capacityNights": 120,
           "roomDetails": [
             {
               "roomType": "201雙人房",
-              "bookingRate": 46.7,
+              "bookingRate": 53.3,
               "avgDailyRate": 2500,
-              "orderCount": 5.8,
-              "soldNights": 14,
+              "orderCount": 6.8,
+              "soldNights": 16,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 1 筆"
