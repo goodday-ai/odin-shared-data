@@ -3170,14 +3170,14 @@
     {
       "訂單日期": "2026-08-23",
       "訂單編號": "OBE40610640526082302",
-      "入住日期": "2026-10-14",
-      "退房日期": "2026-10-18",
+      "入住日期": "2026-10-15",
+      "退房日期": "2026-10-19",
       "姓名": "",
       "房型": "3F",
       "專案名稱": "Booking",
-      "訂單款項": 17203,
+      "訂單款項": 16343,
       "已收金額": 0,
-      "剩餘尾款": 17203,
+      "剩餘尾款": 16343,
       "UUID": "",
       "電話": ""
     },
@@ -3295,12 +3295,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-01T02:35:22.382Z",
+    "generatedAt": "2026-09-01T13:24:41.676Z",
     "brand": {
       "brandKey": "houseapt",
       "hotelId": "6405",
       "name": "好思公寓",
-      "lastUpdated": "2026-09-01T02:35:22.382Z",
+      "lastUpdated": "2026-09-01T13:24:41.676Z",
       "months": [
         {
           "month": "2025-12",
@@ -4673,7 +4673,7 @@
         {
           "month": "2026-10",
           "totalOrders": 13,
-          "averageLeadDays": 75.5,
+          "averageLeadDays": 75.6,
           "buckets": [
             {
               "label": "0-1天",
@@ -4741,16 +4741,16 @@
           ],
           "totalBookingRate": 23.9,
           "wholeHouseRate": 0,
-          "totalSales": 130083,
-          "adr": 3516,
-          "revpar": 839,
+          "totalSales": 129223,
+          "adr": 3493,
+          "revpar": 834,
           "soldNights": 37,
           "capacityNights": 155,
           "roomDetails": [
             {
               "roomType": "3F",
               "bookingRate": 35.5,
-              "avgDailyRate": 4323,
+              "avgDailyRate": 4244,
               "orderCount": 3.5,
               "soldNights": 11,
               "capacityNights": 31,
