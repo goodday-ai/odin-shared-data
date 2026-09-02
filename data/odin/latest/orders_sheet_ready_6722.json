@@ -851,9 +851,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 27000,
-      "已收金額": 0,
-      "剩餘尾款": 27000,
+      "訂單款項": 30000,
+      "已收金額": 13500,
+      "剩餘尾款": 16500,
       "UUID": "",
       "電話": ""
     },
@@ -887,12 +887,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-02T02:47:48.326Z",
+    "generatedAt": "2026-09-02T13:25:45.112Z",
     "brand": {
       "brandKey": "sunmoon",
       "hotelId": "6722",
       "name": "桑沐民宿",
-      "lastUpdated": "2026-09-02T02:47:48.326Z",
+      "lastUpdated": "2026-09-02T13:25:45.112Z",
       "months": [
         {
           "month": "2026-03",
@@ -1888,16 +1888,16 @@
           ],
           "totalBookingRate": 32.3,
           "wholeHouseRate": 32.3,
-          "totalSales": 161580,
-          "adr": 4040,
-          "revpar": 1303,
+          "totalSales": 164580,
+          "adr": 4115,
+          "revpar": 1327,
           "soldNights": 40,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "101雙人房",
               "bookingRate": 32.3,
-              "avgDailyRate": 4040,
+              "avgDailyRate": 4115,
               "orderCount": 5,
               "soldNights": 10,
               "capacityNights": 31,
@@ -1907,7 +1907,7 @@
             {
               "roomType": "201四人房",
               "bookingRate": 32.3,
-              "avgDailyRate": 4040,
+              "avgDailyRate": 4115,
               "orderCount": 5,
               "soldNights": 10,
               "capacityNights": 31,
@@ -1917,7 +1917,7 @@
             {
               "roomType": "202四人房",
               "bookingRate": 32.3,
-              "avgDailyRate": 4040,
+              "avgDailyRate": 4115,
               "orderCount": 5,
               "soldNights": 10,
               "capacityNights": 31,
@@ -1927,7 +1927,7 @@
             {
               "roomType": "203四人房",
               "bookingRate": 32.3,
-              "avgDailyRate": 4040,
+              "avgDailyRate": 4115,
               "orderCount": 5,
               "soldNights": 10,
               "capacityNights": 31,
@@ -1937,7 +1937,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 32.3,
-              "avgDailyRate": 16158,
+              "avgDailyRate": 16458,
               "orderCount": 5,
               "soldNights": 10,
               "capacityNights": 31,
