@@ -3324,14 +3324,14 @@
     {
       "訂單日期": "2026-09-02",
       "訂單編號": "OBE85510640526090202",
-      "入住日期": "2026-09-16",
-      "退房日期": "2026-09-19",
+      "入住日期": "2026-09-15",
+      "退房日期": "2026-09-18",
       "姓名": "",
-      "房型": "5F",
+      "房型": "3F",
       "專案名稱": "官網專案",
-      "訂單款項": 11250,
+      "訂單款項": 9450,
       "已收金額": 0,
-      "剩餘尾款": 11250,
+      "剩餘尾款": 9450,
       "UUID": "",
       "電話": ""
     },
@@ -3379,12 +3379,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-03T13:24:59.581Z",
+    "generatedAt": "2026-09-04T02:40:02.609Z",
     "brand": {
       "brandKey": "houseapt",
       "hotelId": "6405",
       "name": "好思公寓",
-      "lastUpdated": "2026-09-03T13:24:59.581Z",
+      "lastUpdated": "2026-09-04T02:40:02.609Z",
       "months": [
         {
           "month": "2025-12",
@@ -4620,7 +4620,7 @@
         {
           "month": "2026-09",
           "totalOrders": 26,
-          "averageLeadDays": 45.7,
+          "averageLeadDays": 45.6,
           "buckets": [
             {
               "label": "0-1天",
@@ -4688,18 +4688,18 @@
           ],
           "totalBookingRate": 43.3,
           "wholeHouseRate": 0,
-          "totalSales": 264724,
-          "adr": 4073,
-          "revpar": 1765,
+          "totalSales": 262924,
+          "adr": 4045,
+          "revpar": 1753,
           "soldNights": 65,
           "capacityNights": 150,
           "roomDetails": [
             {
               "roomType": "3F",
-              "bookingRate": 63.3,
-              "avgDailyRate": 4939,
-              "orderCount": 8,
-              "soldNights": 19,
+              "bookingRate": 73.3,
+              "avgDailyRate": 4695,
+              "orderCount": 9,
+              "soldNights": 22,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -4732,10 +4732,10 @@
             },
             {
               "roomType": "5F",
-              "bookingRate": 26.7,
-              "avgDailyRate": 3994,
-              "orderCount": 2.5,
-              "soldNights": 8,
+              "bookingRate": 16.7,
+              "avgDailyRate": 4140,
+              "orderCount": 1.5,
+              "soldNights": 5,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
