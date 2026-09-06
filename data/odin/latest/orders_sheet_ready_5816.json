@@ -6946,15 +6946,43 @@
       "剩餘尾款": 2000,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-06",
+      "訂單編號": "OBE55760581626090506",
+      "入住日期": "2026-10-24",
+      "退房日期": "2026-10-26",
+      "姓名": "",
+      "房型": "Z3｜O",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 5236,
+      "已收金額": 0,
+      "剩餘尾款": 5236,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-06",
+      "訂單編號": "OBE13300581626090507",
+      "入住日期": "2026-10-06",
+      "退房日期": "2026-10-08",
+      "姓名": "",
+      "房型": "1",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 2337,
+      "已收金額": 0,
+      "剩餘尾款": 2337,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-05T13:19:31.473Z",
+    "generatedAt": "2026-09-06T02:31:56.727Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-09-05T13:19:31.473Z",
+      "lastUpdated": "2026-09-06T02:31:56.727Z",
       "months": [
         {
           "month": "2026-01",
@@ -8662,8 +8690,8 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 41,
-          "averageLeadDays": 83.7,
+          "totalOrders": 43,
+          "averageLeadDays": 81.6,
           "buckets": [
             {
               "label": "0-1天",
@@ -8687,61 +8715,61 @@
             },
             {
               "label": "15-30天",
-              "percent": 2.4,
-              "orders": 1
+              "percent": 4.7,
+              "orders": 2
             },
             {
               "label": "31-45天",
-              "percent": 14.6,
+              "percent": 14,
               "orders": 6,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 24.4,
-              "orders": 10,
+              "percent": 25.6,
+              "orders": 11,
               "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 14.6,
+              "percent": 14,
               "orders": 6,
               "rank": 3
             },
             {
               "label": "76-90天",
-              "percent": 12.2,
+              "percent": 11.6,
               "orders": 5
             },
             {
               "label": "91-105天",
-              "percent": 7.3,
+              "percent": 7,
               "orders": 3
             },
             {
               "label": "106-136天",
-              "percent": 9.8,
+              "percent": 9.3,
               "orders": 4
             },
             {
               "label": "137天以上",
-              "percent": 14.6,
+              "percent": 14,
               "orders": 6
             }
           ],
-          "totalBookingRate": 43.2,
+          "totalBookingRate": 44.5,
           "wholeHouseRate": 0,
-          "totalSales": 178334,
-          "adr": 1158,
-          "revpar": 575,
-          "soldNights": 134,
+          "totalSales": 185907,
+          "adr": 1162,
+          "revpar": 600,
+          "soldNights": 138,
           "capacityNights": 310,
           "roomDetails": [
             {
               "roomType": "1雙人房",
               "bookingRate": 100,
-              "avgDailyRate": 1024,
-              "orderCount": 12.5,
+              "avgDailyRate": 1030,
+              "orderCount": 13.5,
               "soldNights": 31,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
@@ -8775,10 +8803,10 @@
             },
             {
               "roomType": "Z3雙人房",
-              "bookingRate": 45.2,
-              "avgDailyRate": 1256,
-              "orderCount": 3.8,
-              "soldNights": 14,
+              "bookingRate": 51.6,
+              "avgDailyRate": 1263,
+              "orderCount": 4.3,
+              "soldNights": 16,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -8801,20 +8829,20 @@
               "capacityText": "最大 1 間 × 31 天"
             },
             {
-              "roomType": "Z2大雙人房",
+              "roomType": "O雙人房",
               "bookingRate": 25.8,
-              "avgDailyRate": 1617,
-              "orderCount": 2.3,
+              "avgDailyRate": 1409,
+              "orderCount": 3.5,
               "soldNights": 8,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
             {
-              "roomType": "O雙人房",
-              "bookingRate": 19.4,
-              "avgDailyRate": 1443,
-              "orderCount": 3,
-              "soldNights": 6,
+              "roomType": "Z2大雙人房",
+              "bookingRate": 25.8,
+              "avgDailyRate": 1617,
+              "orderCount": 2.3,
+              "soldNights": 8,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
