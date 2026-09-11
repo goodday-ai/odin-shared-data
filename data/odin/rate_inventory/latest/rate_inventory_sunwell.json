@@ -4,7 +4,7 @@
   "tenant": "sunwell",
   "hotelId": "7480",
   "displayName": "晴井包棟民宿",
-  "rangeStart": "2026-09-10",
+  "rangeStart": "2026-09-11",
   "rangeEnd": "2027-01-07",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 120,
-    "dateCount": 120,
+    "itemCount": 119,
+    "dateCount": 119,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 12880,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-10",
-      "salesUnitId": "36513",
-      "salesUnitName": "包棟",
-      "planId": "46311",
-      "planName": "官網專屬優惠",
-      "price": 12880,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-11",
       "salesUnitId": "36513",
@@ -1708,5 +1694,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-09-11",
+    "rangeEnd": "2026-10-10",
+    "capturedAt": "2026-09-11T10:28:08.797Z"
+  }
 }
