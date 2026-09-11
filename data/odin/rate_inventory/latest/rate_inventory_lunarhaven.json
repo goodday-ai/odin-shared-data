@@ -4,7 +4,7 @@
   "tenant": "lunarhaven",
   "hotelId": "6721",
   "displayName": "泊月民宿",
-  "rangeStart": "2026-09-10",
+  "rangeStart": "2026-09-11",
   "rangeEnd": "2027-01-07",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 240,
-    "dateCount": 120,
+    "itemCount": 238,
+    "dateCount": 119,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 9990,
@@ -30,34 +30,6 @@
   },
   "items": [
     {
-      "date": "2026-09-10",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 11820,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-10",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 10638,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-09-11",
       "salesUnitId": "32438",
       "salesUnitName": "獨享包棟私墅",
@@ -455,7 +427,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 16082,
+      "price": 14912,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -469,7 +441,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 14473,
+      "price": 13421,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -3389,5 +3361,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-09-11",
+    "rangeEnd": "2026-10-10",
+    "capturedAt": "2026-09-11T10:27:22.263Z"
+  }
 }
