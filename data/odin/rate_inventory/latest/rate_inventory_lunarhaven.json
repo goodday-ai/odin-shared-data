@@ -4,7 +4,7 @@
   "tenant": "lunarhaven",
   "hotelId": "6721",
   "displayName": "泊月民宿",
-  "rangeStart": "2026-09-11",
+  "rangeStart": "2026-09-12",
   "rangeEnd": "2027-01-07",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 238,
-    "dateCount": 119,
+    "itemCount": 236,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 9990,
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-11",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 12453,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-11",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 11208,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-12",
       "salesUnitId": "32438",
@@ -821,8 +793,8 @@
       "planName": "官網專屬優惠",
       "price": 13969,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -835,7 +807,7 @@
       "planName": "官網專屬連住優惠",
       "price": 12572,
       "currency": "TWD",
-      "inventory": 1,
+      "inventory": 0,
       "available": false,
       "minLos": 2,
       "cta": false,
@@ -849,8 +821,8 @@
       "planName": "官網專屬優惠",
       "price": 14912,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -863,7 +835,7 @@
       "planName": "官網專屬連住優惠",
       "price": 13421,
       "currency": "TWD",
-      "inventory": 1,
+      "inventory": 0,
       "available": false,
       "minLos": 2,
       "cta": false,
@@ -877,8 +849,8 @@
       "planName": "官網專屬優惠",
       "price": 14912,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -891,7 +863,7 @@
       "planName": "官網專屬連住優惠",
       "price": 13421,
       "currency": "TWD",
-      "inventory": 1,
+      "inventory": 0,
       "available": false,
       "minLos": 2,
       "cta": false,
@@ -3363,8 +3335,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-09-11",
-    "rangeEnd": "2026-10-10",
-    "capturedAt": "2026-09-11T10:27:22.263Z"
+    "rangeStart": "2026-09-12",
+    "rangeEnd": "2026-10-11",
+    "capturedAt": "2026-09-11T23:24:32.327Z"
   }
 }
