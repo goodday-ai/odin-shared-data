@@ -7030,15 +7030,43 @@
       "剩餘尾款": 1742,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-11",
+      "訂單編號": "OBE31330581626091004",
+      "入住日期": "2026-10-11",
+      "退房日期": "2026-10-13",
+      "姓名": "",
+      "房型": "M3",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 2772,
+      "已收金額": 0,
+      "剩餘尾款": 2772,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-11",
+      "訂單編號": "OBE29820581626091101",
+      "入住日期": "2026-10-15",
+      "退房日期": "2026-10-17",
+      "姓名": "",
+      "房型": "M2",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 3289,
+      "已收金額": 0,
+      "剩餘尾款": 3289,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-10T13:22:42.638Z",
+    "generatedAt": "2026-09-11T02:32:49.195Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-09-10T13:22:42.638Z",
+      "lastUpdated": "2026-09-11T02:32:49.195Z",
       "months": [
         {
           "month": "2026-01",
@@ -8746,8 +8774,8 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 39,
-          "averageLeadDays": 79.5,
+          "totalOrders": 41,
+          "averageLeadDays": 77.2,
           "buckets": [
             {
               "label": "0-1天",
@@ -8771,54 +8799,54 @@
             },
             {
               "label": "15-30天",
-              "percent": 2.6,
-              "orders": 1
+              "percent": 4.9,
+              "orders": 2
             },
             {
               "label": "31-45天",
-              "percent": 17.9,
-              "orders": 7,
+              "percent": 19.5,
+              "orders": 8,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 25.6,
+              "percent": 24.4,
               "orders": 10,
               "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 10.3,
+              "percent": 9.8,
               "orders": 4
             },
             {
               "label": "76-90天",
-              "percent": 12.8,
+              "percent": 12.2,
               "orders": 5,
               "rank": 3
             },
             {
               "label": "91-105天",
-              "percent": 7.7,
+              "percent": 7.3,
               "orders": 3
             },
             {
               "label": "106-136天",
-              "percent": 10.3,
+              "percent": 9.8,
               "orders": 4
             },
             {
               "label": "137天以上",
-              "percent": 12.8,
+              "percent": 12.2,
               "orders": 5
             }
           ],
-          "totalBookingRate": 41,
+          "totalBookingRate": 42.3,
           "wholeHouseRate": 0,
-          "totalSales": 169410,
-          "adr": 1160,
-          "revpar": 546,
-          "soldNights": 127,
+          "totalSales": 175471,
+          "adr": 1170,
+          "revpar": 566,
+          "soldNights": 131,
           "capacityNights": 310,
           "roomDetails": [
             {
@@ -8832,10 +8860,10 @@
             },
             {
               "roomType": "M3雙人房",
-              "bookingRate": 58.1,
-              "avgDailyRate": 1180,
-              "orderCount": 4.7,
-              "soldNights": 18,
+              "bookingRate": 64.5,
+              "avgDailyRate": 1200,
+              "orderCount": 5.7,
+              "soldNights": 20,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -8868,10 +8896,10 @@
             },
             {
               "roomType": "M2大雙人房",
-              "bookingRate": 29,
-              "avgDailyRate": 1443,
-              "orderCount": 3.5,
-              "soldNights": 9,
+              "bookingRate": 35.5,
+              "avgDailyRate": 1480,
+              "orderCount": 4.5,
+              "soldNights": 11,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
