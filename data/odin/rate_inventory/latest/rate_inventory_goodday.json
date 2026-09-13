@@ -4,7 +4,7 @@
   "tenant": "goodday",
   "hotelId": "5720",
   "displayName": "良辰吉日",
-  "rangeStart": "2026-09-13",
+  "rangeStart": "2026-09-14",
   "rangeEnd": "2027-01-07",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -21,8 +21,8 @@
     ]
   },
   "summary": {
-    "itemCount": 351,
-    "dateCount": 117,
+    "itemCount": 348,
+    "dateCount": 116,
     "salesUnitCount": 1,
     "planCount": 3,
     "minPrice": 10000,
@@ -30,48 +30,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-13",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42144",
-      "planName": "2F 包棟",
-      "price": 13000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-13",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42145",
-      "planName": "3F 包棟",
-      "price": 13000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-13",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42166",
-      "planName": "獨享包棟",
-      "price": 18000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-14",
       "salesUnitId": "26669",
@@ -4946,8 +4904,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-09-13",
-    "rangeEnd": "2026-10-12",
-    "capturedAt": "2026-09-12T23:24:06.037Z"
+    "rangeStart": "2026-09-14",
+    "rangeEnd": "2026-10-13",
+    "capturedAt": "2026-09-13T23:23:41.129Z"
   }
 }
