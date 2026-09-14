@@ -4498,20 +4498,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-08-23",
-      "訂單編號": "OBE19200672326082302",
-      "入住日期": "2026-09-14",
-      "退房日期": "2026-09-16",
-      "姓名": "",
-      "房型": "5F",
-      "專案名稱": "Agoda",
-      "訂單款項": 11341.53,
-      "已收金額": 11341.53,
-      "剩餘尾款": 0,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-08-25",
       "訂單編號": "OBE56600672326082501",
       "入住日期": "2026-09-29",
@@ -4860,15 +4846,29 @@
       "剩餘尾款": 28168,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-14",
+      "訂單編號": "OBE08110672326091401",
+      "入住日期": "2026-09-14",
+      "退房日期": "2026-09-16",
+      "姓名": "",
+      "房型": "5F",
+      "專案名稱": "官網專案",
+      "訂單款項": 10842,
+      "已收金額": 10842,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-14T02:37:23.552Z",
+    "generatedAt": "2026-09-14T13:26:48.791Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-09-14T02:37:23.552Z",
+      "lastUpdated": "2026-09-14T13:26:48.791Z",
       "months": [
         {
           "month": "2026-01",
@@ -5892,12 +5892,13 @@
         {
           "month": "2026-09",
           "totalOrders": 48,
-          "averageLeadDays": 44.4,
+          "averageLeadDays": 43.9,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 10.4,
-              "orders": 5
+              "percent": 12.5,
+              "orders": 6,
+              "rank": 3
             },
             {
               "label": "2-3天",
@@ -5916,15 +5917,14 @@
             },
             {
               "label": "15-30天",
-              "percent": 27.1,
-              "orders": 13,
+              "percent": 25,
+              "orders": 12,
               "rank": 1
             },
             {
               "label": "31-45天",
               "percent": 12.5,
-              "orders": 6,
-              "rank": 3
+              "orders": 6
             },
             {
               "label": "46-60天",
@@ -5960,9 +5960,9 @@
           ],
           "totalBookingRate": 85,
           "wholeHouseRate": 0,
-          "totalSales": 631419,
-          "adr": 6190,
-          "revpar": 5262,
+          "totalSales": 630919,
+          "adr": 6185,
+          "revpar": 5258,
           "soldNights": 102,
           "capacityNights": 120,
           "roomDetails": [
@@ -5987,7 +5987,7 @@
             {
               "roomType": "5F",
               "bookingRate": 80,
-              "avgDailyRate": 6531,
+              "avgDailyRate": 6510,
               "orderCount": 12,
               "soldNights": 24,
               "capacityNights": 30,
