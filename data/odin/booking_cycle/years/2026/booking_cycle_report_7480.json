@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-16T13:23:35.507Z",
+  "generatedAt": "2026-09-17T02:32:43.095Z",
   "brand": {
     "brandKey": "7480",
     "hotelId": "7480",
     "name": "晴井包棟民宿",
-    "lastUpdated": "2026-09-16T13:23:35.507Z",
+    "lastUpdated": "2026-09-17T02:32:43.095Z",
     "months": [
       {
         "month": "2026-01",
@@ -642,8 +642,8 @@
       },
       {
         "month": "2026-09",
-        "totalOrders": 4,
-        "averageLeadDays": 37.3,
+        "totalOrders": 5,
+        "averageLeadDays": 31.8,
         "buckets": [
           {
             "label": "0-1天",
@@ -657,14 +657,15 @@
           },
           {
             "label": "4-7天",
-            "percent": 25,
+            "percent": 20,
             "orders": 1,
             "rank": 2
           },
           {
             "label": "8-14天",
-            "percent": 0,
-            "orders": 0
+            "percent": 20,
+            "orders": 1,
+            "rank": 3
           },
           {
             "label": "15-30天",
@@ -673,7 +674,7 @@
           },
           {
             "label": "31-45天",
-            "percent": 50,
+            "percent": 40,
             "orders": 2,
             "rank": 1
           },
@@ -684,9 +685,8 @@
           },
           {
             "label": "61-75天",
-            "percent": 25,
-            "orders": 1,
-            "rank": 3
+            "percent": 20,
+            "orders": 1
           },
           {
             "label": "76-90天",
@@ -710,8 +710,8 @@
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 116442,
-        "adr": 14555,
+        "totalSales": 144502,
+        "adr": 14450,
         "revpar": 0,
         "soldNights": 0,
         "capacityNights": 0,
@@ -719,9 +719,9 @@
           {
             "roomType": "包棟",
             "bookingRate": 0,
-            "avgDailyRate": 14555,
-            "orderCount": 4,
-            "soldNights": 8,
+            "avgDailyRate": 14450,
+            "orderCount": 5,
+            "soldNights": 10,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
