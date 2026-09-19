@@ -991,9 +991,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 67728,
-      "已收金額": 0,
-      "剩餘尾款": 67728,
+      "訂單款項": 33916,
+      "已收金額": 35700,
+      "剩餘尾款": -1784,
       "UUID": "",
       "電話": ""
     },
@@ -1174,8 +1174,8 @@
       "房型": "包棟",
       "專案名稱": "官網專案",
       "訂單款項": 27200,
-      "已收金額": 14000,
-      "剩餘尾款": 13200,
+      "已收金額": 28000,
+      "剩餘尾款": -800,
       "UUID": "",
       "電話": ""
     },
@@ -1279,12 +1279,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-19T02:30:47.664Z",
+    "generatedAt": "2026-09-19T13:21:09.456Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-09-19T02:30:47.664Z",
+      "lastUpdated": "2026-09-19T13:21:09.456Z",
       "months": [
         {
           "month": "2025-12",
@@ -2522,16 +2522,16 @@
           ],
           "totalBookingRate": 76.7,
           "wholeHouseRate": 76.7,
-          "totalSales": 384340,
-          "adr": 3342,
-          "revpar": 2562,
+          "totalSales": 350528,
+          "adr": 3048,
+          "revpar": 2337,
           "soldNights": 115,
           "capacityNights": 150,
           "roomDetails": [
             {
               "roomType": "四人房",
               "bookingRate": 76.7,
-              "avgDailyRate": 3342,
+              "avgDailyRate": 3048,
               "orderCount": 10,
               "soldNights": 92,
               "capacityNights": 120,
@@ -2541,7 +2541,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 76.7,
-              "avgDailyRate": 16710,
+              "avgDailyRate": 15240,
               "orderCount": 10,
               "soldNights": 23,
               "capacityNights": 30,
@@ -2550,7 +2550,7 @@
             {
               "roomType": "雙人房",
               "bookingRate": 76.7,
-              "avgDailyRate": 3342,
+              "avgDailyRate": 3048,
               "orderCount": 10,
               "soldNights": 23,
               "capacityNights": 30,
