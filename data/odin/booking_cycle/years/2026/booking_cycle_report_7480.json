@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-20T02:32:28.310Z",
+  "generatedAt": "2026-09-20T13:20:13.047Z",
   "brand": {
     "brandKey": "7480",
     "hotelId": "7480",
     "name": "晴井包棟民宿",
-    "lastUpdated": "2026-09-20T02:32:28.310Z",
+    "lastUpdated": "2026-09-20T13:20:13.047Z",
     "months": [
       {
         "month": "2026-01",
@@ -732,8 +732,8 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 4,
-        "averageLeadDays": 55.5,
+        "totalOrders": 5,
+        "averageLeadDays": 51.2,
         "buckets": [
           {
             "label": "0-1天",
@@ -762,19 +762,19 @@
           },
           {
             "label": "31-45天",
-            "percent": 25,
-            "orders": 1,
-            "rank": 2
-          },
-          {
-            "label": "46-60天",
-            "percent": 50,
+            "percent": 40,
             "orders": 2,
             "rank": 1
           },
           {
+            "label": "46-60天",
+            "percent": 40,
+            "orders": 2,
+            "rank": 2
+          },
+          {
             "label": "61-75天",
-            "percent": 25,
+            "percent": 20,
             "orders": 1,
             "rank": 3
           },
@@ -800,8 +800,8 @@
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 87930,
-        "adr": 12561,
+        "totalSales": 116060,
+        "adr": 12896,
         "revpar": 0,
         "soldNights": 0,
         "capacityNights": 0,
@@ -809,9 +809,9 @@
           {
             "roomType": "包棟",
             "bookingRate": 0,
-            "avgDailyRate": 12561,
-            "orderCount": 4,
-            "soldNights": 7,
+            "avgDailyRate": 12896,
+            "orderCount": 5,
+            "soldNights": 9,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
