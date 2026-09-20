@@ -1173,9 +1173,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 27200,
+      "訂單款項": 28000,
       "已收金額": 28000,
-      "剩餘尾款": -800,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1279,12 +1279,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-20T02:33:04.173Z",
+    "generatedAt": "2026-09-20T13:20:48.888Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-09-20T02:33:04.173Z",
+      "lastUpdated": "2026-09-20T13:20:48.888Z",
       "months": [
         {
           "month": "2025-12",
@@ -2522,16 +2522,16 @@
           ],
           "totalBookingRate": 76.7,
           "wholeHouseRate": 76.7,
-          "totalSales": 350528,
-          "adr": 3048,
-          "revpar": 2337,
+          "totalSales": 351328,
+          "adr": 3055,
+          "revpar": 2342,
           "soldNights": 115,
           "capacityNights": 150,
           "roomDetails": [
             {
               "roomType": "四人房",
               "bookingRate": 76.7,
-              "avgDailyRate": 3048,
+              "avgDailyRate": 3055,
               "orderCount": 10,
               "soldNights": 92,
               "capacityNights": 120,
@@ -2541,7 +2541,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 76.7,
-              "avgDailyRate": 15240,
+              "avgDailyRate": 15275,
               "orderCount": 10,
               "soldNights": 23,
               "capacityNights": 30,
@@ -2550,7 +2550,7 @@
             {
               "roomType": "雙人房",
               "bookingRate": 76.7,
-              "avgDailyRate": 3048,
+              "avgDailyRate": 3055,
               "orderCount": 10,
               "soldNights": 23,
               "capacityNights": 30,
