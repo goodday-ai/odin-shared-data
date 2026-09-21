@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-20T13:20:13.047Z",
+  "generatedAt": "2026-09-21T02:36:43.918Z",
   "brand": {
     "brandKey": "tbshomestay",
     "hotelId": "5917",
     "name": "澎湖綠果昔民宿",
-    "lastUpdated": "2026-09-20T13:20:13.047Z",
+    "lastUpdated": "2026-09-21T02:36:43.918Z",
     "months": [
       {
         "month": "2026-01",
@@ -1309,8 +1309,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 1,
-        "averageLeadDays": 51,
+        "totalOrders": 0,
+        "averageLeadDays": 0,
         "buckets": [
           {
             "label": "0-1天",
@@ -1344,9 +1344,8 @@
           },
           {
             "label": "46-60天",
-            "percent": 100,
-            "orders": 1,
-            "rank": 1
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "61-75天",
@@ -1374,29 +1373,29 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 5,
+        "totalBookingRate": 0,
         "wholeHouseRate": 0,
-        "totalSales": 13800,
-        "adr": 2300,
-        "revpar": 115,
-        "soldNights": 6,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
         "capacityNights": 120,
         "roomDetails": [
           {
             "roomType": "201雙人房",
-            "bookingRate": 10,
-            "avgDailyRate": 2300,
-            "orderCount": 0.5,
-            "soldNights": 3,
+            "bookingRate": 0,
+            "avgDailyRate": 0,
+            "orderCount": 0,
+            "soldNights": 0,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
           {
             "roomType": "202四人房",
-            "bookingRate": 10,
-            "avgDailyRate": 2300,
-            "orderCount": 0.5,
-            "soldNights": 3,
+            "bookingRate": 0,
+            "avgDailyRate": 0,
+            "orderCount": 0,
+            "soldNights": 0,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
@@ -1428,9 +1427,7 @@
             "capacityText": "最大 1 組包棟 × 30 天"
           }
         ],
-        "notes": [
-          "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。"
-        ]
+        "notes": []
       },
       {
         "month": "2026-12",

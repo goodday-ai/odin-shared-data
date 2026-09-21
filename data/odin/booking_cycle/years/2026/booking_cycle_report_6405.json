@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-20T13:20:13.047Z",
+  "generatedAt": "2026-09-21T02:36:43.918Z",
   "brand": {
     "brandKey": "houseapt",
     "hotelId": "6405",
     "name": "好思公寓",
-    "lastUpdated": "2026-09-20T13:20:13.047Z",
+    "lastUpdated": "2026-09-21T02:36:43.918Z",
     "months": [
       {
         "month": "2026-01",
@@ -1105,13 +1105,13 @@
       },
       {
         "month": "2026-09",
-        "totalOrders": 41,
-        "averageLeadDays": 31,
+        "totalOrders": 42,
+        "averageLeadDays": 30.2,
         "buckets": [
           {
             "label": "0-1天",
-            "percent": 12.2,
-            "orders": 5,
+            "percent": 14.3,
+            "orders": 6,
             "rank": 3
           },
           {
@@ -1121,29 +1121,29 @@
           },
           {
             "label": "4-7天",
-            "percent": 17.1,
+            "percent": 16.7,
             "orders": 7,
             "rank": 2
           },
           {
             "label": "8-14天",
-            "percent": 12.2,
+            "percent": 11.9,
             "orders": 5
           },
           {
             "label": "15-30天",
-            "percent": 24.4,
+            "percent": 23.8,
             "orders": 10,
             "rank": 1
           },
           {
             "label": "31-45天",
-            "percent": 7.3,
+            "percent": 7.1,
             "orders": 3
           },
           {
             "label": "46-60天",
-            "percent": 4.9,
+            "percent": 4.8,
             "orders": 2
           },
           {
@@ -1158,12 +1158,12 @@
           },
           {
             "label": "91-105天",
-            "percent": 7.3,
+            "percent": 7.1,
             "orders": 3
           },
           {
             "label": "106-136天",
-            "percent": 7.3,
+            "percent": 7.1,
             "orders": 3
           },
           {
@@ -1172,12 +1172,12 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 60.7,
+        "totalBookingRate": 61.3,
         "wholeHouseRate": 0,
-        "totalSales": 339197,
-        "adr": 3727,
-        "revpar": 2261,
-        "soldNights": 91,
+        "totalSales": 341789,
+        "adr": 3715,
+        "revpar": 2279,
+        "soldNights": 92,
         "capacityNights": 150,
         "roomDetails": [
           {
@@ -1191,10 +1191,10 @@
           },
           {
             "roomType": "2F",
-            "bookingRate": 76.7,
-            "avgDailyRate": 3267,
-            "orderCount": 13,
-            "soldNights": 23,
+            "bookingRate": 80,
+            "avgDailyRate": 3239,
+            "orderCount": 14,
+            "soldNights": 24,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
