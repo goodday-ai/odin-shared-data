@@ -4,7 +4,7 @@
   "tenant": "houseresidence",
   "hotelId": "6723",
   "displayName": "好思寓所",
-  "rangeStart": "2026-09-23",
+  "rangeStart": "2026-09-24",
   "rangeEnd": "2027-01-19",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 238,
-    "dateCount": 119,
+    "itemCount": 236,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 4751,
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-23",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "40071",
-      "planName": "官網專屬優惠",
-      "price": 6723,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-23",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "43777",
-      "planName": "官網專屬不可取消優惠",
-      "price": 6052,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-24",
       "salesUnitId": "32440",
@@ -119,7 +91,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "40071",
       "planName": "官網專屬優惠",
-      "price": 7447,
+      "price": 7241,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -133,7 +105,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "43777",
       "planName": "官網專屬不可取消優惠",
-      "price": 6704,
+      "price": 6518,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -175,7 +147,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "40071",
       "planName": "官網專屬優惠",
-      "price": 7865,
+      "price": 6723,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -189,7 +161,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "43777",
       "planName": "官網專屬不可取消優惠",
-      "price": 7080,
+      "price": 6052,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -707,7 +679,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "40071",
       "planName": "官網專屬優惠",
-      "price": 6889,
+      "price": 10389,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -721,7 +693,7 @@
       "salesUnitName": "二臥室套房",
       "planId": "43777",
       "planName": "官網專屬不可取消優惠",
-      "price": 6201,
+      "price": 9352,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -877,7 +849,7 @@
       "planName": "官網專屬優惠",
       "price": 5277,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -891,7 +863,7 @@
       "planName": "官網專屬不可取消優惠",
       "price": 4751,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -3363,8 +3335,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-09-23",
-    "rangeEnd": "2026-10-22",
-    "capturedAt": "2026-09-22T23:25:09.751Z"
+    "rangeStart": "2026-09-24",
+    "rangeEnd": "2026-10-23",
+    "capturedAt": "2026-09-23T23:23:16.265Z"
   }
 }
