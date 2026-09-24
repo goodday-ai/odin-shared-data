@@ -2,6 +2,11 @@
   "hotelId": "5577",
   "hotelName": "今棧行旅",
   "rangeStr": "2026-01-07~2026-12-01",
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": []
+  },
   "columns": [
     "訂單日期",
     "訂單編號",
@@ -16203,12 +16208,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-19T13:27:42.794Z",
+    "generatedAt": "2026-09-24T08:45:55.515Z",
     "brand": {
       "brandKey": "superbhotel",
       "hotelId": "5577",
       "name": "今棧行旅",
-      "lastUpdated": "2026-09-19T13:27:42.794Z",
+      "lastUpdated": "2026-09-24T08:45:55.515Z",
       "months": [
         {
           "month": "2026-01",

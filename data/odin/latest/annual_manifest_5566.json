@@ -1,0 +1,26 @@
+{
+  "version": "odin_annual_v1",
+  "hotelId": "5566",
+  "partitionBy": "checkin",
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": []
+  },
+  "years": [
+    {
+      "year": "2025",
+      "path": "data/odin/by-year/2025/orders_sheet_ready_5566.json",
+      "rowCount": 5,
+      "complete": false,
+      "sha256": "a36cfe2054a58b4706295523fae369f15a313a1830143e99384083373d5527c4"
+    },
+    {
+      "year": "2026",
+      "path": "data/odin/by-year/2026/orders_sheet_ready_5566.json",
+      "rowCount": 3015,
+      "complete": false,
+      "sha256": "f62223bf7c14300e266786f9f82b33f8201e7afba1286c545bec798d5d19758a"
+    }
+  ]
+}

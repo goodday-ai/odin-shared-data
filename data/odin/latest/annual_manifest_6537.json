@@ -1,0 +1,57 @@
+{
+  "version": "odin_annual_v1",
+  "hotelId": "6537",
+  "partitionBy": "checkin",
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": [
+      {
+        "start": "2025-01-01",
+        "end": "2026-01-01",
+        "updatedAt": "2026-09-14T17:04:55.554Z",
+        "expiresAt": "2026-09-16T17:04:55.554Z"
+      },
+      {
+        "start": "2026-01-01",
+        "end": "2027-01-01",
+        "updatedAt": "2026-09-24T02:33:29.564Z",
+        "expiresAt": "2026-09-26T02:33:29.564Z"
+      },
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "updatedAt": "2026-09-14T16:42:09.979Z",
+        "expiresAt": "2026-09-16T16:42:09.979Z"
+      }
+    ],
+    "retainedYears": [
+      "2025",
+      "2026"
+    ],
+    "historyBaselineYear": "2025"
+  },
+  "years": [
+    {
+      "year": "2025",
+      "path": "data/odin/by-year/2025/orders_sheet_ready_6537.json",
+      "rowCount": 31,
+      "complete": true,
+      "sha256": "0661c2fb594d64d1b913fdf54117bf678442016583ec8765ea99f0ee70baa74d"
+    },
+    {
+      "year": "2026",
+      "path": "data/odin/by-year/2026/orders_sheet_ready_6537.json",
+      "rowCount": 77,
+      "complete": true,
+      "sha256": "811846b292ad0572d96d91a8dc8cc750e2b530487c34a273e74bd69683878c27"
+    },
+    {
+      "year": "2027",
+      "path": "data/odin/by-year/2027/orders_sheet_ready_6537.json",
+      "rowCount": 0,
+      "complete": true,
+      "sha256": "75523e221b800057dc9b8ff21ac3ce1f40ba2058d8eccb95a40d9e38af027808"
+    }
+  ]
+}

@@ -2,6 +2,11 @@
   "hotelId": "5566",
   "hotelName": "綠的旅店",
   "rangeStr": "2025-12-30~2027-01-01",
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": []
+  },
   "columns": [
     "訂單日期",
     "訂單編號",
@@ -42299,12 +42304,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-22T05:35:51.355Z",
+    "generatedAt": "2026-09-24T08:45:54.984Z",
     "brand": {
       "brandKey": "greenhotel",
       "hotelId": "5566",
       "name": "綠的旅店",
-      "lastUpdated": "2026-09-22T05:35:51.355Z",
+      "lastUpdated": "2026-09-24T08:45:54.984Z",
       "months": [
         {
           "month": "2025-12",
