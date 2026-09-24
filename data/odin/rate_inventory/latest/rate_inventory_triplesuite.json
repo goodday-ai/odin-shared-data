@@ -4,11 +4,11 @@
   "tenant": "triplesuite",
   "hotelId": "6323",
   "displayName": "弎居胡同",
-  "rangeStart": "2026-09-24",
-  "rangeEnd": "2027-01-19",
+  "rangeStart": "2026-09-25",
+  "rangeEnd": "2027-01-22",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-09-21T23:26:30.261Z",
+  "capturedAt": "2026-09-24T23:25:48.947Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 118,
-    "dateCount": 118,
+    "itemCount": 120,
+    "dateCount": 120,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 11177,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-24",
-      "salesUnitId": "30274",
-      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
-      "planId": "41445",
-      "planName": "官網專屬優惠",
-      "price": 12054,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-25",
       "salesUnitId": "30274",
@@ -342,7 +328,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11578,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -678,7 +664,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11177,
+      "price": 11601,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1266,7 +1252,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1280,7 +1266,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1294,7 +1280,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1679,11 +1665,48 @@
       "minLos": 1,
       "cta": false,
       "ctd": false
+    },
+    {
+      "date": "2027-01-20",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-21",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-22",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12801,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-09-24",
-    "rangeEnd": "2026-10-23",
-    "capturedAt": "2026-09-24T01:41:35.925Z"
-  }
+  ]
 }
