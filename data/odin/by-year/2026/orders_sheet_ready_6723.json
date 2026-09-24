@@ -4505,9 +4505,9 @@
       "姓名": "",
       "房型": "2F",
       "專案名稱": "官網專案",
-      "訂單款項": 16600,
-      "已收金額": 8300,
-      "剩餘尾款": 8300,
+      "訂單款項": 16100,
+      "已收金額": 16100,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -4520,8 +4520,8 @@
       "房型": "4F",
       "專案名稱": "Booking",
       "訂單款項": 17035,
-      "已收金額": 0,
-      "剩餘尾款": 17035,
+      "已收金額": 17035,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -4988,8 +4988,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-09-24T02:33:29.564Z",
-        "expiresAt": "2026-09-26T02:33:29.564Z"
+        "updatedAt": "2026-09-24T13:24:24.229Z",
+        "expiresAt": "2026-09-26T13:24:24.229Z"
       },
       {
         "start": "2027-01-01",
@@ -5009,12 +5009,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-09-24T02:33:29.564Z",
+    "generatedAt": "2026-09-24T13:24:24.229Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-09-24T02:33:29.564Z",
+      "lastUpdated": "2026-09-24T13:24:24.229Z",
       "months": [
         {
           "month": "2026-01",
@@ -6106,16 +6106,16 @@
           ],
           "totalBookingRate": 86.7,
           "wholeHouseRate": 0,
-          "totalSales": 665325,
-          "adr": 6397,
-          "revpar": 5544,
+          "totalSales": 664825,
+          "adr": 6393,
+          "revpar": 5540,
           "soldNights": 104,
           "capacityNights": 120,
           "roomDetails": [
             {
               "roomType": "2F",
               "bookingRate": 93.3,
-              "avgDailyRate": 5543,
+              "avgDailyRate": 5525,
               "orderCount": 12,
               "soldNights": 28,
               "capacityNights": 30,
