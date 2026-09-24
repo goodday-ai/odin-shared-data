@@ -5,12 +5,13 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
+    "historyBaselineYear": "2025",
     "checkinRanges": [
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-09-14T17:04:55.554Z",
-        "expiresAt": "2026-09-16T17:04:55.554Z"
+        "updatedAt": "2026-09-24T08:48:15.983Z",
+        "expiresAt": "2026-09-26T08:48:15.983Z"
       },
       {
         "start": "2026-01-01",
@@ -28,8 +29,7 @@
     "retainedYears": [
       "2025",
       "2026"
-    ],
-    "historyBaselineYear": "2025"
+    ]
   },
   "years": [
     {
@@ -37,21 +37,21 @@
       "path": "data/odin/by-year/2025/orders_sheet_ready_6323.json",
       "rowCount": 96,
       "complete": true,
-      "sha256": "44c502f10f8518bf88bd768e05d9fc9155b2b14ded54db96f9ca7d6edaf1b492"
+      "sha256": "2ff2f74924cde5be1aa60a78025cc8d75f6c6a9c181046c5ece9cc1a9a94522a"
     },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_6323.json",
       "rowCount": 76,
       "complete": true,
-      "sha256": "5dc8f7c22844275eae164bb77f603a4e7b71aa20b4dafcc64aa90f4307d4f13c"
+      "sha256": "a3aff7b7ed69bbff14cb3242f4c17ae991a4c2f116c114b4e74aee960bbe7a79"
     },
     {
       "year": "2027",
       "path": "data/odin/by-year/2027/orders_sheet_ready_6323.json",
       "rowCount": 0,
       "complete": true,
-      "sha256": "fc68d81c431e5621e8a53b81c16f956c2dcd1f6eea3e3d3e4b3296b51057cf4e"
+      "sha256": "2c463ee276b3a102c0901b202f6854d456e9533e0d4a5eb15ff228c530d05be2"
     }
   ]
 }

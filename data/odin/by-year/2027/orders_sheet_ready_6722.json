@@ -20,12 +20,13 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
+    "historyBaselineYear": "2025",
     "checkinRanges": [
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-09-14T17:04:55.554Z",
-        "expiresAt": "2026-09-16T17:04:55.554Z"
+        "updatedAt": "2026-09-24T08:48:15.983Z",
+        "expiresAt": "2026-09-26T08:48:15.983Z"
       },
       {
         "start": "2026-01-01",
@@ -42,8 +43,7 @@
     ],
     "retainedYears": [
       "2026"
-    ],
-    "historyBaselineYear": "2025"
+    ]
   },
   "complete": true,
   "emptyVerified": true,

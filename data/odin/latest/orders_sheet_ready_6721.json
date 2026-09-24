@@ -2,15 +2,27 @@
   "hotelId": "6721",
   "hotelName": "泊月民宿",
   "rangeStr": "2025-07-28~2027-05-15",
+  "lastImportScope": {
+    "protocol": "checkin_scope_v1",
+    "generatedAt": "2026-09-24T08:48:15.983Z",
+    "maxAgeHours": 48,
+    "ranges": [
+      {
+        "start": "2025-01-01",
+        "end": "2026-01-01"
+      }
+    ]
+  },
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
+    "historyBaselineYear": "2025",
     "checkinRanges": [
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-09-14T17:04:55.554Z",
-        "expiresAt": "2026-09-16T17:04:55.554Z"
+        "updatedAt": "2026-09-24T08:48:15.983Z",
+        "expiresAt": "2026-09-26T08:48:15.983Z"
       },
       {
         "start": "2026-01-01",
@@ -29,8 +41,7 @@
       "2025",
       "2026",
       "2027"
-    ],
-    "historyBaselineYear": "2025"
+    ]
   },
   "columns": [
     "訂單日期",
@@ -1743,12 +1754,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-24T08:45:58.017Z",
+    "generatedAt": "2026-09-24T08:54:20.205Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-09-24T08:45:58.017Z",
+      "lastUpdated": "2026-09-24T08:54:20.205Z",
       "months": [
         {
           "month": "2025-07",
