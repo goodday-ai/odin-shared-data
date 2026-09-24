@@ -91,19 +91,27 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
-    "checkinRanges": []
+    "checkinRanges": [],
+    "verifiedStayRanges": [
+      {
+        "start": "2026-09-26",
+        "end": "2026-09-27",
+        "source": "operator_confirmed",
+        "updatedAt": "2026-09-24T10:55:07.853Z"
+      }
+    ]
   },
   "complete": false,
   "emptyVerified": false,
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2025",
-    "generatedAt": "2026-09-24T08:46:19.571Z",
+    "generatedAt": "2026-09-24T10:55:16.962Z",
     "brand": {
       "brandKey": "greenhotel",
       "hotelId": "5566",
       "name": "綠的旅店",
-      "lastUpdated": "2026-09-24T08:46:19.571Z",
+      "lastUpdated": "2026-09-24T10:55:16.962Z",
       "months": [
         {
           "month": "2025-01",

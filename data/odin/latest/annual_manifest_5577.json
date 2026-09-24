@@ -5,7 +5,15 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
-    "checkinRanges": []
+    "checkinRanges": [],
+    "verifiedStayRanges": [
+      {
+        "start": "2026-09-26",
+        "end": "2026-09-27",
+        "source": "operator_confirmed",
+        "updatedAt": "2026-09-24T10:55:09.450Z"
+      }
+    ]
   },
   "years": [
     {
@@ -13,7 +21,7 @@
       "path": "data/odin/by-year/2026/orders_sheet_ready_5577.json",
       "rowCount": 1156,
       "complete": false,
-      "sha256": "f09de93a7570cb1ed86130fe92541be078c30e99ce820e16fc4e50a36d8ed4f7"
+      "sha256": "d4f04ca762d56314ae7766d486e7c54a8db15c04e5bb83f7a42646dda3d62809"
     }
   ]
 }
