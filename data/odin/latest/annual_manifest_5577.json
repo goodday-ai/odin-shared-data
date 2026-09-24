@@ -11,6 +11,12 @@
         "end": "2026-09-27",
         "source": "operator_confirmed",
         "updatedAt": "2026-09-24T10:55:09.450Z"
+      },
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "source": "operator_confirmed",
+        "updatedAt": "2026-09-24T13:01:08.838Z"
       }
     ],
     "checkinRanges": [
@@ -31,14 +37,14 @@
       "path": "data/odin/by-year/2026/orders_sheet_ready_5577.json",
       "rowCount": 1156,
       "complete": false,
-      "sha256": "d3ec1dc2614974221b378a6ed70937117763b755a75d6f7b28d6e867dc6f104d"
+      "sha256": "61d066c59480b8d82ec0b5801bdf8f3c1623a7e9da09806e00e8f85ca833083e"
     },
     {
       "year": "2027",
       "path": "data/odin/by-year/2027/orders_sheet_ready_5577.json",
       "rowCount": 2,
       "complete": true,
-      "sha256": "516bfb13853d034d6f351a714aefe91e2a7b377369a7983d3da51fb6999ea3c5"
+      "sha256": "50c2401a29eaf872c201573d8db1aeee593f79c770f1dca01c0fc9888e0a67e4"
     }
   ]
 }
