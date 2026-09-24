@@ -5,7 +5,6 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
-    "checkinRanges": [],
     "verifiedStayRanges": [
       {
         "start": "2026-09-26",
@@ -13,6 +12,17 @@
         "source": "operator_confirmed",
         "updatedAt": "2026-09-24T10:55:09.450Z"
       }
+    ],
+    "checkinRanges": [
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "updatedAt": "2026-09-24T12:23:40.217Z"
+      }
+    ],
+    "retainedYears": [
+      "2026",
+      "2027"
     ]
   },
   "years": [
@@ -21,7 +31,14 @@
       "path": "data/odin/by-year/2026/orders_sheet_ready_5577.json",
       "rowCount": 1156,
       "complete": false,
-      "sha256": "d4f04ca762d56314ae7766d486e7c54a8db15c04e5bb83f7a42646dda3d62809"
+      "sha256": "3f347410c9203c5680e31b3d777142f5d7e5cc26d125baa96e19250b5cca09db"
+    },
+    {
+      "year": "2027",
+      "path": "data/odin/by-year/2027/orders_sheet_ready_5577.json",
+      "rowCount": 2,
+      "complete": true,
+      "sha256": "0038add08b3e4a9b41490b3367f5431d6697690288c984c40e69359f30ce4468"
     }
   ]
 }
