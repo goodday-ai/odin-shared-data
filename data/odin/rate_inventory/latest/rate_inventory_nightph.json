@@ -4,7 +4,7 @@
   "tenant": "nightph",
   "hotelId": "6454",
   "displayName": "伊莉莎白甜夜",
-  "rangeStart": "2026-09-25",
+  "rangeStart": "2026-09-26",
   "rangeEnd": "2027-01-22",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 98,
-    "dateCount": 98,
+    "itemCount": 97,
+    "dateCount": 97,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 12500,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-09-25",
-      "salesUnitId": "31168",
-      "salesUnitName": "包棟",
-      "planId": "35157",
-      "planName": "官網專案",
-      "price": 13500,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-09-26",
       "salesUnitId": "31168",
@@ -1400,5 +1386,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-09-26",
+    "rangeEnd": "2026-10-25",
+    "capturedAt": "2026-09-25T23:25:37.654Z"
+  }
 }
