@@ -42499,6 +42499,11 @@
     ],
     "checkinRanges": [
       {
+        "start": "2026-01-01",
+        "end": "2027-01-01",
+        "updatedAt": "2026-09-26T03:55:06.537Z"
+      },
+      {
         "start": "2026-09-22",
         "end": "2027-01-01",
         "updatedAt": "2026-09-25T04:46:39.162Z"
@@ -42513,19 +42518,20 @@
       "2025",
       "2026",
       "2027"
-    ]
+    ],
+    "historyBaselineYear": "2026"
   },
-  "complete": false,
+  "complete": true,
   "emptyVerified": false,
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-09-25T04:46:39.162Z",
+    "generatedAt": "2026-09-26T03:55:06.537Z",
     "brand": {
       "brandKey": "greenhotel",
       "hotelId": "5566",
       "name": "綠的旅店",
-      "lastUpdated": "2026-09-25T04:46:39.162Z",
+      "lastUpdated": "2026-09-26T03:55:06.537Z",
       "months": [
         {
           "month": "2026-01",
