@@ -4,7 +4,7 @@
   "rangeStr": "2025-08-22~2027-03-07",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-09-26T02:30:53.024Z",
+    "generatedAt": "2026-09-26T13:19:43.565Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-09-26T02:30:53.024Z",
-        "expiresAt": "2026-09-28T02:30:53.024Z"
+        "updatedAt": "2026-09-26T13:19:43.565Z",
+        "expiresAt": "2026-09-28T13:19:43.565Z"
       },
       {
         "start": "2027-01-01",
@@ -5345,8 +5345,8 @@
       "房型": "4F",
       "專案名稱": "官網專案",
       "訂單款項": 18839,
-      "已收金額": 8920,
-      "剩餘尾款": 9919,
+      "已收金額": 18839,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -5557,6 +5557,20 @@
       "訂單款項": 21427,
       "已收金額": 0,
       "剩餘尾款": 21427,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-09-26",
+      "訂單編號": "OBE95930672326092601",
+      "入住日期": "2026-10-09",
+      "退房日期": "2026-10-12",
+      "姓名": "",
+      "房型": "4F",
+      "專案名稱": "Agoda",
+      "訂單款項": 16078.73,
+      "已收金額": 16078.73,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -5786,12 +5800,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-26T02:35:01.724Z",
+    "generatedAt": "2026-09-26T13:29:09.236Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-09-26T02:35:01.724Z",
+      "lastUpdated": "2026-09-26T13:29:09.236Z",
       "months": [
         {
           "month": "2025-08",
@@ -7574,8 +7588,8 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 20,
-          "averageLeadDays": 45.7,
+          "totalOrders": 21,
+          "averageLeadDays": 44.1,
           "buckets": [
             {
               "label": "0-1天",
@@ -7594,40 +7608,40 @@
             },
             {
               "label": "8-14天",
-              "percent": 0,
-              "orders": 0
+              "percent": 4.8,
+              "orders": 1
             },
             {
               "label": "15-30天",
-              "percent": 35,
+              "percent": 33.3,
               "orders": 7,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 20,
+              "percent": 19,
               "orders": 4,
               "rank": 3
             },
             {
               "label": "46-60天",
-              "percent": 25,
+              "percent": 23.8,
               "orders": 5,
               "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 10,
+              "percent": 9.5,
               "orders": 2
             },
             {
               "label": "76-90天",
-              "percent": 5,
+              "percent": 4.8,
               "orders": 1
             },
             {
               "label": "91-105天",
-              "percent": 5,
+              "percent": 4.8,
               "orders": 1
             },
             {
@@ -7641,12 +7655,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 42.7,
+          "totalBookingRate": 45.2,
           "wholeHouseRate": 0,
-          "totalSales": 339809,
-          "adr": 6411,
-          "revpar": 2740,
-          "soldNights": 53,
+          "totalSales": 355888,
+          "adr": 6355,
+          "revpar": 2870,
+          "soldNights": 56,
           "capacityNights": 124,
           "roomDetails": [
             {
@@ -7669,10 +7683,10 @@
             },
             {
               "roomType": "4F",
-              "bookingRate": 32.3,
-              "avgDailyRate": 6485,
-              "orderCount": 2.8,
-              "soldNights": 10,
+              "bookingRate": 41.9,
+              "avgDailyRate": 6226,
+              "orderCount": 3.8,
+              "soldNights": 13,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
