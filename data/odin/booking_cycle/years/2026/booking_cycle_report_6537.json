@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-27T13:20:50.670Z",
+  "generatedAt": "2026-09-28T02:41:16.355Z",
   "brand": {
     "brandKey": "housestay",
     "hotelId": "6537",
     "name": "好思民宿",
-    "lastUpdated": "2026-09-27T13:20:50.670Z",
+    "lastUpdated": "2026-09-28T02:41:16.355Z",
     "months": [
       {
         "month": "2026-01",
@@ -1111,8 +1111,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 3,
-        "averageLeadDays": 88.7,
+        "totalOrders": 2,
+        "averageLeadDays": 109,
         "buckets": [
           {
             "label": "0-1天",
@@ -1146,15 +1146,14 @@
           },
           {
             "label": "46-60天",
-            "percent": 33.3,
-            "orders": 1,
-            "rank": 1
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "61-75天",
-            "percent": 33.3,
+            "percent": 50,
             "orders": 1,
-            "rank": 2
+            "rank": 1
           },
           {
             "label": "76-90天",
@@ -1173,47 +1172,47 @@
           },
           {
             "label": "137天以上",
-            "percent": 33.3,
+            "percent": 50,
             "orders": 1,
-            "rank": 3
+            "rank": 2
           }
         ],
-        "totalBookingRate": 30,
-        "wholeHouseRate": 30,
-        "totalSales": 47158,
-        "adr": 1747,
-        "revpar": 524,
-        "soldNights": 27,
+        "totalBookingRate": 23.3,
+        "wholeHouseRate": 23.3,
+        "totalSales": 35190,
+        "adr": 1676,
+        "revpar": 391,
+        "soldNights": 21,
         "capacityNights": 90,
         "roomDetails": [
           {
             "roomType": "雙人房",
-            "bookingRate": 30,
-            "avgDailyRate": 1747,
-            "orderCount": 3,
-            "soldNights": 18,
+            "bookingRate": 23.3,
+            "avgDailyRate": 1676,
+            "orderCount": 2,
+            "soldNights": 14,
             "capacityNights": 60,
             "capacityText": "最大 2 間 × 30 天",
-            "wholeHouseImpact": "含包棟展開 3 筆"
+            "wholeHouseImpact": "含包棟展開 2 筆"
           },
           {
             "roomType": "包棟",
-            "bookingRate": 30,
-            "avgDailyRate": 5240,
-            "orderCount": 3,
-            "soldNights": 9,
+            "bookingRate": 23.3,
+            "avgDailyRate": 5027,
+            "orderCount": 2,
+            "soldNights": 7,
             "capacityNights": 30,
             "capacityText": "最大 1 組包棟 × 30 天"
           },
           {
             "roomType": "四人房",
-            "bookingRate": 30,
-            "avgDailyRate": 1747,
-            "orderCount": 3,
-            "soldNights": 9,
+            "bookingRate": 23.3,
+            "avgDailyRate": 1676,
+            "orderCount": 2,
+            "soldNights": 7,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天",
-            "wholeHouseImpact": "含包棟展開 3 筆"
+            "wholeHouseImpact": "含包棟展開 2 筆"
           }
         ],
         "notes": [

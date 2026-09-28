@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-27T13:20:50.670Z",
+  "generatedAt": "2026-09-28T02:41:16.355Z",
   "brand": {
     "brandKey": "theinlandisland",
     "hotelId": "7177",
     "name": "澎湖島嶼時光民宿",
-    "lastUpdated": "2026-09-27T13:20:50.670Z",
+    "lastUpdated": "2026-09-28T02:41:16.355Z",
     "months": [
       {
         "month": "2026-01",
@@ -1454,18 +1454,18 @@
       },
       {
         "month": "2026-09",
-        "totalOrders": 102,
-        "averageLeadDays": 22.2,
+        "totalOrders": 103,
+        "averageLeadDays": 22,
         "buckets": [
           {
             "label": "0-1天",
-            "percent": 10.8,
-            "orders": 11,
+            "percent": 11.7,
+            "orders": 12,
             "rank": 3
           },
           {
             "label": "2-3天",
-            "percent": 16.7,
+            "percent": 16.5,
             "orders": 17,
             "rank": 2
           },
@@ -1476,18 +1476,18 @@
           },
           {
             "label": "8-14天",
-            "percent": 8.8,
+            "percent": 8.7,
             "orders": 9
           },
           {
             "label": "15-30天",
-            "percent": 40.2,
+            "percent": 39.8,
             "orders": 41,
             "rank": 1
           },
           {
             "label": "31-45天",
-            "percent": 6.9,
+            "percent": 6.8,
             "orders": 7
           },
           {
@@ -1521,12 +1521,12 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 79.7,
+        "totalBookingRate": 80.3,
         "wholeHouseRate": 0,
-        "totalSales": 348924,
-        "adr": 1460,
-        "revpar": 1163,
-        "soldNights": 239,
+        "totalSales": 350654,
+        "adr": 1455,
+        "revpar": 1169,
+        "soldNights": 241,
         "capacityNights": 300,
         "roomDetails": [
           {
@@ -1557,20 +1557,20 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
+            "roomType": "101雙人房",
+            "bookingRate": 90,
+            "avgDailyRate": 1283,
+            "orderCount": 12,
+            "soldNights": 27,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
+          },
+          {
             "roomType": "303雙人房",
             "bookingRate": 86.7,
             "avgDailyRate": 1775,
             "orderCount": 10,
             "soldNights": 26,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
-            "roomType": "101雙人房",
-            "bookingRate": 83.3,
-            "avgDailyRate": 1317,
-            "orderCount": 11,
-            "soldNights": 25,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
@@ -1636,8 +1636,8 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 34,
-        "averageLeadDays": 35.6,
+        "totalOrders": 35,
+        "averageLeadDays": 34.7,
         "buckets": [
           {
             "label": "0-1天",
@@ -1651,35 +1651,35 @@
           },
           {
             "label": "4-7天",
-            "percent": 0,
-            "orders": 0
+            "percent": 2.9,
+            "orders": 1
           },
           {
             "label": "8-14天",
-            "percent": 8.8,
+            "percent": 8.6,
             "orders": 3
           },
           {
             "label": "15-30天",
-            "percent": 35.3,
+            "percent": 34.3,
             "orders": 12,
             "rank": 1
           },
           {
             "label": "31-45天",
-            "percent": 23.5,
+            "percent": 22.9,
             "orders": 8,
             "rank": 3
           },
           {
             "label": "46-60天",
-            "percent": 26.5,
+            "percent": 25.7,
             "orders": 9,
             "rank": 2
           },
           {
             "label": "61-75天",
-            "percent": 5.9,
+            "percent": 5.7,
             "orders": 2
           },
           {
@@ -1703,12 +1703,12 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 41.3,
+        "totalBookingRate": 41.9,
         "wholeHouseRate": 0,
-        "totalSales": 200872,
-        "adr": 1569,
-        "revpar": 648,
-        "soldNights": 128,
+        "totalSales": 202602,
+        "adr": 1558,
+        "revpar": 654,
+        "soldNights": 130,
         "capacityNights": 310,
         "roomDetails": [
           {
@@ -1739,6 +1739,15 @@
             "capacityText": "最大 1 間 × 31 天"
           },
           {
+            "roomType": "301雙人房",
+            "bookingRate": 41.9,
+            "avgDailyRate": 1753,
+            "orderCount": 4.6,
+            "soldNights": 13,
+            "capacityNights": 31,
+            "capacityText": "最大 1 間 × 31 天"
+          },
+          {
             "roomType": "303雙人房",
             "bookingRate": 41.9,
             "avgDailyRate": 1760,
@@ -1752,15 +1761,6 @@
             "bookingRate": 35.5,
             "avgDailyRate": 2256,
             "orderCount": 1.9,
-            "soldNights": 11,
-            "capacityNights": 31,
-            "capacityText": "最大 1 間 × 31 天"
-          },
-          {
-            "roomType": "301雙人房",
-            "bookingRate": 35.5,
-            "avgDailyRate": 1915,
-            "orderCount": 3.6,
             "soldNights": 11,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
