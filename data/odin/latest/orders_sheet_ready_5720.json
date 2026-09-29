@@ -4,7 +4,7 @@
   "rangeStr": "2025-01-23~2027-02-01",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-09-29T02:34:08.260Z",
+    "generatedAt": "2026-09-29T13:30:13.948Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-09-29T02:34:08.260Z",
-        "expiresAt": "2026-10-01T02:34:08.260Z"
+        "updatedAt": "2026-09-29T13:30:13.948Z",
+        "expiresAt": "2026-10-01T13:30:13.948Z"
       },
       {
         "start": "2027-01-01",
@@ -1977,6 +1977,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-09-29",
+      "訂單編號": "OBE86150572026092901",
+      "入住日期": "2026-10-11",
+      "退房日期": "2026-10-13",
+      "姓名": "",
+      "房型": "3F",
+      "專案名稱": "Booking 3F",
+      "訂單款項": 22032,
+      "已收金額": 0,
+      "剩餘尾款": 22032,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-05-15",
       "訂單編號": "OBE76170572026051502",
       "入住日期": "2026-10-17",
@@ -2020,12 +2034,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-09-29T02:36:38.228Z",
+    "generatedAt": "2026-09-29T13:32:54.676Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-09-29T02:36:38.228Z",
+      "lastUpdated": "2026-09-29T13:32:54.676Z",
       "months": [
         {
           "month": "2025-01",
@@ -4024,8 +4038,8 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 5,
-          "averageLeadDays": 87.2,
+          "totalOrders": 6,
+          "averageLeadDays": 74.7,
           "buckets": [
             {
               "label": "0-1天",
@@ -4044,8 +4058,9 @@
             },
             {
               "label": "8-14天",
-              "percent": 0,
-              "orders": 0
+              "percent": 16.7,
+              "orders": 1,
+              "rank": 3
             },
             {
               "label": "15-30天",
@@ -4059,7 +4074,7 @@
             },
             {
               "label": "46-60天",
-              "percent": 40,
+              "percent": 33.3,
               "orders": 2,
               "rank": 1
             },
@@ -4070,7 +4085,7 @@
             },
             {
               "label": "76-90天",
-              "percent": 40,
+              "percent": 33.3,
               "orders": 2,
               "rank": 2
             },
@@ -4086,31 +4101,30 @@
             },
             {
               "label": "137天以上",
-              "percent": 20,
-              "orders": 1,
-              "rank": 3
+              "percent": 16.7,
+              "orders": 1
             }
           ],
-          "totalBookingRate": 41.9,
+          "totalBookingRate": 45.2,
           "wholeHouseRate": 41.9,
-          "totalSales": 210000,
-          "adr": 8077,
-          "revpar": 3387,
-          "soldNights": 26,
+          "totalSales": 232032,
+          "adr": 8287,
+          "revpar": 3742,
+          "soldNights": 28,
           "capacityNights": 62,
           "roomDetails": [
             {
-              "roomType": "2F",
-              "bookingRate": 41.9,
-              "avgDailyRate": 8077,
-              "orderCount": 5,
-              "soldNights": 13,
+              "roomType": "3F",
+              "bookingRate": 48.4,
+              "avgDailyRate": 8469,
+              "orderCount": 6,
+              "soldNights": 15,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 5 筆"
             },
             {
-              "roomType": "3F",
+              "roomType": "2F",
               "bookingRate": 41.9,
               "avgDailyRate": 8077,
               "orderCount": 5,
