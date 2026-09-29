@@ -4,7 +4,7 @@
   "tenant": "goodday",
   "hotelId": "5720",
   "displayName": "良辰吉日",
-  "rangeStart": "2026-09-29",
+  "rangeStart": "2026-09-30",
   "rangeEnd": "2027-01-26",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -21,8 +21,8 @@
     ]
   },
   "summary": {
-    "itemCount": 360,
-    "dateCount": 120,
+    "itemCount": 357,
+    "dateCount": 119,
     "salesUnitCount": 1,
     "planCount": 3,
     "minPrice": 10000,
@@ -31,48 +31,6 @@
   },
   "items": [
     {
-      "date": "2026-09-29",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42144",
-      "planName": "2F 包棟",
-      "price": 13000,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-29",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42145",
-      "planName": "3F 包棟",
-      "price": 13000,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-09-29",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42166",
-      "planName": "獨享包棟",
-      "price": 18000,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-09-30",
       "salesUnitId": "26669",
       "salesUnitName": "獨享包棟私墅",
@@ -543,7 +501,7 @@
       "price": 12000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -557,7 +515,7 @@
       "price": 12000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -571,7 +529,7 @@
       "price": 18000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -585,7 +543,7 @@
       "price": 12000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -599,7 +557,7 @@
       "price": 12000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -613,7 +571,7 @@
       "price": 18000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5070,5 +5028,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-09-30",
+    "rangeEnd": "2026-10-29",
+    "capturedAt": "2026-09-29T23:26:52.379Z"
+  }
 }
