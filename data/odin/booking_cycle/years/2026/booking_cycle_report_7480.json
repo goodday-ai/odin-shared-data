@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-09-30T02:37:35.142Z",
+  "generatedAt": "2026-09-30T13:28:23.171Z",
   "brand": {
     "brandKey": "7480",
     "hotelId": "7480",
     "name": "晴井包棟民宿",
-    "lastUpdated": "2026-09-30T02:37:35.142Z",
+    "lastUpdated": "2026-09-30T13:28:23.171Z",
     "months": [
       {
         "month": "2026-01",
@@ -732,8 +732,8 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 5,
-        "averageLeadDays": 46.8,
+        "totalOrders": 4,
+        "averageLeadDays": 55.5,
         "buckets": [
           {
             "label": "0-1天",
@@ -752,9 +752,8 @@
           },
           {
             "label": "8-14天",
-            "percent": 20,
-            "orders": 1,
-            "rank": 2
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "15-30天",
@@ -763,20 +762,21 @@
           },
           {
             "label": "31-45天",
-            "percent": 20,
+            "percent": 25,
             "orders": 1,
-            "rank": 3
+            "rank": 2
           },
           {
             "label": "46-60天",
-            "percent": 40,
+            "percent": 50,
             "orders": 2,
             "rank": 1
           },
           {
             "label": "61-75天",
-            "percent": 20,
-            "orders": 1
+            "percent": 25,
+            "orders": 1,
+            "rank": 3
           },
           {
             "label": "76-90天",
@@ -800,8 +800,8 @@
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 115929,
-        "adr": 12881,
+        "totalSales": 87930,
+        "adr": 12561,
         "revpar": 0,
         "soldNights": 0,
         "capacityNights": 0,
@@ -809,9 +809,9 @@
           {
             "roomType": "包棟",
             "bookingRate": 0,
-            "avgDailyRate": 12881,
-            "orderCount": 5,
-            "soldNights": 9,
+            "avgDailyRate": 12561,
+            "orderCount": 4,
+            "soldNights": 7,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
