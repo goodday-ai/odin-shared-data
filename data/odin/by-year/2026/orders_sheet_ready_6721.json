@@ -1103,9 +1103,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 25670,
-      "已收金額": 0,
-      "剩餘尾款": 25670,
+      "訂單款項": 21198,
+      "已收金額": 21000,
+      "剩餘尾款": 198,
       "UUID": "",
       "電話": ""
     },
@@ -1250,8 +1250,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-09-30T13:28:23.171Z",
-        "expiresAt": "2026-10-02T13:28:23.171Z"
+        "updatedAt": "2026-10-01T02:41:52.821Z",
+        "expiresAt": "2026-10-03T02:41:52.821Z"
       },
       {
         "start": "2027-01-01",
@@ -1271,12 +1271,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-09-30T13:28:23.171Z",
+    "generatedAt": "2026-10-01T02:41:52.821Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-09-30T13:28:23.171Z",
+      "lastUpdated": "2026-10-01T02:41:52.821Z",
       "months": [
         {
           "month": "2026-01",
@@ -2516,16 +2516,16 @@
           ],
           "totalBookingRate": 45.2,
           "wholeHouseRate": 45.2,
-          "totalSales": 205523,
-          "adr": 2936,
-          "revpar": 1326,
+          "totalSales": 201051,
+          "adr": 2872,
+          "revpar": 1297,
           "soldNights": 70,
           "capacityNights": 155,
           "roomDetails": [
             {
               "roomType": "四人房",
               "bookingRate": 45.2,
-              "avgDailyRate": 2936,
+              "avgDailyRate": 2872,
               "orderCount": 8,
               "soldNights": 56,
               "capacityNights": 124,
@@ -2535,7 +2535,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 45.2,
-              "avgDailyRate": 14680,
+              "avgDailyRate": 14361,
               "orderCount": 8,
               "soldNights": 14,
               "capacityNights": 31,
@@ -2544,7 +2544,7 @@
             {
               "roomType": "雙人房",
               "bookingRate": 45.2,
-              "avgDailyRate": 2936,
+              "avgDailyRate": 2872,
               "orderCount": 8,
               "soldNights": 14,
               "capacityNights": 31,
