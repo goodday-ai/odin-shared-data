@@ -4,11 +4,11 @@
   "tenant": "triplesuite",
   "hotelId": "6323",
   "displayName": "弎居胡同",
-  "rangeStart": "2026-10-05",
-  "rangeEnd": "2027-01-29",
+  "rangeStart": "2026-10-06",
+  "rangeEnd": "2027-02-02",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-01T23:27:11.423Z",
+  "capturedAt": "2026-10-05T23:27:16.853Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 117,
-    "dateCount": 117,
+    "itemCount": 120,
+    "dateCount": 120,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 11177,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-05",
-      "salesUnitId": "30274",
-      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
-      "planId": "41445",
-      "planName": "官網專屬優惠",
-      "price": 12171,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-06",
       "salesUnitId": "30274",
@@ -216,7 +202,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11177,
+      "price": 15289,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -622,7 +608,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11177,
+      "price": 11543,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -650,7 +636,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11177,
+      "price": 11543,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1252,7 +1238,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 16701,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1266,7 +1252,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 19001,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1280,7 +1266,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 19001,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1294,7 +1280,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1665,11 +1651,62 @@
       "minLos": 1,
       "cta": false,
       "ctd": false
+    },
+    {
+      "date": "2027-01-30",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 13001,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-31",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-02-01",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-02-02",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-05",
-    "rangeEnd": "2026-11-03",
-    "capturedAt": "2026-10-04T23:27:40.378Z"
-  }
+  ]
 }

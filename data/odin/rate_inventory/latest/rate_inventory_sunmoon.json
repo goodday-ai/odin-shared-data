@@ -4,11 +4,11 @@
   "tenant": "sunmoon",
   "hotelId": "6722",
   "displayName": "桑沐民宿",
-  "rangeStart": "2026-10-05",
-  "rangeEnd": "2027-01-29",
+  "rangeStart": "2026-10-06",
+  "rangeEnd": "2027-02-02",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-01T23:27:09.301Z",
+  "capturedAt": "2026-10-05T23:27:14.843Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -21,8 +21,8 @@
     ]
   },
   "summary": {
-    "itemCount": 351,
-    "dateCount": 117,
+    "itemCount": 354,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 3,
     "minPrice": 12150,
@@ -31,48 +31,6 @@
   },
   "items": [
     {
-      "date": "2026-10-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "37738",
-      "planName": "官網專案",
-      "price": 22131,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "42691",
-      "planName": "(14人包棟)5-12月連住限定專案",
-      "price": 13500,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "44175",
-      "planName": "(8人包棟)5-12月連住限定專案",
-      "price": 12150,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-10-06",
       "salesUnitId": "32439",
       "salesUnitName": "包棟（一天只接待一組客人）",
@@ -4932,6 +4890,90 @@
     },
     {
       "date": "2027-01-29",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "44175",
+      "planName": "(8人包棟)5-12月連住限定專案",
+      "price": 12150,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-30",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "37738",
+      "planName": "官網專案",
+      "price": 22131,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-30",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "42691",
+      "planName": "(14人包棟)5-12月連住限定專案",
+      "price": 13500,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-30",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "44175",
+      "planName": "(8人包棟)5-12月連住限定專案",
+      "price": 12150,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-31",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "37738",
+      "planName": "官網專案",
+      "price": 22131,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-31",
+      "salesUnitId": "32439",
+      "salesUnitName": "包棟（一天只接待一組客人）",
+      "planId": "42691",
+      "planName": "(14人包棟)5-12月連住限定專案",
+      "price": 13500,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-31",
       "salesUnitId": "32439",
       "salesUnitName": "包棟（一天只接待一組客人）",
       "planId": "44175",
@@ -4944,10 +4986,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-05",
-    "rangeEnd": "2026-11-03",
-    "capturedAt": "2026-10-04T23:27:38.515Z"
-  }
+  ]
 }
