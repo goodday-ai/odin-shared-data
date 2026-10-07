@@ -4,7 +4,7 @@
   "tenant": "houseresidence",
   "hotelId": "6723",
   "displayName": "好思寓所",
-  "rangeStart": "2026-10-07",
+  "rangeStart": "2026-10-08",
   "rangeEnd": "2027-02-02",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 238,
-    "dateCount": 119,
+    "itemCount": 236,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 4751,
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-07",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "40071",
-      "planName": "官網專屬優惠",
-      "price": 6051,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-07",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "43777",
-      "planName": "官網專屬不可取消優惠",
-      "price": 5447,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-08",
       "salesUnitId": "32440",
@@ -345,7 +317,7 @@
       "planName": "官網專屬優惠",
       "price": 5277,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -359,7 +331,7 @@
       "planName": "官網專屬不可取消優惠",
       "price": 4751,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -373,7 +345,7 @@
       "planName": "官網專屬優惠",
       "price": 5277,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -387,7 +359,7 @@
       "planName": "官網專屬不可取消優惠",
       "price": 4751,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -3363,8 +3335,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-10-07",
-    "rangeEnd": "2026-11-05",
-    "capturedAt": "2026-10-06T23:29:21.766Z"
+    "rangeStart": "2026-10-08",
+    "rangeEnd": "2026-11-06",
+    "capturedAt": "2026-10-07T23:27:49.116Z"
   }
 }
