@@ -4,7 +4,7 @@
   "rangeStr": "2026-07-03~2026-10-19",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-10-07T03:13:37.874Z",
+    "generatedAt": "2026-10-07T13:29:11.370Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-07T03:13:37.874Z",
-        "expiresAt": "2026-10-09T03:13:37.874Z"
+        "updatedAt": "2026-10-07T13:29:11.370Z",
+        "expiresAt": "2026-10-09T13:29:11.370Z"
       },
       {
         "start": "2027-01-01",
@@ -400,9 +400,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "官網專案",
-      "訂單款項": 25760,
-      "已收金額": 12880,
-      "剩餘尾款": 12880,
+      "訂單款項": 23760,
+      "已收金額": 23760,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -450,12 +450,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-10-07T03:16:00.628Z",
+    "generatedAt": "2026-10-07T13:33:27.044Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-10-07T03:16:00.628Z",
+      "lastUpdated": "2026-10-07T13:33:27.044Z",
       "months": [
         {
           "month": "2026-07",
@@ -799,8 +799,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 113690,
-          "adr": 12632,
+          "totalSales": 111690,
+          "adr": 12410,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -808,7 +808,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 0,
-              "avgDailyRate": 12632,
+              "avgDailyRate": 12410,
               "orderCount": 5,
               "soldNights": 9,
               "capacityNights": 0,
