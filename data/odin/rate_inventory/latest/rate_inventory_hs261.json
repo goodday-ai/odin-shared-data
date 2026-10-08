@@ -4,11 +4,11 @@
   "tenant": "hs261",
   "hotelId": "6537",
   "displayName": "好思民宿",
-  "rangeStart": "2026-10-08",
-  "rangeEnd": "2027-02-02",
+  "rangeStart": "2026-10-09",
+  "rangeEnd": "2027-02-05",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-05T23:27:18.925Z",
+  "capturedAt": "2026-10-08T23:28:57.768Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 170,
-    "dateCount": 85,
+    "itemCount": 168,
+    "dateCount": 84,
     "salesUnitCount": 2,
     "planCount": 1,
     "minPrice": 8000,
@@ -30,34 +30,6 @@
   },
   "items": [
     {
-      "date": "2026-10-08",
-      "salesUnitId": "31484",
-      "salesUnitName": "雙人房",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 8000,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-08",
-      "salesUnitId": "31486",
-      "salesUnitName": "包棟",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 8000,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-10-09",
       "salesUnitId": "31484",
       "salesUnitName": "雙人房",
@@ -66,7 +38,7 @@
       "price": 8000,
       "currency": "TWD",
       "inventory": 2,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -79,8 +51,8 @@
       "planName": "官網限定優惠",
       "price": 8800,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -94,7 +66,7 @@
       "price": 8000,
       "currency": "TWD",
       "inventory": 2,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -107,8 +79,8 @@
       "planName": "官網限定優惠",
       "price": 8800,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2409,10 +2381,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-08",
-    "rangeEnd": "2026-11-06",
-    "capturedAt": "2026-10-07T23:27:58.551Z"
-  }
+  ]
 }
