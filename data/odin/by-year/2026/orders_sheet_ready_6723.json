@@ -4828,8 +4828,8 @@
       "房型": "5F",
       "專案名稱": "Booking",
       "訂單款項": 21427,
-      "已收金額": 0,
-      "剩餘尾款": 21427,
+      "已收金額": 21427,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -4881,7 +4881,7 @@
       "入住日期": "2026-10-12",
       "退房日期": "2026-10-16",
       "姓名": "",
-      "房型": "4F",
+      "房型": "5F",
       "專案名稱": "官網專案",
       "訂單款項": 28168,
       "已收金額": 14084,
@@ -5156,8 +5156,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-09T02:39:33.770Z",
-        "expiresAt": "2026-10-11T02:39:33.770Z"
+        "updatedAt": "2026-10-09T13:29:24.180Z",
+        "expiresAt": "2026-10-11T13:29:24.180Z"
       },
       {
         "start": "2027-01-01",
@@ -5177,12 +5177,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-10-09T02:39:33.770Z",
+    "generatedAt": "2026-10-09T13:29:24.180Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-10-09T02:39:33.770Z",
+      "lastUpdated": "2026-10-09T13:29:24.180Z",
       "months": [
         {
           "month": "2026-01",
@@ -6427,20 +6427,20 @@
               "capacityText": "最大 1 間 × 31 天"
             },
             {
-              "roomType": "4F",
-              "bookingRate": 58.1,
-              "avgDailyRate": 6199,
-              "orderCount": 5.8,
-              "soldNights": 18,
+              "roomType": "5F",
+              "bookingRate": 54.8,
+              "avgDailyRate": 7495,
+              "orderCount": 6.8,
+              "soldNights": 17,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
             {
-              "roomType": "5F",
-              "bookingRate": 41.9,
-              "avgDailyRate": 7634,
-              "orderCount": 5.8,
-              "soldNights": 13,
+              "roomType": "4F",
+              "bookingRate": 45.2,
+              "avgDailyRate": 5958,
+              "orderCount": 4.8,
+              "soldNights": 14,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
