@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-10T02:39:10.264Z",
+  "generatedAt": "2026-10-11T13:23:53.053Z",
   "brand": {
     "brandKey": "mozhouse",
     "hotelId": "5816",
     "name": "木子寓所",
-    "lastUpdated": "2026-10-10T02:39:10.264Z",
+    "lastUpdated": "2026-10-11T13:23:53.053Z",
     "months": [
       {
         "month": "2026-01",
@@ -1714,79 +1714,79 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 65,
-        "averageLeadDays": 47.2,
+        "totalOrders": 66,
+        "averageLeadDays": 46.6,
         "buckets": [
           {
             "label": "0-1天",
-            "percent": 9.2,
+            "percent": 9.1,
             "orders": 6
           },
           {
             "label": "2-3天",
-            "percent": 3.1,
+            "percent": 3,
             "orders": 2
           },
           {
             "label": "4-7天",
-            "percent": 0,
-            "orders": 0
+            "percent": 1.5,
+            "orders": 1
           },
           {
             "label": "8-14天",
-            "percent": 13.8,
+            "percent": 13.6,
             "orders": 9,
             "rank": 3
           },
           {
             "label": "15-30天",
-            "percent": 16.9,
+            "percent": 16.7,
             "orders": 11,
             "rank": 2
           },
           {
             "label": "31-45天",
-            "percent": 20,
+            "percent": 19.7,
             "orders": 13,
             "rank": 1
           },
           {
             "label": "46-60天",
-            "percent": 12.3,
+            "percent": 12.1,
             "orders": 8
           },
           {
             "label": "61-75天",
-            "percent": 3.1,
+            "percent": 3,
             "orders": 2
           },
           {
             "label": "76-90天",
-            "percent": 7.7,
+            "percent": 7.6,
             "orders": 5
           },
           {
             "label": "91-105天",
-            "percent": 3.1,
+            "percent": 3,
             "orders": 2
           },
           {
             "label": "106-136天",
-            "percent": 4.6,
+            "percent": 4.5,
             "orders": 3
           },
           {
             "label": "137天以上",
-            "percent": 6.2,
+            "percent": 6.1,
             "orders": 4
           }
         ],
-        "totalBookingRate": 57.4,
+        "totalBookingRate": 58.4,
         "wholeHouseRate": 0,
-        "totalSales": 236631,
-        "adr": 1149,
-        "revpar": 763,
-        "soldNights": 178,
+        "totalSales": 246431,
+        "adr": 1179,
+        "revpar": 795,
+        "soldNights": 181,
         "capacityNights": 310,
         "roomDetails": [
           {
@@ -1844,19 +1844,19 @@
             "capacityText": "最大 1 間 × 31 天"
           },
           {
-            "roomType": "M2大雙人房",
-            "bookingRate": 38.7,
-            "avgDailyRate": 1502,
+            "roomType": "M5大雙人房",
+            "bookingRate": 48.4,
+            "avgDailyRate": 1933,
             "orderCount": 5.5,
-            "soldNights": 12,
+            "soldNights": 15,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
           {
-            "roomType": "M5大雙人房",
+            "roomType": "M2大雙人房",
             "bookingRate": 38.7,
-            "avgDailyRate": 1600,
-            "orderCount": 4.5,
+            "avgDailyRate": 1502,
+            "orderCount": 5.5,
             "soldNights": 12,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
@@ -1896,8 +1896,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 8,
-        "averageLeadDays": 71.9,
+        "totalOrders": 9,
+        "averageLeadDays": 67.4,
         "buckets": [
           {
             "label": "0-1天",
@@ -1926,20 +1926,21 @@
           },
           {
             "label": "31-45天",
-            "percent": 12.5,
-            "orders": 1
+            "percent": 22.2,
+            "orders": 2,
+            "rank": 2
           },
           {
             "label": "46-60天",
-            "percent": 37.5,
+            "percent": 33.3,
             "orders": 3,
             "rank": 1
           },
           {
             "label": "61-75天",
-            "percent": 25,
+            "percent": 22.2,
             "orders": 2,
-            "rank": 2
+            "rank": 3
           },
           {
             "label": "76-90天",
@@ -1953,9 +1954,8 @@
           },
           {
             "label": "106-136天",
-            "percent": 25,
-            "orders": 2,
-            "rank": 3
+            "percent": 22.2,
+            "orders": 2
           },
           {
             "label": "137天以上",
@@ -1963,12 +1963,12 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 11.7,
+        "totalBookingRate": 12.7,
         "wholeHouseRate": 0,
-        "totalSales": 32480,
-        "adr": 928,
-        "revpar": 108,
-        "soldNights": 35,
+        "totalSales": 36721,
+        "adr": 966,
+        "revpar": 122,
+        "soldNights": 38,
         "capacityNights": 300,
         "roomDetails": [
           {
@@ -2008,6 +2008,15 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
+            "roomType": "Z2大雙人房",
+            "bookingRate": 10,
+            "avgDailyRate": 1414,
+            "orderCount": 1,
+            "soldNights": 3,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
+          },
+          {
             "roomType": "Z1雙人房",
             "bookingRate": 6.7,
             "avgDailyRate": 685,
@@ -2036,15 +2045,6 @@
           },
           {
             "roomType": "O雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
-            "roomType": "Z2大雙人房",
             "bookingRate": 0,
             "avgDailyRate": 0,
             "orderCount": 0,
