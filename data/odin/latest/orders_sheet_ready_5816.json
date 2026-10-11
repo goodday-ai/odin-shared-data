@@ -4,7 +4,7 @@
   "rangeStr": "2024-12-30~2027-05-10",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-10-11T02:41:28.946Z",
+    "generatedAt": "2026-10-11T13:23:53.053Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-11T02:41:28.946Z",
-        "expiresAt": "2026-10-13T02:41:28.946Z"
+        "updatedAt": "2026-10-11T13:23:53.053Z",
+        "expiresAt": "2026-10-13T13:23:53.053Z"
       },
       {
         "start": "2027-01-01",
@@ -15894,6 +15894,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-10-11",
+      "訂單編號": "OBE47710581626101101",
+      "入住日期": "2026-11-12",
+      "退房日期": "2026-11-15",
+      "姓名": "",
+      "房型": "Z2",
+      "專案名稱": "OTA串接專案",
+      "訂單款項": 4241,
+      "已收金額": 0,
+      "剩餘尾款": 4241,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-09-05",
       "訂單編號": "OBE32590581626090503",
       "入住日期": "2026-11-13",
@@ -16035,12 +16049,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-10-11T02:52:47.510Z",
+    "generatedAt": "2026-10-11T13:26:13.023Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-10-11T02:52:47.510Z",
+      "lastUpdated": "2026-10-11T13:26:13.023Z",
       "months": [
         {
           "month": "2024-12",
@@ -20395,8 +20409,8 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 8,
-          "averageLeadDays": 71.9,
+          "totalOrders": 9,
+          "averageLeadDays": 67.4,
           "buckets": [
             {
               "label": "0-1天",
@@ -20425,20 +20439,21 @@
             },
             {
               "label": "31-45天",
-              "percent": 12.5,
-              "orders": 1
+              "percent": 22.2,
+              "orders": 2,
+              "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 37.5,
+              "percent": 33.3,
               "orders": 3,
               "rank": 1
             },
             {
               "label": "61-75天",
-              "percent": 25,
+              "percent": 22.2,
               "orders": 2,
-              "rank": 2
+              "rank": 3
             },
             {
               "label": "76-90天",
@@ -20452,9 +20467,8 @@
             },
             {
               "label": "106-136天",
-              "percent": 25,
-              "orders": 2,
-              "rank": 3
+              "percent": 22.2,
+              "orders": 2
             },
             {
               "label": "137天以上",
@@ -20462,12 +20476,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 11.7,
+          "totalBookingRate": 12.7,
           "wholeHouseRate": 0,
-          "totalSales": 32480,
-          "adr": 928,
-          "revpar": 108,
-          "soldNights": 35,
+          "totalSales": 36721,
+          "adr": 966,
+          "revpar": 122,
+          "soldNights": 38,
           "capacityNights": 300,
           "roomDetails": [
             {
@@ -20507,6 +20521,15 @@
               "capacityText": "最大 1 間 × 30 天"
             },
             {
+              "roomType": "Z2大雙人房",
+              "bookingRate": 10,
+              "avgDailyRate": 1414,
+              "orderCount": 1,
+              "soldNights": 3,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
               "roomType": "Z1雙人房",
               "bookingRate": 6.7,
               "avgDailyRate": 685,
@@ -20535,15 +20558,6 @@
             },
             {
               "roomType": "O雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
-            },
-            {
-              "roomType": "Z2大雙人房",
               "bookingRate": 0,
               "avgDailyRate": 0,
               "orderCount": 0,

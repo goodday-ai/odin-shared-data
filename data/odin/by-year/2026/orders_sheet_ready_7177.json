@@ -8222,6 +8222,34 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-10-11",
+      "訂單編號": "OBE08740717726101101",
+      "入住日期": "2026-11-06",
+      "退房日期": "2026-11-08",
+      "姓名": "",
+      "房型": "202(四)",
+      "專案名稱": "CTrip",
+      "訂單款項": 2126,
+      "已收金額": 2126,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-10-11",
+      "訂單編號": "OBE60010717726101102",
+      "入住日期": "2026-11-06",
+      "退房日期": "2026-11-08",
+      "姓名": "",
+      "房型": "205(三)",
+      "專案名稱": "CTrip",
+      "訂單款項": 2312,
+      "已收金額": 2312,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-09-24",
       "訂單編號": "OBE17710717726092402",
       "入住日期": "2026-11-07",
@@ -8320,8 +8348,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-10T13:22:40.362Z",
-        "expiresAt": "2026-10-12T13:22:40.362Z"
+        "updatedAt": "2026-10-11T13:23:53.053Z",
+        "expiresAt": "2026-10-13T13:23:53.053Z"
       },
       {
         "start": "2027-01-01",
@@ -8340,12 +8368,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-10-10T13:22:40.362Z",
+    "generatedAt": "2026-10-11T13:23:53.053Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-10-10T13:22:40.362Z",
+      "lastUpdated": "2026-10-11T13:23:53.053Z",
       "months": [
         {
           "month": "2026-01",
@@ -10157,8 +10185,8 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 5,
-          "averageLeadDays": 48.4,
+          "totalOrders": 7,
+          "averageLeadDays": 42,
           "buckets": [
             {
               "label": "0-1天",
@@ -10182,18 +10210,19 @@
             },
             {
               "label": "15-30天",
-              "percent": 0,
-              "orders": 0
-            },
-            {
-              "label": "31-45天",
-              "percent": 40,
+              "percent": 28.6,
               "orders": 2,
               "rank": 2
             },
             {
+              "label": "31-45天",
+              "percent": 28.6,
+              "orders": 2,
+              "rank": 3
+            },
+            {
               "label": "46-60天",
-              "percent": 60,
+              "percent": 42.9,
               "orders": 3,
               "rank": 1
             },
@@ -10223,12 +10252,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 4,
+          "totalBookingRate": 5.3,
           "wholeHouseRate": 0,
-          "totalSales": 11863,
-          "adr": 989,
-          "revpar": 40,
-          "soldNights": 12,
+          "totalSales": 16301,
+          "adr": 1019,
+          "revpar": 54,
+          "soldNights": 16,
           "capacityNights": 300,
           "roomDetails": [
             {
@@ -10260,24 +10289,24 @@
             },
             {
               "roomType": "202四人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
-            },
-            {
-              "roomType": "203雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
+              "bookingRate": 6.7,
+              "avgDailyRate": 1063,
+              "orderCount": 1,
+              "soldNights": 2,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
             {
               "roomType": "205三人房",
+              "bookingRate": 6.7,
+              "avgDailyRate": 1156,
+              "orderCount": 1,
+              "soldNights": 2,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "203雙人房",
               "bookingRate": 0,
               "avgDailyRate": 0,
               "orderCount": 0,
