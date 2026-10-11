@@ -4,7 +4,7 @@
   "tenant": "lunarhaven",
   "hotelId": "6721",
   "displayName": "泊月民宿",
-  "rangeStart": "2026-10-11",
+  "rangeStart": "2026-10-12",
   "rangeEnd": "2027-02-05",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 236,
-    "dateCount": 118,
+    "itemCount": 234,
+    "dateCount": 117,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 5994,
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-11",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 11695,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-11",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 10526,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 2,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-12",
       "salesUnitId": "32438",
@@ -427,7 +399,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 14912,
+      "price": 12427,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -441,7 +413,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 13421,
+      "price": 11184,
       "currency": "TWD",
       "inventory": 0,
       "available": false,
@@ -875,7 +847,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 11399,
+      "price": 14078,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -889,7 +861,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 10259,
+      "price": 12670,
       "currency": "TWD",
       "inventory": 1,
       "available": false,
@@ -3335,8 +3307,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-10-11",
-    "rangeEnd": "2026-11-09",
-    "capturedAt": "2026-10-10T23:28:07.402Z"
+    "rangeStart": "2026-10-12",
+    "rangeEnd": "2026-11-10",
+    "capturedAt": "2026-10-11T23:29:12.984Z"
   }
 }
