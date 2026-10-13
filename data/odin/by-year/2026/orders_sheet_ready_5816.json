@@ -6857,9 +6857,9 @@
       "姓名": "",
       "房型": "Z2",
       "專案名稱": "官網訂房專案",
-      "訂單款項": 4200,
+      "訂單款項": 3000,
       "已收金額": 0,
-      "剩餘尾款": 4200,
+      "剩餘尾款": 3000,
       "UUID": "",
       "電話": ""
     },
@@ -7331,7 +7331,7 @@
       "入住日期": "2026-11-02",
       "退房日期": "2026-11-03",
       "姓名": "",
-      "房型": "1",
+      "房型": "M1",
       "專案名稱": "OTA串接專案",
       "訂單款項": 1234,
       "已收金額": 0,
@@ -7550,8 +7550,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-12T13:44:58.192Z",
-        "expiresAt": "2026-10-14T13:44:58.192Z"
+        "updatedAt": "2026-10-13T02:43:26.636Z",
+        "expiresAt": "2026-10-15T02:43:26.636Z"
       },
       {
         "start": "2027-01-01",
@@ -7572,12 +7572,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-10-12T13:44:58.192Z",
+    "generatedAt": "2026-10-13T02:43:26.636Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-10-12T13:44:58.192Z",
+      "lastUpdated": "2026-10-13T02:43:26.636Z",
       "months": [
         {
           "month": "2026-01",
@@ -9354,9 +9354,9 @@
           ],
           "totalBookingRate": 59,
           "wholeHouseRate": 0,
-          "totalSales": 249415,
-          "adr": 1171,
-          "revpar": 805,
+          "totalSales": 248215,
+          "adr": 1165,
+          "revpar": 801,
           "soldNights": 183,
           "capacityNights": 310,
           "roomDetails": [
@@ -9435,7 +9435,7 @@
             {
               "roomType": "Z2大雙人房",
               "bookingRate": 38.7,
-              "avgDailyRate": 1658,
+              "avgDailyRate": 1558,
               "orderCount": 4.3,
               "soldNights": 12,
               "capacityNights": 31,
@@ -9534,19 +9534,19 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 13,
+          "totalBookingRate": 13.3,
           "wholeHouseRate": 0,
           "totalSales": 37955,
-          "adr": 973,
+          "adr": 949,
           "revpar": 127,
-          "soldNights": 39,
+          "soldNights": 40,
           "capacityNights": 300,
           "roomDetails": [
             {
               "roomType": "1雙人房",
               "bookingRate": 50,
-              "avgDailyRate": 981,
-              "orderCount": 5.8,
+              "avgDailyRate": 940,
+              "orderCount": 5.3,
               "soldNights": 15,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
@@ -9562,10 +9562,10 @@
             },
             {
               "roomType": "M1雙人房",
-              "bookingRate": 20,
-              "avgDailyRate": 648,
-              "orderCount": 1.3,
-              "soldNights": 6,
+              "bookingRate": 23.3,
+              "avgDailyRate": 644,
+              "orderCount": 1.8,
+              "soldNights": 7,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
