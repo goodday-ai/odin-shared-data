@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-12T02:48:41.670Z",
+  "generatedAt": "2026-10-14T13:22:35.117Z",
   "brand": {
     "brandKey": "houseresidence",
     "hotelId": "6723",
     "name": "好思寓所",
-    "lastUpdated": "2026-10-12T02:48:41.670Z",
+    "lastUpdated": "2026-10-14T13:22:35.117Z",
     "months": [
       {
         "month": "2026-01",
@@ -1157,12 +1157,12 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 31,
-        "averageLeadDays": 34,
+        "totalOrders": 32,
+        "averageLeadDays": 33.2,
         "buckets": [
           {
             "label": "0-1天",
-            "percent": 6.5,
+            "percent": 6.3,
             "orders": 2
           },
           {
@@ -1172,45 +1172,45 @@
           },
           {
             "label": "4-7天",
-            "percent": 9.7,
-            "orders": 3
+            "percent": 12.5,
+            "orders": 4
           },
           {
             "label": "8-14天",
-            "percent": 6.5,
+            "percent": 6.3,
             "orders": 2
           },
           {
             "label": "15-30天",
-            "percent": 32.3,
+            "percent": 31.3,
             "orders": 10,
             "rank": 1
           },
           {
             "label": "31-45天",
-            "percent": 16.1,
+            "percent": 15.6,
             "orders": 5,
             "rank": 2
           },
           {
             "label": "46-60天",
-            "percent": 16.1,
+            "percent": 15.6,
             "orders": 5,
             "rank": 3
           },
           {
             "label": "61-75天",
-            "percent": 6.5,
+            "percent": 6.3,
             "orders": 2
           },
           {
             "label": "76-90天",
-            "percent": 3.2,
+            "percent": 3.1,
             "orders": 1
           },
           {
             "label": "91-105天",
-            "percent": 3.2,
+            "percent": 3.1,
             "orders": 1
           },
           {
@@ -1224,27 +1224,27 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 61.3,
+        "totalBookingRate": 62.9,
         "wholeHouseRate": 0,
-        "totalSales": 469981,
-        "adr": 6184,
-        "revpar": 3790,
-        "soldNights": 76,
+        "totalSales": 482007,
+        "adr": 6180,
+        "revpar": 3887,
+        "soldNights": 78,
         "capacityNights": 124,
         "roomDetails": [
           {
             "roomType": "2F",
-            "bookingRate": 74.2,
-            "avgDailyRate": 5788,
-            "orderCount": 11,
-            "soldNights": 23,
+            "bookingRate": 77.4,
+            "avgDailyRate": 5714,
+            "orderCount": 12,
+            "soldNights": 24,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
           {
             "roomType": "3F",
             "bookingRate": 67.7,
-            "avgDailyRate": 5775,
+            "avgDailyRate": 5752,
             "orderCount": 9.3,
             "soldNights": 21,
             "capacityNights": 31,
@@ -1252,10 +1252,10 @@
           },
           {
             "roomType": "5F",
-            "bookingRate": 54.8,
-            "avgDailyRate": 7495,
+            "bookingRate": 58.1,
+            "avgDailyRate": 7552,
             "orderCount": 6.8,
-            "soldNights": 17,
+            "soldNights": 18,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
@@ -1286,8 +1286,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 4,
-        "averageLeadDays": 55.8,
+        "totalOrders": 6,
+        "averageLeadDays": 47.3,
         "buckets": [
           {
             "label": "0-1天",
@@ -1311,13 +1311,14 @@
           },
           {
             "label": "15-30天",
-            "percent": 0,
-            "orders": 0
+            "percent": 16.7,
+            "orders": 1,
+            "rank": 2
           },
           {
             "label": "31-45天",
             "percent": 50,
-            "orders": 2,
+            "orders": 3,
             "rank": 1
           },
           {
@@ -1327,15 +1328,14 @@
           },
           {
             "label": "61-75天",
-            "percent": 25,
+            "percent": 16.7,
             "orders": 1,
-            "rank": 2
+            "rank": 3
           },
           {
             "label": "76-90天",
-            "percent": 25,
-            "orders": 1,
-            "rank": 3
+            "percent": 16.7,
+            "orders": 1
           },
           {
             "label": "91-105天",
@@ -1353,20 +1353,20 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 6.7,
+        "totalBookingRate": 10.8,
         "wholeHouseRate": 0,
-        "totalSales": 44502,
-        "adr": 5563,
-        "revpar": 371,
-        "soldNights": 8,
+        "totalSales": 65154,
+        "adr": 5012,
+        "revpar": 543,
+        "soldNights": 13,
         "capacityNights": 120,
         "roomDetails": [
           {
             "roomType": "2F",
-            "bookingRate": 20,
-            "avgDailyRate": 5147,
-            "orderCount": 3,
-            "soldNights": 6,
+            "bookingRate": 30,
+            "avgDailyRate": 4848,
+            "orderCount": 4,
+            "soldNights": 9,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
@@ -1380,16 +1380,16 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
-            "roomType": "4F",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "roomType": "5F",
+            "bookingRate": 6.7,
+            "avgDailyRate": 3951,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
           {
-            "roomType": "5F",
+            "roomType": "4F",
             "bookingRate": 0,
             "avgDailyRate": 0,
             "orderCount": 0,
