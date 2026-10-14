@@ -18,6 +18,20 @@
   ],
   "rows": [
     {
+      "訂單日期": "2026-10-13",
+      "訂單編號": "OBE16070672326101301",
+      "入住日期": "2027-02-27",
+      "退房日期": "2027-03-01",
+      "姓名": "",
+      "房型": "2F",
+      "專案名稱": "Booking",
+      "訂單款項": 20666,
+      "已收金額": 0,
+      "剩餘尾款": 20666,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-08-31",
       "訂單編號": "OBE01630672326083103",
       "入住日期": "2027-03-05",
@@ -52,8 +66,8 @@
       {
         "start": "2027-01-01",
         "end": "2028-01-01",
-        "updatedAt": "2026-10-13T01:06:55.041Z",
-        "expiresAt": "2026-10-15T01:06:55.041Z"
+        "updatedAt": "2026-10-14T00:53:25.499Z",
+        "expiresAt": "2026-10-16T00:53:25.499Z"
       }
     ],
     "retainedYears": [
@@ -67,12 +81,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2027",
-    "generatedAt": "2026-10-13T01:06:55.041Z",
+    "generatedAt": "2026-10-14T00:53:25.499Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-10-13T01:06:55.041Z",
+      "lastUpdated": "2026-10-14T00:53:25.499Z",
       "months": [
         {
           "month": "2027-01",
@@ -198,8 +212,8 @@
         },
         {
           "month": "2027-02",
-          "totalOrders": 0,
-          "averageLeadDays": 0,
+          "totalOrders": 1,
+          "averageLeadDays": 137,
           "buckets": [
             {
               "label": "0-1天",
@@ -258,24 +272,25 @@
             },
             {
               "label": "137天以上",
-              "percent": 0,
-              "orders": 0
+              "percent": 100,
+              "orders": 1,
+              "rank": 1
             }
           ],
-          "totalBookingRate": 0,
+          "totalBookingRate": 1.8,
           "wholeHouseRate": 0,
-          "totalSales": 0,
-          "adr": 0,
-          "revpar": 0,
-          "soldNights": 0,
+          "totalSales": 20666,
+          "adr": 10333,
+          "revpar": 185,
+          "soldNights": 2,
           "capacityNights": 112,
           "roomDetails": [
             {
               "roomType": "2F",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
+              "bookingRate": 7.1,
+              "avgDailyRate": 10333,
+              "orderCount": 1,
+              "soldNights": 2,
               "capacityNights": 28,
               "capacityText": "最大 1 間 × 28 天"
             },
