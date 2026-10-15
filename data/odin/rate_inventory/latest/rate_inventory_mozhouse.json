@@ -4,11 +4,11 @@
   "tenant": "mozhouse",
   "hotelId": "5816",
   "displayName": "木子寓所",
-  "rangeStart": "2026-10-15",
-  "rangeEnd": "2027-02-09",
+  "rangeStart": "2026-10-16",
+  "rangeEnd": "2027-02-12",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-12T23:29:46.321Z",
+  "capturedAt": "2026-10-15T23:24:47.086Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -23,8 +23,8 @@
     ]
   },
   "summary": {
-    "itemCount": 546,
-    "dateCount": 78,
+    "itemCount": 539,
+    "dateCount": 77,
     "salesUnitCount": 3,
     "planCount": 3,
     "minPrice": 1400,
@@ -32,104 +32,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27443",
-      "salesUnitName": "雙人房",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 3200,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "30102",
-      "planName": "官網訂房專案 - 2人入住",
-      "price": 2200,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "42263",
-      "planName": "官網訂房專案 -  4人入住",
-      "price": 3200,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 3200,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "30102",
-      "planName": "官網訂房專案 - 2人入住",
-      "price": 2200,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-15",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "42263",
-      "planName": "官網訂房專案 -  4人入住",
-      "price": 3200,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-16",
       "salesUnitId": "27443",
@@ -922,8 +824,8 @@
       "planName": "官網訂房專案",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1020,7 +922,7 @@
       "planName": "官網訂房專案",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 1,
+      "inventory": 2,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -2882,7 +2784,7 @@
       "planName": "官網訂房專案",
       "price": 1700,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 2,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -2980,7 +2882,7 @@
       "planName": "官網訂房專案",
       "price": 1700,
       "currency": "TWD",
-      "inventory": 5,
+      "inventory": 2,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -7676,10 +7578,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-15",
-    "rangeEnd": "2026-11-13",
-    "capturedAt": "2026-10-14T23:26:17.119Z"
-  }
+  ]
 }
