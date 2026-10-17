@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-17T02:29:57.139Z",
+  "generatedAt": "2026-10-17T13:19:33.315Z",
   "brand": {
     "brandKey": "houseresidence",
     "hotelId": "6723",
     "name": "好思寓所",
-    "lastUpdated": "2026-10-17T02:29:57.139Z",
+    "lastUpdated": "2026-10-17T13:19:33.315Z",
     "months": [
       {
         "month": "2026-01",
@@ -1286,8 +1286,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 7,
-        "averageLeadDays": 45.6,
+        "totalOrders": 8,
+        "averageLeadDays": 43.5,
         "buckets": [
           {
             "label": "0-1天",
@@ -1311,13 +1311,13 @@
           },
           {
             "label": "15-30天",
-            "percent": 14.3,
-            "orders": 1,
+            "percent": 25,
+            "orders": 2,
             "rank": 2
           },
           {
             "label": "31-45天",
-            "percent": 57.1,
+            "percent": 50,
             "orders": 4,
             "rank": 1
           },
@@ -1328,13 +1328,13 @@
           },
           {
             "label": "61-75天",
-            "percent": 14.3,
+            "percent": 12.5,
             "orders": 1,
             "rank": 3
           },
           {
             "label": "76-90天",
-            "percent": 14.3,
+            "percent": 12.5,
             "orders": 1
           },
           {
@@ -1353,20 +1353,29 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 11.7,
+        "totalBookingRate": 13.3,
         "wholeHouseRate": 0,
-        "totalSales": 69876,
-        "adr": 4991,
-        "revpar": 582,
-        "soldNights": 14,
+        "totalSales": 80430,
+        "adr": 5027,
+        "revpar": 670,
+        "soldNights": 16,
         "capacityNights": 120,
         "roomDetails": [
           {
             "roomType": "2F",
-            "bookingRate": 33.3,
-            "avgDailyRate": 4836,
+            "bookingRate": 30,
+            "avgDailyRate": 5101,
             "orderCount": 5,
-            "soldNights": 10,
+            "soldNights": 9,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
+          },
+          {
+            "roomType": "5F",
+            "bookingRate": 16.7,
+            "avgDailyRate": 4180,
+            "orderCount": 2,
+            "soldNights": 5,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
@@ -1374,15 +1383,6 @@
             "roomType": "3F",
             "bookingRate": 6.7,
             "avgDailyRate": 6809,
-            "orderCount": 1,
-            "soldNights": 2,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
-            "roomType": "5F",
-            "bookingRate": 6.7,
-            "avgDailyRate": 3951,
             "orderCount": 1,
             "soldNights": 2,
             "capacityNights": 30,
