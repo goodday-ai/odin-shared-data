@@ -880,8 +880,8 @@
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
       "訂單款項": 15999,
-      "已收金額": 0,
-      "剩餘尾款": 15999,
+      "已收金額": 12999,
+      "剩餘尾款": 3000,
       "UUID": "",
       "電話": ""
     },
@@ -894,8 +894,8 @@
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
       "訂單款項": 15999,
-      "已收金額": 8000,
-      "剩餘尾款": 7999,
+      "已收金額": 15999,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -907,9 +907,9 @@
       "姓名": "",
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
-      "訂單款項": 23000,
-      "已收金額": 0,
-      "剩餘尾款": 23000,
+      "訂單款項": 19000,
+      "已收金額": 11500,
+      "剩餘尾款": 7500,
       "UUID": "",
       "電話": ""
     },
@@ -922,8 +922,8 @@
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
       "訂單款項": 15999,
-      "已收金額": 10000,
-      "剩餘尾款": 5999,
+      "已收金額": 8499,
+      "剩餘尾款": 7500,
       "UUID": "",
       "電話": ""
     },
@@ -936,8 +936,8 @@
       "房型": "弎居胡同",
       "專案名稱": "官網專案",
       "訂單款項": 21499,
-      "已收金額": 21499,
-      "剩餘尾款": 0,
+      "已收金額": 18499,
+      "剩餘尾款": 3000,
       "UUID": "",
       "電話": ""
     },
@@ -1138,8 +1138,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-17T02:29:57.139Z",
-        "expiresAt": "2026-10-19T02:29:57.139Z"
+        "updatedAt": "2026-10-17T13:19:33.315Z",
+        "expiresAt": "2026-10-19T13:19:33.315Z"
       },
       {
         "start": "2027-01-01",
@@ -1159,12 +1159,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-10-17T02:29:57.139Z",
+    "generatedAt": "2026-10-17T13:19:33.315Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-10-17T02:29:57.139Z",
+      "lastUpdated": "2026-10-17T13:19:33.315Z",
       "months": [
         {
           "month": "2026-01",
@@ -2213,16 +2213,16 @@
           ],
           "totalBookingRate": 70,
           "wholeHouseRate": 70,
-          "totalSales": 207678,
-          "adr": 3296,
-          "revpar": 2308,
+          "totalSales": 203678,
+          "adr": 3233,
+          "revpar": 2263,
           "soldNights": 63,
           "capacityNights": 90,
           "roomDetails": [
             {
               "roomType": "201四人房",
               "bookingRate": 70,
-              "avgDailyRate": 3296,
+              "avgDailyRate": 3233,
               "orderCount": 9,
               "soldNights": 21,
               "capacityNights": 30,
@@ -2232,7 +2232,7 @@
             {
               "roomType": "202四人房",
               "bookingRate": 70,
-              "avgDailyRate": 3296,
+              "avgDailyRate": 3233,
               "orderCount": 9,
               "soldNights": 21,
               "capacityNights": 30,
@@ -2242,7 +2242,7 @@
             {
               "roomType": "301雙人房",
               "bookingRate": 70,
-              "avgDailyRate": 3296,
+              "avgDailyRate": 3233,
               "orderCount": 9,
               "soldNights": 21,
               "capacityNights": 30,
@@ -2252,7 +2252,7 @@
             {
               "roomType": "包棟",
               "bookingRate": 70,
-              "avgDailyRate": 9889,
+              "avgDailyRate": 9699,
               "orderCount": 9,
               "soldNights": 21,
               "capacityNights": 30,
