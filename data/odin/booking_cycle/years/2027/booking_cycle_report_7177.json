@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-10-13T01:06:55.041Z",
+  "generatedAt": "2026-10-17T00:53:07.050Z",
   "brand": {
     "brandKey": "theinlandisland",
     "hotelId": "7177",
     "name": "澎湖島嶼時光民宿",
-    "lastUpdated": "2026-10-13T01:06:55.041Z",
+    "lastUpdated": "2026-10-17T00:53:07.050Z",
     "months": [
       {
         "month": "2027-01",
@@ -186,8 +186,8 @@
       },
       {
         "month": "2027-02",
-        "totalOrders": 0,
-        "averageLeadDays": 0,
+        "totalOrders": 1,
+        "averageLeadDays": 133,
         "buckets": [
           {
             "label": "0-1天",
@@ -241,8 +241,9 @@
           },
           {
             "label": "106-136天",
-            "percent": 0,
-            "orders": 0
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
           },
           {
             "label": "137天以上",
@@ -250,20 +251,20 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 0,
+        "totalBookingRate": 0.7,
         "wholeHouseRate": 0,
-        "totalSales": 0,
-        "adr": 0,
-        "revpar": 0,
-        "soldNights": 0,
+        "totalSales": 2717,
+        "adr": 1359,
+        "revpar": 10,
+        "soldNights": 2,
         "capacityNights": 280,
         "roomDetails": [
           {
             "roomType": "101雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 1359,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
             "capacityText": "最大 1 間 × 28 天"
           },
