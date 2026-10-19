@@ -4,7 +4,7 @@
   "rangeStr": "2025-08-22~2027-03-07",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-10-19T02:35:27.757Z",
+    "generatedAt": "2026-10-19T13:28:55.193Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-19T02:35:27.757Z",
-        "expiresAt": "2026-10-21T02:35:27.757Z"
+        "updatedAt": "2026-10-19T13:28:55.193Z",
+        "expiresAt": "2026-10-21T13:28:55.193Z"
       },
       {
         "start": "2027-01-01",
@@ -5771,6 +5771,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-10-19",
+      "訂單編號": "OBE25690672326101901",
+      "入住日期": "2026-10-19",
+      "退房日期": "2026-10-21",
+      "姓名": "",
+      "房型": "2F",
+      "專案名稱": "官網專案",
+      "訂單款項": 19052,
+      "已收金額": 0,
+      "剩餘尾款": 19052,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-09-22",
       "訂單編號": "OBE11250672326092203",
       "入住日期": "2026-10-22",
@@ -6038,12 +6052,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-10-19T02:41:57.338Z",
+    "generatedAt": "2026-10-19T13:33:22.041Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-10-19T02:41:57.338Z",
+      "lastUpdated": "2026-10-19T13:33:22.041Z",
       "months": [
         {
           "month": "2025-08",
@@ -7826,13 +7840,13 @@
         },
         {
           "month": "2026-10",
-          "totalOrders": 30,
-          "averageLeadDays": 34.5,
+          "totalOrders": 31,
+          "averageLeadDays": 33.4,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 6.7,
-              "orders": 2
+              "percent": 9.7,
+              "orders": 3
             },
             {
               "label": "2-3天",
@@ -7841,45 +7855,45 @@
             },
             {
               "label": "4-7天",
-              "percent": 10,
+              "percent": 9.7,
               "orders": 3
             },
             {
               "label": "8-14天",
-              "percent": 6.7,
+              "percent": 6.5,
               "orders": 2
             },
             {
               "label": "15-30天",
-              "percent": 30,
+              "percent": 29,
               "orders": 9,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 16.7,
+              "percent": 16.1,
               "orders": 5,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 16.7,
+              "percent": 16.1,
               "orders": 5,
               "rank": 3
             },
             {
               "label": "61-75天",
-              "percent": 6.7,
+              "percent": 6.5,
               "orders": 2
             },
             {
               "label": "76-90天",
-              "percent": 3.3,
+              "percent": 3.2,
               "orders": 1
             },
             {
               "label": "91-105天",
-              "percent": 3.3,
+              "percent": 3.2,
               "orders": 1
             },
             {
@@ -7893,20 +7907,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 58.9,
+          "totalBookingRate": 60.5,
           "wholeHouseRate": 0,
-          "totalSales": 441429,
-          "adr": 6047,
-          "revpar": 3560,
-          "soldNights": 73,
+          "totalSales": 460481,
+          "adr": 6140,
+          "revpar": 3714,
+          "soldNights": 75,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "2F",
-              "bookingRate": 71,
-              "avgDailyRate": 5847,
-              "orderCount": 11,
-              "soldNights": 22,
+              "bookingRate": 77.4,
+              "avgDailyRate": 6153,
+              "orderCount": 12,
+              "soldNights": 24,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },

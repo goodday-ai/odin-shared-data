@@ -4,7 +4,7 @@
   "rangeStr": "2026-03-15~2027-03-21",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-10-19T02:35:27.757Z",
+    "generatedAt": "2026-10-19T13:28:55.193Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-19T02:35:27.757Z",
-        "expiresAt": "2026-10-21T02:35:27.757Z"
+        "updatedAt": "2026-10-19T13:28:55.193Z",
+        "expiresAt": "2026-10-21T13:28:55.193Z"
       },
       {
         "start": "2027-01-01",
@@ -8115,9 +8115,9 @@
       "姓名": "",
       "房型": "201(雙)",
       "專案名稱": "官網專案",
-      "訂單款項": 3252,
+      "訂單款項": 3200,
       "已收金額": 0,
-      "剩餘尾款": 3252,
+      "剩餘尾款": 3200,
       "UUID": "",
       "電話": ""
     },
@@ -8487,12 +8487,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-10-19T02:41:57.502Z",
+    "generatedAt": "2026-10-19T13:33:22.293Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-10-19T02:41:57.502Z",
+      "lastUpdated": "2026-10-19T13:33:22.293Z",
       "months": [
         {
           "month": "2026-03",
@@ -9839,7 +9839,7 @@
           ],
           "totalBookingRate": 57.7,
           "wholeHouseRate": 0,
-          "totalSales": 243997,
+          "totalSales": 243945,
           "adr": 1363,
           "revpar": 787,
           "soldNights": 179,
@@ -9848,7 +9848,7 @@
             {
               "roomType": "201雙人房",
               "bookingRate": 80.6,
-              "avgDailyRate": 1174,
+              "avgDailyRate": 1172,
               "orderCount": 8.4,
               "soldNights": 25,
               "capacityNights": 31,
