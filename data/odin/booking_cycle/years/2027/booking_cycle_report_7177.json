@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-10-19T00:58:57.717Z",
+  "generatedAt": "2026-10-21T00:54:18.554Z",
   "brand": {
     "brandKey": "theinlandisland",
     "hotelId": "7177",
     "name": "澎湖島嶼時光民宿",
-    "lastUpdated": "2026-10-19T00:58:57.717Z",
+    "lastUpdated": "2026-10-21T00:54:18.554Z",
     "months": [
       {
         "month": "2027-01",
@@ -186,8 +186,8 @@
       },
       {
         "month": "2027-02",
-        "totalOrders": 1,
-        "averageLeadDays": 133,
+        "totalOrders": 2,
+        "averageLeadDays": 121,
         "buckets": [
           {
             "label": "0-1天",
@@ -242,7 +242,7 @@
           {
             "label": "106-136天",
             "percent": 100,
-            "orders": 1,
+            "orders": 2,
             "rank": 1
           },
           {
@@ -251,14 +251,23 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 0.7,
+        "totalBookingRate": 1.8,
         "wholeHouseRate": 0,
-        "totalSales": 2717,
-        "adr": 1359,
-        "revpar": 10,
-        "soldNights": 2,
+        "totalSales": 8720,
+        "adr": 1744,
+        "revpar": 31,
+        "soldNights": 5,
         "capacityNights": 280,
         "roomDetails": [
+          {
+            "roomType": "205三人房",
+            "bookingRate": 10.7,
+            "avgDailyRate": 2001,
+            "orderCount": 1,
+            "soldNights": 3,
+            "capacityNights": 28,
+            "capacityText": "最大 1 間 × 28 天"
+          },
           {
             "roomType": "101雙人房",
             "bookingRate": 7.1,
@@ -297,15 +306,6 @@
           },
           {
             "roomType": "203雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
-            "capacityNights": 28,
-            "capacityText": "最大 1 間 × 28 天"
-          },
-          {
-            "roomType": "205三人房",
             "bookingRate": 0,
             "avgDailyRate": 0,
             "orderCount": 0,
