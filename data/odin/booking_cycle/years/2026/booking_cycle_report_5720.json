@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-22T00:19:50.476Z",
+  "generatedAt": "2026-10-22T13:40:28.700Z",
   "brand": {
     "brandKey": "goodday",
     "hotelId": "5720",
     "name": "良辰吉日",
-    "lastUpdated": "2026-10-22T00:19:50.476Z",
+    "lastUpdated": "2026-10-22T13:40:28.700Z",
     "months": [
       {
         "month": "2026-01",
@@ -999,8 +999,8 @@
       },
       {
         "month": "2026-10",
-        "totalOrders": 5,
-        "averageLeadDays": 71.6,
+        "totalOrders": 4,
+        "averageLeadDays": 74.5,
         "buckets": [
           {
             "label": "0-1天",
@@ -1019,9 +1019,9 @@
           },
           {
             "label": "8-14天",
-            "percent": 20,
+            "percent": 25,
             "orders": 1,
-            "rank": 2
+            "rank": 1
           },
           {
             "label": "15-30天",
@@ -1035,9 +1035,9 @@
           },
           {
             "label": "46-60天",
-            "percent": 40,
-            "orders": 2,
-            "rank": 1
+            "percent": 25,
+            "orders": 1,
+            "rank": 2
           },
           {
             "label": "61-75天",
@@ -1046,7 +1046,7 @@
           },
           {
             "label": "76-90天",
-            "percent": 20,
+            "percent": 25,
             "orders": 1,
             "rank": 3
           },
@@ -1062,44 +1062,44 @@
           },
           {
             "label": "137天以上",
-            "percent": 20,
+            "percent": 25,
             "orders": 1
           }
         ],
-        "totalBookingRate": 38.7,
-        "wholeHouseRate": 35.5,
-        "totalSales": 188032,
-        "adr": 7835,
-        "revpar": 3033,
-        "soldNights": 24,
+        "totalBookingRate": 29,
+        "wholeHouseRate": 25.8,
+        "totalSales": 140032,
+        "adr": 7780,
+        "revpar": 2259,
+        "soldNights": 18,
         "capacityNights": 62,
         "roomDetails": [
           {
             "roomType": "3F",
-            "bookingRate": 41.9,
-            "avgDailyRate": 8079,
-            "orderCount": 5,
-            "soldNights": 13,
+            "bookingRate": 32.3,
+            "avgDailyRate": 8103,
+            "orderCount": 4,
+            "soldNights": 10,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天",
-            "wholeHouseImpact": "含包棟展開 4 筆"
+            "wholeHouseImpact": "含包棟展開 3 筆"
           },
           {
             "roomType": "2F",
-            "bookingRate": 35.5,
-            "avgDailyRate": 7545,
-            "orderCount": 4,
-            "soldNights": 11,
+            "bookingRate": 25.8,
+            "avgDailyRate": 7375,
+            "orderCount": 3,
+            "soldNights": 8,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天",
-            "wholeHouseImpact": "含包棟展開 4 筆"
+            "wholeHouseImpact": "含包棟展開 3 筆"
           },
           {
             "roomType": "包棟",
-            "bookingRate": 35.5,
-            "avgDailyRate": 15091,
-            "orderCount": 4,
-            "soldNights": 11,
+            "bookingRate": 25.8,
+            "avgDailyRate": 14750,
+            "orderCount": 3,
+            "soldNights": 8,
             "capacityNights": 31,
             "capacityText": "最大 1 組包棟 × 31 天"
           }
