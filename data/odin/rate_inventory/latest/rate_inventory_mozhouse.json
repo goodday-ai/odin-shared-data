@@ -4,7 +4,7 @@
   "tenant": "mozhouse",
   "hotelId": "5816",
   "displayName": "木子寓所",
-  "rangeStart": "2026-10-23",
+  "rangeStart": "2026-10-24",
   "rangeEnd": "2027-02-19",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -23,8 +23,8 @@
     ]
   },
   "summary": {
-    "itemCount": 490,
-    "dateCount": 70,
+    "itemCount": 483,
+    "dateCount": 69,
     "salesUnitCount": 3,
     "planCount": 3,
     "minPrice": 1400,
@@ -33,104 +33,6 @@
   },
   "items": [
     {
-      "date": "2026-10-23",
-      "salesUnitId": "27443",
-      "salesUnitName": "雙人房",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 3800,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "30102",
-      "planName": "官網訂房專案 - 2人入住",
-      "price": 2300,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27444",
-      "salesUnitName": "大雙人房(附陽台)",
-      "planId": "42263",
-      "planName": "官網訂房專案 -  4人入住",
-      "price": 3400,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "29021",
-      "planName": "官網訂房專案",
-      "price": 3800,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "30102",
-      "planName": "官網訂房專案 - 2人入住",
-      "price": 2300,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-23",
-      "salesUnitId": "27475",
-      "salesUnitName": "大雙人房(無陽台)",
-      "planId": "42263",
-      "planName": "官網訂房專案 -  4人入住",
-      "price": 3400,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-10-24",
       "salesUnitId": "27443",
       "salesUnitName": "雙人房",
@@ -138,7 +40,7 @@
       "planName": "官網訂房專案",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 2,
+      "inventory": 1,
       "available": true,
       "minLos": 1,
       "cta": false,
@@ -6892,5 +6794,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-10-24",
+    "rangeEnd": "2026-11-22",
+    "capturedAt": "2026-10-23T23:26:24.660Z"
+  }
 }
