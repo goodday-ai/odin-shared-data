@@ -4,7 +4,7 @@
   "rangeStr": "2025-01-23~2027-09-28",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-10-24T06:11:17.545Z",
+    "generatedAt": "2026-10-24T13:20:13.811Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-24T06:11:17.545Z",
-        "expiresAt": "2026-10-26T06:11:17.545Z"
+        "updatedAt": "2026-10-24T13:20:13.811Z",
+        "expiresAt": "2026-10-26T13:20:13.811Z"
       },
       {
         "start": "2027-01-01",
@@ -2075,13 +2075,3252 @@
       "電話": ""
     }
   ],
+  "lodging": {
+    "schemaVersion": "lodging_sheet_metadata_v2",
+    "tenantKey": "goodday",
+    "hotelId": "5720",
+    "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+    "items": {
+      "ac066593a6efebff16966daf5c86638c5238e852f956c5b0a8e504eb0e615313": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "7f66355157b42390051f08c01a79b2131a0622bf5196b37fafa3354495e1a037": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "1b2aac4a092133ef508a8d07b8cfe949b02d9ff676d9e042a6e4cb2bdfdb79fa": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "00adad4cadc11bcf294daa9ca063df6e74d5fe2b373d5b43cde86434c066d990": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "b8e23584cee513f2318d00272da57f1dcfa98a5ee27f63e8e6ed2b8861636757": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "dcffaf11b50b16c0935d2b1c2330acbb342f8b94286a9bace62498a12c43efaa": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "181e1cb40c675dbe37a055d1b4e5ec72d164beabd988bde769be068af47e2d7b": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "a8751129e7e303466e076bb929ef278d1fd7de38c8efeba81fb2f7018309429d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "b9623ef40e4807b35e96899f9a105085a4802c99fc0e05aa8a83141a918c3809": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "5b059bbb3d4b4c8b83ba1d0a0074787ba4307446e89f1d0195fc87a84153f0f1": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "eae75cb579c0bf4501790fca0fa96240fc67284d6f070c5195dfacc5cab596bc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "e452c82e3654e40e09341808e6d18ba2e40736cb1f3f3233118946f3cfc85fdf": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "7324228a81ff36d76c97c1782e45c860186eb9ccbb54a3cec70cc2c47e5e8915": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "95e3cca16bb746c4213a67853057b91f24a98ce4a8439320013187a62bea5e8f": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "69aa5e256c1df869993931e027c7e63a725ebfd4a2fa46dd662212c7f5359d53": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "9d4399f239ebeabd8c8067d71cd3be86ff4cd15b22dc620910950e2b3ccc7fca": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ffd841bac386744fbddf5a7d186a8b6583d8a1290e50e1d04ebab94a6bd5ea68": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ffb8830b1b5fb1cd13c12c47936945a61300e60f9a605d54814fc4318f8fae91": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "e59ec95c44832ae5d71e56b209e075f65a6bc1567a57b5b39aa50e27331ac8ca": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d7afa2e4663dc8ace8ea18513f9144384286d05375c0c5018b398f0c55dd3234": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6cd4016d3bdc2a8c20959302cb8574060f030a6ce66055e6f6f5d905d51d588e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "5266e364ac87018f755f185c58617ad15152abac49cf09e087db6e1f9d00b939": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d7ab2aa8a0ffcba7945c3617892c8ceb7be49a85de9b9ce865503a37fcfd3bdd": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "61206ef23fa0735013716088b120acfe0d55925b545c115e7957ceb936638617": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ccda66f1cd785ba7f07e3ac055b436f3bffab05b4073e00be1e2fc48f12bfa45": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "13963d3f1ac1ad64f91c501f91a69ee474d5ef174a0ae8091d3c5dae7506ec5e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "2afeafd9aefcd6ec2d21b07dcd8ed29224d969ebe5332af871a8bb1040697821": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "ddcfe023a4353956d2e46cf0f3f16502edc23372880f25c7779f0172636e04ac": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "a4e2dd9bbce541f86f1abc036353def682119ef7fbd26097ce099f18700fabcc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "38166dfdb1369559ad4124900bdb4597d2fed1a2c7dd07283c0cecc845b034c7": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "1d9e13de0f531d89e34da69890e84511da3c388d35dbcf3074d9a8ef5b27fdcc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "cd36bd1de1c3a2d8a837863c2251d8828fd2f8539451a0ca34b5e78ee186d8df": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "bf9bc7ffdf3782ca21f3d6d550367bfebf6efcf7c0cd174af3083a9b135d00e6": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "4305d08f4c5c0b534eaa0ad6626b1fca24a8a5c33deee9dc95aa43e9ade4e64e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "2f2124caf1a839bfed3eae91c1850ad90666d675d33704940282592c284bf677": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "a9040c2556672e9aab2bcd58e2a81422d19e36071229a95a59a65446cdfb00a6": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "a5b9c641b4d8969bbfe48ff521694a1051d77dae8559f975b0e64c7bcc1bf06d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "e00e9f2db5bbbcde29785b958191bf723e6bb14abdd7b0f32279b724086a17ef": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "f2664d69937f0df06e72d824b22c823de5f26f8e2d15be66ff0025a2e9b1365a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "ca31acb5ae5cd2721da28bd703a8e1a431e6a20c54d25ed3e70ff2c242c88028": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "d8087818ba26f853738fe055b5d70c03b3bb066b69c67d5e612a92d8fc44dde8": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "c29ac7f0d62638ec1559dcfb1bbd1c75ea5f25c5987dcca5a7edd0bf9dee2219": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "aeeacfc92feffc3e36d0a9eab04f08570c472614dd7b63a1d7f6bddfb4baf764": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F",
+          "originalRoomTypeLabel": "2F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_2F"
+        ]
+      },
+      "1496b0c7559979c26e07442af6196569164fc1a1664059ee70f675aac86a8b90": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "fd6ff79db034177a7bea0583d4966411dcc97597de67a09568d763cfca7fac94": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "203d7b09abd67d007af8e035ea79cd3149f336553ddcd2c2cf2a5bc63d7dba05": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "cb8b92f6bf7d84640736ffe1b55a08c0990fc97a6835fb020819fc441bfcbed1": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d9e4d76015d3fba03d81e487cd376d6d4c9831f6b6e5b2d4f71b4516ad31e5ee": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "b2c773dad74869e36e3316b7eb39dbca6909f12f63e428598018c35143f7d13e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "a2fba3a30a979742ade9fe438de618adea4854fb82645904220025832981ebf8": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6c55651692b4284f328efaa20ce2f28978f1ea88a4419780ff62a6fef63ab565": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "bd604d2a91e6147acdf5106546c8de3a380d9bd6349c783d6e9b4b0f11ba29a1": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "5824ddf10a2499289062a67580a162fe0165344fc0ce17563c4099bcc22e7a33": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "3b2776dcc3204cada2cc27cbb68833a8c7803240b9907068fb4ef76c794e1513": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F",
+          "originalRoomTypeLabel": "2F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_2F"
+        ]
+      },
+      "b8898228a0436d839c5adeaf08552af82e3a948535917d5d7a49aec7934aae6b": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "ae7c61ea5c729d003e01c25e6867661b4b6adcc88ea3b30bcf20ba5909045fae": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "863c715b3202d9594532d1d552a184b9cf1c30eb2841e076ed970646ffb8a57d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "67abcacbf055a3b7b22c0b7f58378300afaa92d8bd6b9a388a4d9fea38ce88bc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "a9a27887577c6cfcd4a3fcdd149fad3c7388148e02aa3e3699bbe74fdef4af17": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "af55f4ea7096431772070794b0515b3b73822898316df5942373e3981192c9c5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "f1ca1c8458e13abf5af5bdcc790edce492f77b247f2892ca207e2d80bd2fe1ec": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "5836a47228f8318a108b2e15e4f2d6034326316d7736b121c182e6e310295b47": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "1e49c717ccdaeff3de4a9b62ba84f195faa157e09c77baa019dee6de6dc2e82d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F",
+          "originalRoomTypeLabel": "2F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_2F"
+        ]
+      },
+      "23c1f99d709e2717db4e99a2ebba600d0a35b68127aa4351c2604fc9bce254d9": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "7d767c03711b8d3858b4511db25c75d1196af8248b579bb727ba1c4fa5b035a5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "a13a05ecea9223a6e27aedbba0c7f55303abc6b7c149ea9079ce3b9c1be35e96": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "76e152a44876c593b00826c5cf6e8d79efb17b11e9d3c7fd60cadef161e90f5f": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F",
+          "originalRoomTypeLabel": "2F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_2F"
+        ]
+      },
+      "416aec0db0e7f25888032c7228f773a5387d222446835088ddb8ea9d519de33a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "c24e96687e8ac338dcb651106e888474b1626a4d58393d752440bb0a583ff7c6": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "89863a9b4690e47b201f4f53d89d69cf13302ea0d2854ba9ed69af5267bcffc0": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "9163d40c180b61dd81eba7081de786fbfea3909488a600b70155cb6ac651ebe7": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "c2f31aada8329d98f651a13544e0a82fa925705a93d30654d3c3a348a710e71b": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "07d6ef4d1888aa65a1b4191e62b54301c9c1e740d057a4a5440f5ca0211f75ff": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "540e8eedb8c77f9966bd02955f636c43bb784c0a675d79b62d91f093754da470": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "07d33fcbb381fbeaba5fc8112ea60959af79321dd8c7ca288851e017251e5a17": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "0d4c8d993fa1e1d337f72cddd8edddb0876638a2ff0fd4a33a0ac8a1a9d95865": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "2F2F 包層",
+          "originalRoomTypeLabel": "2F2F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "8879c495f7ec4bde0a17068d2bc58da15d1a8c6ff8b5d96cecc7ca014582608f": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F3F 包層",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "needs_confirmation",
+        "reason": "SOURCE_ROOM_TYPE_UNMAPPED",
+        "productId": null,
+        "candidateProductIds": []
+      },
+      "d14376ae247bebb6fbd7d6d965195307a290dafb07fdb2da203a61b32e4f25fc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "3d659a7b655af5c88daf8cff493d9245d6c81c3bb780017b6b63e304a5797fd2": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "f73b24f5798ea6995013fce52b89d85d2f956b9a596a630d1f1a7b96e25b2947": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "d9a69c45b7999fed8b682fc658a1fc8ce843bb815b461464fa55919d306d2c1d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6957f72db9c4416bb98c39d3c5adf7e834f0df620f1996e38d843b42807b53d7": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "8d905272ba1ee5d3d3a67b47a1611b5145527d12411d867973b427c59579ff72": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "1a4672fa360bc1522c49e7147705b69d4fe7bbfbb365ad04e36064a2f6250206": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "b47a6f3e9053f5e1a6bf634d87221c8281f226a52202569b8190bf0310aacbbe": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "784a723c2646369b7e44ee9f4adb63c297a1d1729a353e9bb9d39e96cb01a377": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "f3dc892313158fb8ddb0120bcd03b3f152cf3283682bfdf6c500b6247af7e053": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "690a5f553018b8d5adb45b53f8c2a3376eb87dbe5c14c44f620f005956135ce2": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "c8eb6d38134637fe97cf9b476afd8f9b08a9adca6e0f44bfc1652c8dd790e89f": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "55b15705f24f773a1321f6954cd14808500bc5825cfc8afd4eed5635d222d7cc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "b23f91abdcd373ac320d0fe97e7974424d17cec129f2c619c2838774e9c51b04": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "de298a89224fb34ab587247e83b98daca0757955a5666ecf01e641303a65b5db": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "848cc341e068eaa0bf7a104843a208e6d1eba89ed18ed44e1ea61400d58fa2c2": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ed58f333764163f4dea53a50a9b247f2114f91a0b34e97cbf20638d4d04d12da": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "584a86b9220b0b4f3299ba7e3e6369d0105d778c6320f9ab5477b01798bb6184": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "757d0f64b7f7510414e9dc2f10cf7ff29f978db1d78b59e6948ac8b01ae93128": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "7057a4e85a6f5329d2a8c4d4f2ea781460ccacc8854e18fcb9e325f182edbb08": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "2bbd1abaf5ef3b10f3dfc8f188fd98e4c50a425cc0256516596023ff687438d5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d2faa78ba3499cd9a2034a79018fc43b7f875710239bfa093e4614683de82b25": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6573f4bb465d9953e0a8f1fd904faa9c7a9423fdf9620a92487293cd9b5d43fe": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "b248f3aafb884d40dcc097dad0bb6b517e7b481c7358be6726138c6b90a94f5b": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "5e4aca3369672b14dbac89bbd13d2591ce46fd3f3c5696d05091e64662bf5ac5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "61576f05f7371682b5b2080fe9a96332b802d3b99317b3ddddedd501f5c6f0b0": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "becd619720ed1936202054449cfb3b1110a898aaadb141aca8781ea6a7aee3ec": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "fd79009781ebc5a3a784df84c5620444e8aab1be4722b0192e68d503407bc5f5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "9510e388f11f85c0aa88c60fd3c3e62b599176ed4507f2a2030d231206af5b16": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "257dd9ffb8f65f8df3f6b3015f2279e16df0d94d9e4078c41d9ae7b4ded22827": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "f394a75820fe64ea7b11bdb9149c3286f4510be143b0691da36a2f8ffccd5ad4": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "b5f6493fcac2f2f97c4daf6291d8d7bbb4361f3a56d36b7ec866a9db7ba9b6c5": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6709d87287da6e623c4f28433508faa4fa9bcbad9419c897639c67920474fd6e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "24bbf4bcd249690ee135907153566e4861e19ab3d5baa6f50a13bf12f2c1eb4a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "18841ef64261a1c6db66f0041044ba206aba8e83c47c4070928fa27f3e44aed9": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "c429f1a39d7121c710caf544050079ef1ec81b535b5f897ba4c16f21a889e13e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d48d21cc4fad0bcdc8a28b566c131abae68a59fa587fa115af01840ec0288ddb": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "212c161fa9b22f95231575673c0ccfbe127e4c55a64503e8cbbc873188beb225": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "dd7e071661fae43111152c576bd88196ef993b8d77c232494856941ff99e4b7e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "53701db30a921194fc05244b3a7dccfbf899ba6d676841ade4e54f446c5b7a58": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d62a7b238da3374e29f28f4b0ae6c8f8e206f4b9a71bfacf170559474b4a11b1": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "6bf34500d886cb0070879d50a79bf5e0f71de4acce11febe0e079c62cab09aab": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "c91e5755600d32384a4772563e5faf85b74be686380e224ad4aa8d6468e48c20": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "c6abd1052fa36d0fdf45d6dab507b2a508070b6f0c18dbecf1cc2308afd5fbdb": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "316e7dfe10c0a38c711d9aff1e76f92209897bb6d4c1abe6ec58d37f3eee7705": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "91581a6e69ef07df0398e9c2f357d5475daba69fb7a1af6ab23aaba88b3a1e72": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "63ccef661790ea4ffd02a571092f79f7aac0736d57b70bafe49ceb820cabce19": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ecbc2c666c8494c2134de5820f0fd7da0dce8d98b5d1d5a3d83b06cc34d4a6cf": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "d28cf080ce25781c54611ed85ddc7b88cd60d9355c00eacd80b006b0bd9be003": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "c5dab3639f17ab61c333ccfac607041946c2951083bff4f98eae39fbb3edac62": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "cef7ed95cf1395fbaba4e2c7b0c2710f88d88078f3ad7824e09b53a9f26e3c0e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "2b20d1c622cb1cf6d833b0aac9dd788d40cea4320475b7a7e6984f9942fb60cc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "bb2ae0c5499a390bba3a72fd51bb604de580914ce04f2f513394ce3ac625ed57": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "599a290ff67a53b1c20baf4992d019a37e0eca2f47ce1b4812e23cd005ebaf5a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "8ad440ba692b46af863f2e768e3e17cf778364f5666e535535b56ea7df402b58": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "927546727cde005a36e43d3c38b6277de761c221aa3a985ac334e3cde5963eea": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "36c2cb423a3d729a75487bf4a8df85ac7248d5d5133b43702cedab1e07796517": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "0a565627847787f215ed9e957dd7ecf4848fa3c78a989b44930b3300bb29eac9": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "7f4ea853c0baef642d312a120e5e7e9e4d8f8224b03cd50c30e6afa2234979a9": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "1d8e2e04ff324bbfbd09104c768529d0a24473f54d3943de54c473be5a8b1eb1": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "3F",
+          "originalRoomTypeLabel": "3F3F 包層"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_3F"
+        ]
+      },
+      "dcb24434b83315c384c8becae36c6f2cfd883b9e3f70b1146ad32c47a10723af": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "2b46c8399a4e89b44db47daa9ff9601d053979fe23f3e984b7a42278a4f41c9a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟獨享包棟私墅"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "842b09feea6a848c47487dcbab12eb9405879904e502432f52cbcb579a042dbc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "0ea04955140348bc742b5f5ca0af7ecb7385a4c7b26005a062b874bb09cc954a": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "06ee169420c874a7623c662df76545b05e08c7f29f0bdd0183959d0d4aeb2046": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "ab516ac3f1e7816e7bdf034c5c8483d5fc5ab8b1d8e647ecb63dd052e8f11097": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      },
+      "e002697ec4dbe7fda1c28cee5da99635bb57eb8c37e88c493d447a25e69c4b1b": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "goodday",
+        "hotelId": "5720",
+        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
+        "source": {
+          "provider": "owlting",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "包棟",
+          "originalRoomTypeLabel": "包棟"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_FULL"
+        ]
+      }
+    }
+  },
   "bookingCycleReport": {
-    "generatedAt": "2026-10-24T06:13:31.049Z",
+    "generatedAt": "2026-10-24T13:23:05.143Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-10-24T06:13:31.049Z",
+      "lastUpdated": "2026-10-24T13:23:05.143Z",
       "months": [
         {
           "month": "2025-01",
