@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-26T02:37:05.255Z",
+  "generatedAt": "2026-10-26T14:46:52.158Z",
   "brand": {
     "brandKey": "tbshomestay",
     "hotelId": "5917",
     "name": "澎湖綠果昔民宿",
-    "lastUpdated": "2026-10-26T02:37:05.255Z",
+    "lastUpdated": "2026-10-26T14:46:52.158Z",
     "months": [
       {
         "month": "2026-01",
@@ -1435,8 +1435,8 @@
       },
       {
         "month": "2026-12",
-        "totalOrders": 1,
-        "averageLeadDays": 59,
+        "totalOrders": 2,
+        "averageLeadDays": 62,
         "buckets": [
           {
             "label": "0-1天",
@@ -1470,14 +1470,15 @@
           },
           {
             "label": "46-60天",
-            "percent": 100,
+            "percent": 50,
             "orders": 1,
             "rank": 1
           },
           {
             "label": "61-75天",
-            "percent": 0,
-            "orders": 0
+            "percent": 50,
+            "orders": 1,
+            "rank": 2
           },
           {
             "label": "76-90天",
@@ -1500,20 +1501,20 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 9.7,
+        "totalBookingRate": 11.3,
         "wholeHouseRate": 9.7,
-        "totalSales": 20000,
-        "adr": 1667,
-        "revpar": 161,
-        "soldNights": 12,
+        "totalSales": 24600,
+        "adr": 1757,
+        "revpar": 198,
+        "soldNights": 14,
         "capacityNights": 124,
         "roomDetails": [
           {
             "roomType": "201雙人房",
-            "bookingRate": 9.7,
-            "avgDailyRate": 1667,
-            "orderCount": 1,
-            "soldNights": 3,
+            "bookingRate": 16.1,
+            "avgDailyRate": 1920,
+            "orderCount": 2,
+            "soldNights": 5,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天",
             "wholeHouseImpact": "含包棟展開 1 筆"
