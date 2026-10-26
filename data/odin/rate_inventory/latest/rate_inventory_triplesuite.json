@@ -4,11 +4,11 @@
   "tenant": "triplesuite",
   "hotelId": "6323",
   "displayName": "弎居胡同",
-  "rangeStart": "2026-10-26",
-  "rangeEnd": "2027-02-19",
+  "rangeStart": "2026-10-27",
+  "rangeEnd": "2027-02-23",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-22T23:27:12.895Z",
+  "capturedAt": "2026-10-26T23:26:18.072Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 117,
-    "dateCount": 117,
+    "itemCount": 120,
+    "dateCount": 120,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 11177,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-26",
-      "salesUnitId": "30274",
-      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
-      "planId": "41445",
-      "planName": "官網專屬優惠",
-      "price": 15289,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-27",
       "salesUnitId": "30274",
@@ -580,7 +566,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11466,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -594,7 +580,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 11466,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1252,7 +1238,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1266,7 +1252,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12801,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1280,7 +1266,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 13001,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1294,7 +1280,7 @@
       "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
       "planId": "41445",
       "planName": "官網專屬優惠",
-      "price": 12101,
+      "price": 11177,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1665,11 +1651,62 @@
       "minLos": 1,
       "cta": false,
       "ctd": false
+    },
+    {
+      "date": "2027-02-20",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 13001,
+      "currency": "TWD",
+      "inventory": 0,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-02-21",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 0,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-02-22",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-02-23",
+      "salesUnitId": "30274",
+      "salesUnitName": "弎居胡同（安居/樂居/旅居 三臥室）",
+      "planId": "41445",
+      "planName": "官網專屬優惠",
+      "price": 12101,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-26",
-    "rangeEnd": "2026-11-24",
-    "capturedAt": "2026-10-25T23:24:46.105Z"
-  }
+  ]
 }
