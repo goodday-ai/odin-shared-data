@@ -163,6 +163,11 @@
         "updatedAt": "2026-10-23T06:45:36.738Z"
       },
       {
+        "start": "2026-10-25",
+        "end": "2027-01-01",
+        "updatedAt": "2026-10-27T05:49:36.750Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2027-04-01",
         "updatedAt": "2026-09-24T12:22:00.820Z"
@@ -176,15 +181,138 @@
   },
   "complete": false,
   "emptyVerified": false,
+  "lodging": {
+    "schemaVersion": "lodging_sheet_metadata_v2",
+    "tenantKey": "greenhotel",
+    "hotelId": "5566",
+    "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+    "items": {
+      "dcee956815c89d3a192088a6aad0af4f377ebea7808d285494b847a93c718d8d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "6732c15b65f6df232fd1fcbe42ea839752fb46f0f33734a18ad45ac91283ad28": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "072da703e4b39c85840790191b2b43a841041096baf1d50829dd14a8b2ce75dc": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "9c4b7666bb583964db0a2e170a91ab038c7f23bd0582625d41d20d68637544f8": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "7c777ce0940d2f1d5f4f94df0af3a01a74bd6d27a7bc829a2f812aa0c493b641": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      }
+    }
+  },
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2025",
-    "generatedAt": "2026-10-23T06:45:49.002Z",
+    "generatedAt": "2026-10-27T05:49:48.446Z",
     "brand": {
       "brandKey": "greenhotel",
       "hotelId": "5566",
       "name": "綠的旅店",
-      "lastUpdated": "2026-10-23T06:45:49.002Z",
+      "lastUpdated": "2026-10-27T05:49:48.446Z",
       "months": [
         {
           "month": "2025-01",

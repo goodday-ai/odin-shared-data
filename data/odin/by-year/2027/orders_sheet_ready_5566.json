@@ -177,6 +177,11 @@
         "updatedAt": "2026-10-23T06:45:36.738Z"
       },
       {
+        "start": "2026-10-25",
+        "end": "2027-01-01",
+        "updatedAt": "2026-10-27T05:49:36.750Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2027-04-01",
         "updatedAt": "2026-09-24T12:22:00.820Z"
@@ -190,6 +195,180 @@
   },
   "complete": false,
   "emptyVerified": false,
+  "lodging": {
+    "schemaVersion": "lodging_sheet_metadata_v2",
+    "tenantKey": "greenhotel",
+    "hotelId": "5566",
+    "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+    "items": {
+      "00830e379253599b82faacb966d86247aec8a110052ea15a6b466ce73dd477f6": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "133237837e5960891db4fc4f1de4df17506548e55d89d12a20fc943ce7734b26": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻雙人房",
+          "originalRoomTypeLabel": "精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      },
+      "eb5f020ff64fffaee494a5445e6574ddb8306a5fa9bb4c8e8dd3994386ef807e": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKeys": [
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房",
+            "精緻雙人房"
+          ],
+          "originalRoomTypeLabel": "精緻雙人房｜精緻雙人房｜精緻雙人房｜精緻雙人房｜精緻雙人房｜精緻雙人房｜精緻雙人房｜精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1"
+        ]
+      },
+      "3b044654e43165cf34c8846a44353ee074efb4004e32df8cbb4221e461411c46": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKeys": [
+            "豪華雙人房",
+            "豪華雙人房",
+            "豪華雙人房",
+            "豪華雙人房"
+          ],
+          "originalRoomTypeLabel": "豪華雙人房｜豪華雙人房｜豪華雙人房｜豪華雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_2",
+          "ORDER_TYPE_2",
+          "ORDER_TYPE_2",
+          "ORDER_TYPE_2"
+        ]
+      },
+      "a3254b5712150f7d0939d1ea07a944170d30ea6abd4c3fb252114ff0aa530de4": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "精緻四人房",
+          "originalRoomTypeLabel": "精緻四人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_3"
+        ]
+      },
+      "ac9510914ad04fe46cf6737c85ef314419882f5ef1fe90dbfd0e93aef645ae3d": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "greenhotel",
+        "hotelId": "5566",
+        "catalogRevision": "7ab85e95a55778f8c2f7c06b4bf8b3896c2cfbf5a4f099f70fda62e513b21bfe",
+        "source": {
+          "provider": "greenhotel_html_xls",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKeys": [
+            "精緻雙人房",
+            "精緻雙人房"
+          ],
+          "originalRoomTypeLabel": "精緻雙人房｜精緻雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1",
+          "ORDER_TYPE_1"
+        ]
+      }
+    }
+  },
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2027",
