@@ -844,20 +844,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-10-25",
-      "訂單編號": "OBE12650572026102501",
-      "入住日期": "2026-11-20",
-      "退房日期": "2026-11-22",
-      "姓名": "",
-      "房型": "3F",
-      "專案名稱": "Booking 3F",
-      "訂單款項": 20995,
-      "已收金額": 0,
-      "剩餘尾款": 20995,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-10-12",
       "訂單編號": "OBE45900572026101201",
       "入住日期": "2026-12-31",
@@ -886,8 +872,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-10-26T14:46:52.158Z",
-        "expiresAt": "2026-10-28T14:46:52.158Z"
+        "updatedAt": "2026-10-27T02:33:51.201Z",
+        "expiresAt": "2026-10-29T02:33:51.201Z"
       },
       {
         "start": "2027-01-01",
@@ -2267,29 +2253,6 @@
           "ORDER_FULL"
         ]
       },
-      "290442afe19e2a8ed7eea4d375bd0a7969eb4759b42cadcc1702f3f336a9f802": {
-        "schemaVersion": "lodging_reservation_v2",
-        "tenantKey": "goodday",
-        "hotelId": "5720",
-        "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
-        "source": {
-          "provider": "owlting",
-          "salesUnitId": null,
-          "planId": null,
-          "originalPlanName": null,
-          "orderItemId": null,
-          "quantity": null,
-          "roomTypeKey": "3F",
-          "originalRoomTypeLabel": "3F3F 包層"
-        },
-        "status": "resolved",
-        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
-        "productId": null,
-        "candidateProductIds": [],
-        "occupancyBindingIds": [
-          "ORDER_3F"
-        ]
-      },
       "2b46c8399a4e89b44db47daa9ff9601d053979fe23f3e984b7a42278a4f41c9a": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
@@ -2318,12 +2281,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-10-26T14:46:52.158Z",
+    "generatedAt": "2026-10-27T02:33:51.201Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-10-26T14:46:52.158Z",
+      "lastUpdated": "2026-10-27T02:33:51.201Z",
       "months": [
         {
           "month": "2026-01",
@@ -3427,8 +3390,8 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 1,
-          "averageLeadDays": 26,
+          "totalOrders": 0,
+          "averageLeadDays": 0,
           "buckets": [
             {
               "label": "0-1天",
@@ -3452,9 +3415,8 @@
             },
             {
               "label": "15-30天",
-              "percent": 100,
-              "orders": 1,
-              "rank": 1
+              "percent": 0,
+              "orders": 0
             },
             {
               "label": "31-45天",
@@ -3492,25 +3454,25 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 3.3,
+          "totalBookingRate": 0,
           "wholeHouseRate": 0,
-          "totalSales": 20995,
-          "adr": 10498,
-          "revpar": 350,
-          "soldNights": 2,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
           "capacityNights": 60,
           "roomDetails": [
             {
-              "roomType": "3F",
-              "bookingRate": 6.7,
-              "avgDailyRate": 10498,
-              "orderCount": 1,
-              "soldNights": 2,
+              "roomType": "2F",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
             {
-              "roomType": "2F",
+              "roomType": "3F",
               "bookingRate": 0,
               "avgDailyRate": 0,
               "orderCount": 0,
