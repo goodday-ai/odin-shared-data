@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-10-28T02:23:11.395Z",
+  "generatedAt": "2026-10-28T13:17:49.962Z",
   "brand": {
     "brandKey": "lunarhaven",
     "hotelId": "6721",
     "name": "泊月民宿",
-    "lastUpdated": "2026-10-28T02:23:11.395Z",
+    "lastUpdated": "2026-10-28T13:17:49.962Z",
     "months": [
       {
         "month": "2026-01",
@@ -1245,16 +1245,16 @@
         ],
         "totalBookingRate": 61.3,
         "wholeHouseRate": 61.3,
-        "totalSales": 214684,
-        "adr": 2260,
-        "revpar": 1385,
+        "totalSales": 192386,
+        "adr": 2025,
+        "revpar": 1241,
         "soldNights": 95,
         "capacityNights": 155,
         "roomDetails": [
           {
             "roomType": "四人房",
             "bookingRate": 61.3,
-            "avgDailyRate": 2260,
+            "avgDailyRate": 2025,
             "orderCount": 11,
             "soldNights": 76,
             "capacityNights": 124,
@@ -1264,7 +1264,7 @@
           {
             "roomType": "包棟",
             "bookingRate": 61.3,
-            "avgDailyRate": 11299,
+            "avgDailyRate": 10126,
             "orderCount": 11,
             "soldNights": 19,
             "capacityNights": 31,
@@ -1273,7 +1273,7 @@
           {
             "roomType": "雙人房",
             "bookingRate": 61.3,
-            "avgDailyRate": 2260,
+            "avgDailyRate": 2025,
             "orderCount": 11,
             "soldNights": 19,
             "capacityNights": 31,
@@ -1301,7 +1301,8 @@
         ],
         "notes": [
           "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。",
-          "跨月入住已依實際住宿夜拆分到月份。"
+          "跨月入住已依實際住宿夜拆分到月份。",
+          "部分訂單缺少訂單款項，銷售額、ADR 與 RevPAR 只反映已提供金額的資料。"
         ]
       },
       {
