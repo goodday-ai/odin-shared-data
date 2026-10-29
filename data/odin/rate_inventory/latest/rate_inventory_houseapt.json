@@ -4,11 +4,11 @@
   "tenant": "houseapt",
   "hotelId": "6405",
   "displayName": "好思公寓",
-  "rangeStart": "2026-10-29",
-  "rangeEnd": "2027-02-23",
+  "rangeStart": "2026-10-30",
+  "rangeEnd": "2027-02-26",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-10-26T23:26:07.362Z",
+  "capturedAt": "2026-10-29T23:21:15.230Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -22,99 +22,15 @@
     ]
   },
   "summary": {
-    "itemCount": 294,
-    "dateCount": 95,
+    "itemCount": 288,
+    "dateCount": 94,
     "salesUnitCount": 3,
     "planCount": 2,
-    "minPrice": 1800,
+    "minPrice": 2000,
     "maxPrice": 4000,
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "30637",
-      "salesUnitName": "高級家庭房(一大床+一小床)",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 2500,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "30637",
-      "salesUnitName": "高級家庭房(一大床+一小床)",
-      "planId": "40119",
-      "planName": "限量優惠專案(連住)",
-      "price": 2250,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "30717",
-      "salesUnitName": "豪華家庭房(兩大床)",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 3000,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "30717",
-      "salesUnitName": "豪華家庭房(兩大床)",
-      "planId": "40119",
-      "planName": "限量優惠專案(連住)",
-      "price": 2700,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "36292",
-      "salesUnitName": "臨街一樓雙人客房**一樓雙人房型 位於靠近出入口及臨街位置，進出便利，但白天及車輛往來時可能會有些微聲響。若您對聲音較敏感，建議選擇其他較安靜房型。**",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 2000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-10-29",
-      "salesUnitId": "36292",
-      "salesUnitName": "臨街一樓雙人客房**一樓雙人房型 位於靠近出入口及臨街位置，進出便利，但白天及車輛往來時可能會有些微聲響。若您對聲音較敏感，建議選擇其他較安靜房型。**",
-      "planId": "40119",
-      "planName": "限量優惠專案(連住)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-10-30",
       "salesUnitId": "30637",
@@ -4147,10 +4063,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-10-29",
-    "rangeEnd": "2026-11-27",
-    "capturedAt": "2026-10-28T23:21:41.753Z"
-  }
+  ]
 }
