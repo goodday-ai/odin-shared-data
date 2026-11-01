@@ -4,7 +4,7 @@
   "tenant": "houseapt",
   "hotelId": "6405",
   "displayName": "好思公寓",
-  "rangeStart": "2026-11-01",
+  "rangeStart": "2026-11-02",
   "rangeEnd": "2027-02-26",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -22,8 +22,8 @@
     ]
   },
   "summary": {
-    "itemCount": 276,
-    "dateCount": 92,
+    "itemCount": 273,
+    "dateCount": 91,
     "salesUnitCount": 3,
     "planCount": 1,
     "minPrice": 2000,
@@ -31,48 +31,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-01",
-      "salesUnitId": "30637",
-      "salesUnitName": "高級家庭房(一大床+一小床)",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 2500,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-01",
-      "salesUnitId": "30717",
-      "salesUnitName": "豪華家庭房(兩大床)",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 3500,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-01",
-      "salesUnitId": "36292",
-      "salesUnitName": "臨街一樓雙人客房**一樓雙人房型 位於靠近出入口及臨街位置，進出便利，但白天及車輛往來時可能會有些微聲響。若您對聲音較敏感，建議選擇其他較安靜房型。**",
-      "planId": "34646",
-      "planName": "官網專案",
-      "price": 2000,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-02",
       "salesUnitId": "30637",
@@ -3897,8 +3855,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-11-01",
-    "rangeEnd": "2026-11-30",
-    "capturedAt": "2026-10-31T23:21:19.803Z"
+    "rangeStart": "2026-11-02",
+    "rangeEnd": "2026-12-01",
+    "capturedAt": "2026-11-01T23:21:20.801Z"
   }
 }
