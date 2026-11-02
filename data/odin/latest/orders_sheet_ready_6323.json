@@ -4,12 +4,12 @@
   "rangeStr": "2025-01-21~2027-02-22",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-02T13:17:35.531Z",
+    "generatedAt": "2026-11-02T13:21:40.985Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-01-01",
-        "end": "2027-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -21,8 +21,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-01T13:18:00.084Z",
-        "expiresAt": "2026-11-03T13:18:00.084Z"
+        "updatedAt": "2026-11-02T13:21:40.985Z",
+        "expiresAt": "2026-11-04T13:21:40.985Z"
       },
       {
         "start": "2026-01-01",
@@ -42,7 +42,15 @@
       "2026",
       "2027"
     ],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-02T13:21:40.985Z",
+        "rowCount": 96,
+        "maxCheckout": "2026-01-01",
+        "stayDatesSha256": "e39849489c798b9bf75f7b1e937a442f038d21cae4a8f25e48b5296a098ded96"
+      }
+    ]
   },
   "columns": [
     "訂單日期",
@@ -2581,12 +2589,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-02T13:21:00.776Z",
+    "generatedAt": "2026-11-02T13:23:53.050Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-11-02T13:21:00.776Z",
+      "lastUpdated": "2026-11-02T13:23:53.050Z",
       "months": [
         {
           "month": "2025-01",

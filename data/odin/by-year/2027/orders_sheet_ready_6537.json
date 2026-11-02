@@ -25,8 +25,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-01T13:18:00.084Z",
-        "expiresAt": "2026-11-03T13:18:00.084Z"
+        "updatedAt": "2026-11-02T13:21:40.985Z",
+        "expiresAt": "2026-11-04T13:21:40.985Z"
       },
       {
         "start": "2026-01-01",
@@ -45,7 +45,15 @@
       "2025",
       "2026"
     ],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-02T13:21:40.985Z",
+        "rowCount": 31,
+        "maxCheckout": "2025-11-03",
+        "stayDatesSha256": "296d98c29f46c17588dc9a6aa1a00fdc32d80436520fd24fe7f726a1bc7ab568"
+      }
+    ]
   },
   "complete": true,
   "emptyVerified": true,

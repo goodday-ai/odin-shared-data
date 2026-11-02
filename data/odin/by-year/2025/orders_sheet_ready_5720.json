@@ -1132,8 +1132,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-01T13:18:00.084Z",
-        "expiresAt": "2026-11-03T13:18:00.084Z"
+        "updatedAt": "2026-11-02T13:21:40.985Z",
+        "expiresAt": "2026-11-04T13:21:40.985Z"
       },
       {
         "start": "2026-01-01",
@@ -1153,7 +1153,15 @@
       "2026",
       "2027"
     ],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-02T13:21:40.985Z",
+        "rowCount": 79,
+        "maxCheckout": "2025-10-26",
+        "stayDatesSha256": "d7cde95a54de479ec45b45e9247559b56fc834ee05faecedc6a796f0d785e6a9"
+      }
+    ]
   },
   "complete": true,
   "emptyVerified": false,
@@ -2904,12 +2912,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2025",
-    "generatedAt": "2026-11-01T13:18:00.084Z",
+    "generatedAt": "2026-11-02T13:21:40.985Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-11-01T13:18:00.084Z",
+      "lastUpdated": "2026-11-02T13:21:40.985Z",
       "months": [
         {
           "month": "2025-01",
