@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-02T13:24:20.363Z",
+  "generatedAt": "2026-11-03T13:20:31.075Z",
   "brand": {
     "brandKey": "tbshomestay",
     "hotelId": "5917",
     "name": "澎湖綠果昔民宿",
-    "lastUpdated": "2026-11-02T13:24:20.363Z",
+    "lastUpdated": "2026-11-03T13:20:31.075Z",
     "months": [
       {
         "month": "2027-01",
@@ -132,8 +132,8 @@
       },
       {
         "month": "2027-02",
-        "totalOrders": 0,
-        "averageLeadDays": 0,
+        "totalOrders": 1,
+        "averageLeadDays": 96,
         "buckets": [
           {
             "label": "0-1天",
@@ -182,8 +182,9 @@
           },
           {
             "label": "91-105天",
-            "percent": 0,
-            "orders": 0
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
           },
           {
             "label": "106-136天",
@@ -196,61 +197,67 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 0,
-        "wholeHouseRate": 0,
-        "totalSales": 0,
-        "adr": 0,
-        "revpar": 0,
-        "soldNights": 0,
+        "totalBookingRate": 7.1,
+        "wholeHouseRate": 7.1,
+        "totalSales": 20000,
+        "adr": 2500,
+        "revpar": 179,
+        "soldNights": 8,
         "capacityNights": 112,
         "roomDetails": [
           {
             "roomType": "201雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 2500,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
-            "capacityText": "最大 1 間 × 28 天"
+            "capacityText": "最大 1 間 × 28 天",
+            "wholeHouseImpact": "含包棟展開 1 筆"
           },
           {
             "roomType": "202四人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 2500,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
-            "capacityText": "最大 1 間 × 28 天"
+            "capacityText": "最大 1 間 × 28 天",
+            "wholeHouseImpact": "含包棟展開 1 筆"
           },
           {
             "roomType": "301雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 2500,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
-            "capacityText": "最大 1 間 × 28 天"
+            "capacityText": "最大 1 間 × 28 天",
+            "wholeHouseImpact": "含包棟展開 1 筆"
           },
           {
             "roomType": "302四人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 2500,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
-            "capacityText": "最大 1 間 × 28 天"
+            "capacityText": "最大 1 間 × 28 天",
+            "wholeHouseImpact": "含包棟展開 1 筆"
           },
           {
             "roomType": "包棟",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 7.1,
+            "avgDailyRate": 10000,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 28,
             "capacityText": "最大 1 組包棟 × 28 天"
           }
         ],
-        "notes": []
+        "notes": [
+          "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
+        ]
       },
       {
         "month": "2027-03",

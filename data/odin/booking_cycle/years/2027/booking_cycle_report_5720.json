@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-02T13:24:20.363Z",
+  "generatedAt": "2026-11-03T13:20:31.075Z",
   "brand": {
     "brandKey": "goodday",
     "hotelId": "5720",
     "name": "良辰吉日",
-    "lastUpdated": "2026-11-02T13:24:20.363Z",
+    "lastUpdated": "2026-11-03T13:20:31.075Z",
     "months": [
       {
         "month": "2027-01",
-        "totalOrders": 0,
-        "averageLeadDays": 0,
+        "totalOrders": 1,
+        "averageLeadDays": 59,
         "buckets": [
           {
             "label": "0-1天",
@@ -45,8 +45,9 @@
           },
           {
             "label": "46-60天",
-            "percent": 0,
-            "orders": 0
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
           },
           {
             "label": "61-75天",
@@ -74,25 +75,25 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 0,
+        "totalBookingRate": 4.8,
         "wholeHouseRate": 0,
-        "totalSales": 0,
-        "adr": 0,
-        "revpar": 0,
-        "soldNights": 0,
+        "totalSales": 29743,
+        "adr": 9914,
+        "revpar": 480,
+        "soldNights": 3,
         "capacityNights": 62,
         "roomDetails": [
           {
-            "roomType": "2F",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "roomType": "3F",
+            "bookingRate": 9.7,
+            "avgDailyRate": 9914,
+            "orderCount": 1,
+            "soldNights": 3,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
           {
-            "roomType": "3F",
+            "roomType": "2F",
             "bookingRate": 0,
             "avgDailyRate": 0,
             "orderCount": 0,

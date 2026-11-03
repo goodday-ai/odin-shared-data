@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-11-03T02:21:04.878Z",
+  "generatedAt": "2026-11-03T22:33:17.771Z",
   "brand": {
     "brandKey": "houseapt",
     "hotelId": "6405",
     "name": "好思公寓",
-    "lastUpdated": "2026-11-03T02:21:04.878Z",
+    "lastUpdated": "2026-11-03T22:33:17.771Z",
     "months": [
       {
         "month": "2026-01",
@@ -1380,7 +1380,7 @@
       {
         "month": "2026-11",
         "totalOrders": 9,
-        "averageLeadDays": 28,
+        "averageLeadDays": 25.4,
         "buckets": [
           {
             "label": "0-1天",
@@ -1405,15 +1405,15 @@
           },
           {
             "label": "15-30天",
-            "percent": 22.2,
-            "orders": 2,
-            "rank": 2
+            "percent": 33.3,
+            "orders": 3,
+            "rank": 1
           },
           {
             "label": "31-45天",
-            "percent": 44.4,
-            "orders": 4,
-            "rank": 1
+            "percent": 33.3,
+            "orders": 3,
+            "rank": 2
           },
           {
             "label": "46-60天",
@@ -1448,8 +1448,8 @@
         ],
         "totalBookingRate": 12,
         "wholeHouseRate": 0,
-        "totalSales": 55503,
-        "adr": 3083,
+        "totalSales": 55573,
+        "adr": 3087,
         "revpar": 370,
         "soldNights": 18,
         "capacityNights": 150,
@@ -1473,11 +1473,11 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
-            "roomType": "4F",
-            "bookingRate": 10,
-            "avgDailyRate": 3619,
-            "orderCount": 2,
-            "soldNights": 3,
+            "roomType": "5F",
+            "bookingRate": 6.7,
+            "avgDailyRate": 3500,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
@@ -1491,11 +1491,11 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
-            "roomType": "5F",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "roomType": "4F",
+            "bookingRate": 3.3,
+            "avgDailyRate": 3928,
+            "orderCount": 1,
+            "soldNights": 1,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
