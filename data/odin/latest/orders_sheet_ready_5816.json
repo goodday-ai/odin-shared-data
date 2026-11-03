@@ -4,12 +4,12 @@
   "rangeStr": "2024-12-30~2027-05-10",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-02T13:24:20.363Z",
+    "generatedAt": "2026-11-03T02:21:04.878Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2026-01-01",
+        "end": "2027-01-01"
       }
     ]
   },
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-02T13:17:35.531Z",
-        "expiresAt": "2026-11-04T13:17:35.531Z"
+        "updatedAt": "2026-11-03T02:21:04.878Z",
+        "expiresAt": "2026-11-05T02:21:04.878Z"
       },
       {
         "start": "2027-01-01",
@@ -15875,6 +15875,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-03",
+      "訂單編號": "OBE14920581626110201",
+      "入住日期": "2026-11-03",
+      "退房日期": "2026-11-17",
+      "姓名": "",
+      "房型": "M5",
+      "專案名稱": "官網訂房專案",
+      "訂單款項": 10000,
+      "已收金額": 0,
+      "剩餘尾款": 10000,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-07-08",
       "訂單編號": "OBE16970581626070806",
       "入住日期": "2026-11-05",
@@ -16226,12 +16240,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-02T13:25:56.190Z",
+    "generatedAt": "2026-11-03T02:24:11.819Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-11-02T13:25:56.190Z",
+      "lastUpdated": "2026-11-03T02:24:11.819Z",
       "months": [
         {
           "month": "2024-12",
@@ -20586,13 +20600,13 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 21,
-          "averageLeadDays": 40.3,
+          "totalOrders": 22,
+          "averageLeadDays": 38.5,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 0,
-              "orders": 0
+              "percent": 4.5,
+              "orders": 1
             },
             {
               "label": "2-3天",
@@ -20601,35 +20615,35 @@
             },
             {
               "label": "4-7天",
-              "percent": 9.5,
+              "percent": 9.1,
               "orders": 2
             },
             {
               "label": "8-14天",
-              "percent": 4.8,
+              "percent": 4.5,
               "orders": 1
             },
             {
               "label": "15-30天",
-              "percent": 38.1,
+              "percent": 36.4,
               "orders": 8,
               "rank": 1
             },
             {
               "label": "31-45天",
-              "percent": 14.3,
+              "percent": 13.6,
               "orders": 3,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 14.3,
+              "percent": 13.6,
               "orders": 3,
               "rank": 3
             },
             {
               "label": "61-75天",
-              "percent": 9.5,
+              "percent": 9.1,
               "orders": 2
             },
             {
@@ -20644,7 +20658,7 @@
             },
             {
               "label": "106-136天",
-              "percent": 9.5,
+              "percent": 9.1,
               "orders": 2
             },
             {
@@ -20653,12 +20667,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 25.7,
+          "totalBookingRate": 30.3,
           "wholeHouseRate": 0,
-          "totalSales": 69862,
-          "adr": 907,
-          "revpar": 233,
-          "soldNights": 77,
+          "totalSales": 79862,
+          "adr": 878,
+          "revpar": 266,
+          "soldNights": 91,
           "capacityNights": 300,
           "roomDetails": [
             {
@@ -20667,6 +20681,15 @@
               "avgDailyRate": 831,
               "orderCount": 8.7,
               "soldNights": 27,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "M5大雙人房",
+              "bookingRate": 46.7,
+              "avgDailyRate": 714,
+              "orderCount": 1,
+              "soldNights": 14,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -20750,15 +20773,6 @@
               "soldNights": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
-            },
-            {
-              "roomType": "M5大雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
             }
           ],
           "notes": [
