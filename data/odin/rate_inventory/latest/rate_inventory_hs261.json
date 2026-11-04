@@ -4,7 +4,7 @@
   "tenant": "hs261",
   "hotelId": "6537",
   "displayName": "好思包棟",
-  "rangeStart": "2026-11-04",
+  "rangeStart": "2026-11-05",
   "rangeEnd": "2027-03-02",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 116,
-    "dateCount": 58,
+    "itemCount": 114,
+    "dateCount": 57,
     "salesUnitCount": 2,
     "planCount": 1,
     "minPrice": 8000,
@@ -29,34 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-04",
-      "salesUnitId": "31484",
-      "salesUnitName": "雙人房",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 8000,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-04",
-      "salesUnitId": "31486",
-      "salesUnitName": "包棟",
-      "planId": "35980",
-      "planName": "官網限定優惠",
-      "price": 8000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-05",
       "salesUnitId": "31484",
@@ -1655,8 +1627,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-11-04",
-    "rangeEnd": "2026-12-03",
-    "capturedAt": "2026-11-03T23:21:28.102Z"
+    "rangeStart": "2026-11-05",
+    "rangeEnd": "2026-12-04",
+    "capturedAt": "2026-11-04T23:21:43.320Z"
   }
 }
