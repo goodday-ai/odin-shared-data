@@ -4,7 +4,7 @@
   "rangeStr": "2025-07-28~2027-05-15",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-04T02:19:28.453Z",
+    "generatedAt": "2026-11-04T13:14:57.769Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-04T02:19:28.453Z",
-        "expiresAt": "2026-11-06T02:19:28.453Z"
+        "updatedAt": "2026-11-04T13:14:57.769Z",
+        "expiresAt": "2026-11-06T13:14:57.769Z"
       },
       {
         "start": "2027-01-01",
@@ -1728,8 +1728,8 @@
       "房型": "包棟",
       "專案名稱": "官網專案",
       "訂單款項": 7472,
-      "已收金額": 3736,
-      "剩餘尾款": 3736,
+      "已收金額": 7472,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1741,9 +1741,9 @@
       "姓名": "",
       "房型": "包棟",
       "專案名稱": "Booking",
-      "訂單款項": 32041,
-      "已收金額": 16020,
-      "剩餘尾款": 16021,
+      "訂單款項": 32040,
+      "已收金額": 32040,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -1861,12 +1861,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-04T02:22:51.260Z",
+    "generatedAt": "2026-11-04T13:17:33.757Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-11-04T02:22:51.260Z",
+      "lastUpdated": "2026-11-04T13:17:33.757Z",
       "months": [
         {
           "month": "2025-07",
@@ -3881,7 +3881,7 @@
           ],
           "totalBookingRate": 61.3,
           "wholeHouseRate": 61.3,
-          "totalSales": 192386,
+          "totalSales": 192385,
           "adr": 2025,
           "revpar": 1241,
           "soldNights": 95,
@@ -4011,7 +4011,7 @@
           ],
           "totalBookingRate": 16.7,
           "wholeHouseRate": 16.7,
-          "totalSales": 61879,
+          "totalSales": 61878,
           "adr": 2475,
           "revpar": 413,
           "soldNights": 25,
