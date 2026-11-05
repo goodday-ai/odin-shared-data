@@ -1,0 +1,937 @@
+{
+  "schemaVersion": 1,
+  "year": "2027",
+  "generatedAt": "2026-11-05T13:20:10.150Z",
+  "brand": {
+    "brandKey": "7624",
+    "hotelId": "7624",
+    "name": "綠洲旅店",
+    "lastUpdated": "2026-11-05T13:20:10.150Z",
+    "months": [
+      {
+        "month": "2027-01",
+        "totalOrders": 1,
+        "averageLeadDays": 73,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 9185,
+        "adr": 3062,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "DELUXE_SEAVIEW_DOUBLE",
+            "bookingRate": 0,
+            "avgDailyRate": 3062,
+            "orderCount": 1,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": []
+      },
+      {
+        "month": "2027-02",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-03",
+        "totalOrders": 1,
+        "averageLeadDays": 141,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 19683,
+        "adr": 3281,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "DELUXE_SEAVIEW_DOUBLE",
+            "bookingRate": 0,
+            "avgDailyRate": 3281,
+            "orderCount": 1,
+            "soldNights": 6,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": [
+          "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。"
+        ]
+      },
+      {
+        "month": "2027-04",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-05",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-06",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-07",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-08",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-09",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-10",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-11",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-12",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      }
+    ]
+  }
+}

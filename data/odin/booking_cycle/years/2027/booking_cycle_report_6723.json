@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-04T13:18:43.822Z",
+  "generatedAt": "2026-11-05T13:20:10.150Z",
   "brand": {
     "brandKey": "houseresidence",
     "hotelId": "6723",
     "name": "好思寓所",
-    "lastUpdated": "2026-11-04T13:18:43.822Z",
+    "lastUpdated": "2026-11-05T13:20:10.150Z",
     "months": [
       {
         "month": "2027-01",
@@ -255,8 +255,8 @@
       },
       {
         "month": "2027-03",
-        "totalOrders": 2,
-        "averageLeadDays": 157.5,
+        "totalOrders": 0,
+        "averageLeadDays": 0,
         "buckets": [
           {
             "label": "0-1天",
@@ -310,40 +310,38 @@
           },
           {
             "label": "106-136天",
-            "percent": 50,
-            "orders": 1,
-            "rank": 1
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "137天以上",
-            "percent": 50,
-            "orders": 1,
-            "rank": 2
+            "percent": 0,
+            "orders": 0
           }
         ],
-        "totalBookingRate": 3.2,
+        "totalBookingRate": 0,
         "wholeHouseRate": 0,
-        "totalSales": 27012,
-        "adr": 6753,
-        "revpar": 218,
-        "soldNights": 4,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
         "capacityNights": 124,
         "roomDetails": [
           {
             "roomType": "2F",
-            "bookingRate": 6.5,
-            "avgDailyRate": 6791,
-            "orderCount": 1,
-            "soldNights": 2,
+            "bookingRate": 0,
+            "avgDailyRate": 0,
+            "orderCount": 0,
+            "soldNights": 0,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
           {
             "roomType": "3F",
-            "bookingRate": 6.5,
-            "avgDailyRate": 6715,
-            "orderCount": 1,
-            "soldNights": 2,
+            "bookingRate": 0,
+            "avgDailyRate": 0,
+            "orderCount": 0,
+            "soldNights": 0,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
