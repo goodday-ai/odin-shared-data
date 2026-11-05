@@ -4,12 +4,12 @@
   "rangeStr": "2026-11-04~2026-12-06",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-05T13:16:03.921Z",
+    "generatedAt": "2026-11-05T13:19:19.657Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-01-01",
-        "end": "2027-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -17,6 +17,12 @@
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
     "checkinRanges": [
+      {
+        "start": "2025-01-01",
+        "end": "2026-01-01",
+        "updatedAt": "2026-11-05T13:19:19.657Z",
+        "expiresAt": "2026-11-07T13:19:19.657Z"
+      },
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
@@ -27,7 +33,15 @@
     "retainedYears": [
       "2026"
     ],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-05T13:19:19.657Z",
+        "rowCount": 0,
+        "maxCheckout": null,
+        "stayDatesSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      }
+    ]
   },
   "columns": [
     "訂單日期",
@@ -102,12 +116,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-05T13:18:40.781Z",
+    "generatedAt": "2026-11-05T13:19:38.025Z",
     "brand": {
       "brandKey": "7624",
       "hotelId": "7624",
       "name": "綠洲旅店",
-      "lastUpdated": "2026-11-05T13:18:40.781Z",
+      "lastUpdated": "2026-11-05T13:19:38.025Z",
       "months": [
         {
           "month": "2026-11",
