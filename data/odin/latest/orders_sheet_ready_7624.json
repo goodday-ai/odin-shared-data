@@ -1,0 +1,298 @@
+{
+  "hotelId": "7624",
+  "hotelName": "綠洲旅店",
+  "rangeStr": "2026-11-04~2026-12-06",
+  "lastImportScope": {
+    "protocol": "checkin_scope_v1",
+    "generatedAt": "2026-11-05T09:42:34.036Z",
+    "maxAgeHours": 48,
+    "ranges": [
+      {
+        "start": "2026-01-01",
+        "end": "2027-01-01"
+      }
+    ]
+  },
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": [
+      {
+        "start": "2026-01-01",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-05T09:42:34.036Z",
+        "expiresAt": "2026-11-07T09:42:34.036Z"
+      }
+    ],
+    "retainedYears": [
+      "2026"
+    ],
+    "historicalSnapshots": []
+  },
+  "columns": [
+    "訂單日期",
+    "訂單編號",
+    "入住日期",
+    "退房日期",
+    "姓名",
+    "房型",
+    "專案名稱",
+    "訂單款項",
+    "已收金額",
+    "剩餘尾款",
+    "UUID",
+    "電話"
+  ],
+  "rows": [
+    {
+      "訂單日期": "2026-11-03",
+      "訂單編號": "OBE31720762426110305",
+      "入住日期": "2026-11-04",
+      "退房日期": "2026-11-06",
+      "姓名": "",
+      "房型": "DELUXE_SEAVIEW_DOUBLE",
+      "專案名稱": "手動訂單",
+      "訂單款項": 2500,
+      "已收金額": 2500,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-02",
+      "訂單編號": "OBE43140762426110202",
+      "入住日期": "2026-11-14",
+      "退房日期": "2026-11-16",
+      "姓名": "",
+      "房型": "DELUXE_SEAVIEW_DOUBLE",
+      "專案名稱": "Booking.com",
+      "訂單款項": 6840,
+      "已收金額": 0,
+      "剩餘尾款": 6840,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-03",
+      "訂單編號": "OBE46250762426110303",
+      "入住日期": "2026-11-20",
+      "退房日期": "2026-11-22",
+      "姓名": "",
+      "房型": "LOFT_QUAD_BALCONY",
+      "專案名稱": "手動訂單",
+      "訂單款項": 6800,
+      "已收金額": 3400,
+      "剩餘尾款": 3400,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-02",
+      "訂單編號": "OBE50310762426110201",
+      "入住日期": "2026-12-05",
+      "退房日期": "2026-12-06",
+      "姓名": "",
+      "房型": "DELUXE_SEAVIEW_DOUBLE",
+      "專案名稱": "Booking.com",
+      "訂單款項": 3280,
+      "已收金額": 0,
+      "剩餘尾款": 3280,
+      "UUID": "",
+      "電話": ""
+    }
+  ],
+  "bookingCycleReport": {
+    "generatedAt": "2026-11-05T09:46:15.992Z",
+    "brand": {
+      "brandKey": "7624",
+      "hotelId": "7624",
+      "name": "綠洲旅店",
+      "lastUpdated": "2026-11-05T09:46:15.992Z",
+      "months": [
+        {
+          "month": "2026-11",
+          "totalOrders": 3,
+          "averageLeadDays": 10,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 33.3,
+              "orders": 1,
+              "rank": 1
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 33.3,
+              "orders": 1,
+              "rank": 2
+            },
+            {
+              "label": "15-30天",
+              "percent": 33.3,
+              "orders": 1,
+              "rank": 3
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 16140,
+          "adr": 2690,
+          "revpar": 0,
+          "soldNights": 0,
+          "capacityNights": 0,
+          "roomDetails": [
+            {
+              "roomType": "DELUXE_SEAVIEW_DOUBLE",
+              "bookingRate": 0,
+              "avgDailyRate": 2335,
+              "orderCount": 2,
+              "soldNights": 4,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "LOFT_QUAD_BALCONY",
+              "bookingRate": 0,
+              "avgDailyRate": 3400,
+              "orderCount": 1,
+              "soldNights": 2,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2026-12",
+          "totalOrders": 1,
+          "averageLeadDays": 33,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 100,
+              "orders": 1,
+              "rank": 1
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 3280,
+          "adr": 3280,
+          "revpar": 0,
+          "soldNights": 0,
+          "capacityNights": 0,
+          "roomDetails": [
+            {
+              "roomType": "DELUXE_SEAVIEW_DOUBLE",
+              "bookingRate": 0,
+              "avgDailyRate": 3280,
+              "orderCount": 1,
+              "soldNights": 1,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    }
+  }
+}

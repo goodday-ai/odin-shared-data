@@ -1,0 +1,30 @@
+{
+  "version": "odin_annual_v1",
+  "hotelId": "7624",
+  "partitionBy": "checkin",
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "checkinRanges": [
+      {
+        "start": "2026-01-01",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-05T09:42:34.036Z",
+        "expiresAt": "2026-11-07T09:42:34.036Z"
+      }
+    ],
+    "retainedYears": [
+      "2026"
+    ],
+    "historicalSnapshots": []
+  },
+  "years": [
+    {
+      "year": "2026",
+      "path": "data/odin/by-year/2026/orders_sheet_ready_7624.json",
+      "rowCount": 4,
+      "complete": true,
+      "sha256": "e641d0d547a8204d9b2c90242a4ea59963176f5d1f9819041b7e06e6820a06b8"
+    }
+  ]
+}
