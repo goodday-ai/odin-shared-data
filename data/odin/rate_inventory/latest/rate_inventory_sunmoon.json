@@ -4,11 +4,11 @@
   "tenant": "sunmoon",
   "hotelId": "6722",
   "displayName": "桑沐民宿",
-  "rangeStart": "2026-11-05",
-  "rangeEnd": "2027-03-02",
+  "rangeStart": "2026-11-06",
+  "rangeEnd": "2027-03-05",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-11-02T23:20:57.201Z",
+  "capturedAt": "2026-11-05T23:21:21.557Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -21,8 +21,8 @@
     ]
   },
   "summary": {
-    "itemCount": 264,
-    "dateCount": 88,
+    "itemCount": 261,
+    "dateCount": 87,
     "salesUnitCount": 1,
     "planCount": 3,
     "minPrice": 12150,
@@ -31,48 +31,6 @@
   },
   "items": [
     {
-      "date": "2026-11-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "37738",
-      "planName": "官網專案",
-      "price": 22131,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "42691",
-      "planName": "(14人包棟)5-12月連住限定專案",
-      "price": 13500,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-05",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "44175",
-      "planName": "(8人包棟)5-12月連住限定專案",
-      "price": 12150,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-11-06",
       "salesUnitId": "32439",
       "salesUnitName": "包棟（一天只接待一組客人）",
@@ -458,8 +416,8 @@
       "planName": "官網專案",
       "price": 22131,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -472,8 +430,8 @@
       "planName": "(14人包棟)5-12月連住限定專案",
       "price": 13500,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -486,8 +444,8 @@
       "planName": "(8人包棟)5-12月連住限定專案",
       "price": 12150,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3726,10 +3684,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-11-05",
-    "rangeEnd": "2026-12-04",
-    "capturedAt": "2026-11-04T23:21:39.322Z"
-  }
+  ]
 }

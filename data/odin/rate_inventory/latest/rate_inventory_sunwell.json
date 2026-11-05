@@ -4,11 +4,11 @@
   "tenant": "sunwell",
   "hotelId": "7480",
   "displayName": "晴井包棟民宿",
-  "rangeStart": "2026-11-05",
-  "rangeEnd": "2027-03-02",
+  "rangeStart": "2026-11-06",
+  "rangeEnd": "2027-03-05",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-11-02T23:21:06.420Z",
+  "capturedAt": "2026-11-05T23:21:29.890Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -19,8 +19,8 @@
     ]
   },
   "summary": {
-    "itemCount": 118,
-    "dateCount": 118,
+    "itemCount": 120,
+    "dateCount": 120,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 12880,
@@ -28,20 +28,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-05",
-      "salesUnitId": "36513",
-      "salesUnitName": "包棟",
-      "planId": "46311",
-      "planName": "官網專屬優惠",
-      "price": 12880,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-06",
       "salesUnitId": "36513",
@@ -846,7 +832,7 @@
       "salesUnitName": "包棟",
       "planId": "46311",
       "planName": "官網專屬優惠",
-      "price": 14065,
+      "price": 12880,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -860,7 +846,7 @@
       "salesUnitName": "包棟",
       "planId": "46311",
       "planName": "官網專屬優惠",
-      "price": 14065,
+      "price": 12880,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -874,7 +860,7 @@
       "salesUnitName": "包棟",
       "planId": "46311",
       "planName": "官網專屬優惠",
-      "price": 14065,
+      "price": 12880,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1266,7 +1252,7 @@
       "salesUnitName": "包棟",
       "planId": "46311",
       "planName": "官網專屬優惠",
-      "price": 12880,
+      "price": 14065,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -1679,11 +1665,48 @@
       "minLos": 1,
       "cta": false,
       "ctd": false
+    },
+    {
+      "date": "2027-03-03",
+      "salesUnitId": "36513",
+      "salesUnitName": "包棟",
+      "planId": "46311",
+      "planName": "官網專屬優惠",
+      "price": 12880,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-04",
+      "salesUnitId": "36513",
+      "salesUnitName": "包棟",
+      "planId": "46311",
+      "planName": "官網專屬優惠",
+      "price": 12880,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-05",
+      "salesUnitId": "36513",
+      "salesUnitName": "包棟",
+      "planId": "46311",
+      "planName": "官網專屬優惠",
+      "price": 12880,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-11-05",
-    "rangeEnd": "2026-12-04",
-    "capturedAt": "2026-11-04T23:21:47.130Z"
-  }
+  ]
 }
