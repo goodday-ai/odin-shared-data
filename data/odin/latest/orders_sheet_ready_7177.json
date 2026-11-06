@@ -4,12 +4,12 @@
   "rangeStr": "2026-03-15~2027-03-21",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-06T01:49:44.391Z",
+    "generatedAt": "2026-11-06T01:57:00.553Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-01-01",
-        "end": "2027-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -21,8 +21,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-02T13:21:40.985Z",
-        "expiresAt": "2026-11-04T13:21:40.985Z"
+        "updatedAt": "2026-11-06T01:57:00.553Z",
+        "expiresAt": "2026-11-08T01:57:00.553Z"
       },
       {
         "start": "2026-01-01",
@@ -44,7 +44,7 @@
     "historicalSnapshots": [
       {
         "year": "2025",
-        "capturedAt": "2026-11-02T13:21:40.985Z",
+        "capturedAt": "2026-11-06T01:57:00.553Z",
         "rowCount": 0,
         "maxCheckout": null,
         "stayDatesSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
@@ -8748,12 +8748,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-06T01:56:22.170Z",
+    "generatedAt": "2026-11-06T02:01:23.598Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-11-06T01:56:22.170Z",
+      "lastUpdated": "2026-11-06T02:01:23.598Z",
       "months": [
         {
           "month": "2026-03",
