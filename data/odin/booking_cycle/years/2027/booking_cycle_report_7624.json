@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-05T13:20:10.150Z",
+  "generatedAt": "2026-11-06T02:02:07.542Z",
   "brand": {
     "brandKey": "7624",
     "hotelId": "7624",
     "name": "綠洲旅店",
-    "lastUpdated": "2026-11-05T13:20:10.150Z",
+    "lastUpdated": "2026-11-06T02:02:07.542Z",
     "months": [
       {
         "month": "2027-01",
@@ -83,7 +83,7 @@
         "capacityNights": 0,
         "roomDetails": [
           {
-            "roomType": "DELUXE_SEAVIEW_DOUBLE",
+            "roomType": "A201",
             "bookingRate": 0,
             "avgDailyRate": 3062,
             "orderCount": 1,
@@ -244,11 +244,20 @@
         "capacityNights": 0,
         "roomDetails": [
           {
-            "roomType": "DELUXE_SEAVIEW_DOUBLE",
+            "roomType": "A201",
             "bookingRate": 0,
             "avgDailyRate": 3281,
-            "orderCount": 1,
-            "soldNights": 6,
+            "orderCount": 0.5,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "A202",
+            "bookingRate": 0,
+            "avgDailyRate": 3281,
+            "orderCount": 0.5,
+            "soldNights": 3,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
