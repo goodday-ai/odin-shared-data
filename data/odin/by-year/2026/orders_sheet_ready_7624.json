@@ -23,8 +23,8 @@
       "入住日期": "2026-11-04",
       "退房日期": "2026-11-06",
       "姓名": "",
-      "房型": "DELUXE_SEAVIEW_DOUBLE",
-      "專案名稱": "手動訂單",
+      "房型": "A202豪華海景雙人房",
+      "專案名稱": "",
       "訂單款項": 2500,
       "已收金額": 2500,
       "剩餘尾款": 0,
@@ -37,8 +37,8 @@
       "入住日期": "2026-11-14",
       "退房日期": "2026-11-16",
       "姓名": "",
-      "房型": "DELUXE_SEAVIEW_DOUBLE",
-      "專案名稱": "Booking.com",
+      "房型": "A201豪華海景雙人房",
+      "專案名稱": "",
       "訂單款項": 6840,
       "已收金額": 0,
       "剩餘尾款": 6840,
@@ -51,8 +51,8 @@
       "入住日期": "2026-11-20",
       "退房日期": "2026-11-22",
       "姓名": "",
-      "房型": "LOFT_QUAD_BALCONY",
-      "專案名稱": "手動訂單",
+      "房型": "B102樓中樓四人房-附陽台",
+      "專案名稱": "",
       "訂單款項": 6800,
       "已收金額": 3400,
       "剩餘尾款": 3400,
@@ -65,8 +65,8 @@
       "入住日期": "2026-12-05",
       "退房日期": "2026-12-06",
       "姓名": "",
-      "房型": "DELUXE_SEAVIEW_DOUBLE",
-      "專案名稱": "Booking.com",
+      "房型": "A201豪華海景雙人房",
+      "專案名稱": "",
       "訂單款項": 3280,
       "已收金額": 0,
       "剩餘尾款": 3280,
@@ -87,8 +87,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-05T13:16:03.921Z",
-        "expiresAt": "2026-11-07T13:16:03.921Z"
+        "updatedAt": "2026-11-06T01:49:44.391Z",
+        "expiresAt": "2026-11-08T01:49:44.391Z"
       },
       {
         "start": "2027-01-01",
@@ -116,12 +116,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-05T13:16:03.921Z",
+    "generatedAt": "2026-11-06T01:49:44.391Z",
     "brand": {
       "brandKey": "7624",
       "hotelId": "7624",
       "name": "綠洲旅店",
-      "lastUpdated": "2026-11-05T13:16:03.921Z",
+      "lastUpdated": "2026-11-06T01:49:44.391Z",
       "months": [
         {
           "month": "2026-01",
@@ -950,16 +950,25 @@
           "capacityNights": 0,
           "roomDetails": [
             {
-              "roomType": "DELUXE_SEAVIEW_DOUBLE",
+              "roomType": "A201",
               "bookingRate": 0,
-              "avgDailyRate": 2335,
-              "orderCount": 2,
-              "soldNights": 4,
+              "avgDailyRate": 3420,
+              "orderCount": 1,
+              "soldNights": 2,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "LOFT_QUAD_BALCONY",
+              "roomType": "A202",
+              "bookingRate": 0,
+              "avgDailyRate": 1250,
+              "orderCount": 1,
+              "soldNights": 2,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "B102",
               "bookingRate": 0,
               "avgDailyRate": 3400,
               "orderCount": 1,
@@ -1045,7 +1054,7 @@
           "capacityNights": 0,
           "roomDetails": [
             {
-              "roomType": "DELUXE_SEAVIEW_DOUBLE",
+              "roomType": "A201",
               "bookingRate": 0,
               "avgDailyRate": 3280,
               "orderCount": 1,
