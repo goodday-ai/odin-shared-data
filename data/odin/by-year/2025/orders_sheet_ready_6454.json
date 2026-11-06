@@ -1167,20 +1167,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 80.6,
+          "totalBookingRate": 69.4,
           "wholeHouseRate": 58.1,
           "totalSales": 337752,
-          "adr": 6755,
+          "adr": 7855,
           "revpar": 5448,
-          "soldNights": 50,
+          "soldNights": 43,
           "capacityNights": 62,
           "roomDetails": [
             {
               "roomType": "雙人房",
-              "bookingRate": 93.5,
-              "avgDailyRate": 6108,
-              "orderCount": 12,
-              "soldNights": 29,
+              "bookingRate": 71,
+              "avgDailyRate": 7188,
+              "orderCount": 9,
+              "soldNights": 22,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 7 筆"
@@ -1203,6 +1203,24 @@
               "soldNights": 18,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
+            },
+            {
+              "roomType": "103",
+              "bookingRate": 0,
+              "avgDailyRate": 2650,
+              "orderCount": 2,
+              "soldNights": 4,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "105",
+              "bookingRate": 0,
+              "avgDailyRate": 2800,
+              "orderCount": 1,
+              "soldNights": 3,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
             }
           ],
           "notes": [
