@@ -23,8 +23,8 @@
       "入住日期": "2027-03-26",
       "退房日期": "2027-03-29",
       "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "獨享包棟",
+      "房型": "包棟獨享包棟私墅",
+      "專案名稱": "",
       "訂單款項": 51000,
       "已收金額": 0,
       "剩餘尾款": 51000,
@@ -37,8 +37,8 @@
       "入住日期": "2027-05-13",
       "退房日期": "2027-05-16",
       "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "獨享包棟",
+      "房型": "包棟獨享包棟私墅",
+      "專案名稱": "",
       "訂單款項": 54000,
       "已收金額": 0,
       "剩餘尾款": 54000,
@@ -51,8 +51,8 @@
       "入住日期": "2027-05-20",
       "退房日期": "2027-05-22",
       "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "獨享包棟",
+      "房型": "包棟獨享包棟私墅",
+      "專案名稱": "",
       "訂單款項": 44000,
       "已收金額": 0,
       "剩餘尾款": 44000,
@@ -65,8 +65,8 @@
       "入住日期": "2027-06-02",
       "退房日期": "2027-06-05",
       "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "獨享包棟",
+      "房型": "包棟獨享包棟私墅",
+      "專案名稱": "",
       "訂單款項": 66000,
       "已收金額": 0,
       "剩餘尾款": 66000,
@@ -79,8 +79,8 @@
       "入住日期": "2027-09-25",
       "退房日期": "2027-09-28",
       "姓名": "",
-      "房型": "包棟",
-      "專案名稱": "Booking",
+      "房型": "包棟獨享包棟私墅",
+      "專案名稱": "",
       "訂單款項": 69984,
       "已收金額": 0,
       "剩餘尾款": 69984,
@@ -108,8 +108,8 @@
       {
         "start": "2027-01-01",
         "end": "2028-01-01",
-        "updatedAt": "2026-11-05T13:20:10.150Z",
-        "expiresAt": "2026-11-07T13:20:10.150Z"
+        "updatedAt": "2026-11-06T02:02:07.542Z",
+        "expiresAt": "2026-11-08T02:02:07.542Z"
       }
     ],
     "retainedYears": [
@@ -135,7 +135,7 @@
     "hotelId": "5720",
     "catalogRevision": "337ea9802e7d483c0aefe4064a25c9e4f0b358c3bbdc49bf11d7674d1375380f",
     "items": {
-      "0ea04955140348bc742b5f5ca0af7ecb7385a4c7b26005a062b874bb09cc954a": {
+      "bace41900684a2e202f2b8c8f21c3744cd83c583c4018a3c52e6b9dd8c02c8dc": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
         "hotelId": "5720",
@@ -158,7 +158,7 @@
           "ORDER_FULL"
         ]
       },
-      "06ee169420c874a7623c662df76545b05e08c7f29f0bdd0183959d0d4aeb2046": {
+      "dc842db7120a1a3b73ce048f3d586ef0226ec0cd026d5246a85fa3ac72670df7": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
         "hotelId": "5720",
@@ -181,7 +181,7 @@
           "ORDER_FULL"
         ]
       },
-      "10f46c75a2359ade092d2d43d9d386b216c10f9c6ba187b8e5ec2ba505dd6da0": {
+      "809832ff451736f36caf2878c6023ea6f0b441440e9586c8af1faacb3292d097": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
         "hotelId": "5720",
@@ -204,7 +204,7 @@
           "ORDER_FULL"
         ]
       },
-      "ab516ac3f1e7816e7bdf034c5c8483d5fc5ab8b1d8e647ecb63dd052e8f11097": {
+      "cc30b0e70fc9fdd7dee1970011f06cdac8cbdf25d01fad88499efbe61817edec": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
         "hotelId": "5720",
@@ -227,7 +227,7 @@
           "ORDER_FULL"
         ]
       },
-      "e002697ec4dbe7fda1c28cee5da99635bb57eb8c37e88c493d447a25e69c4b1b": {
+      "1d9f6bfda2093090932ed2eb4fb5e35acf6ed7a77c69e4ed36538defd01b3770": {
         "schemaVersion": "lodging_reservation_v2",
         "tenantKey": "goodday",
         "hotelId": "5720",
@@ -255,12 +255,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2027",
-    "generatedAt": "2026-11-05T13:20:10.150Z",
+    "generatedAt": "2026-11-06T02:02:07.542Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-11-05T13:20:10.150Z",
+      "lastUpdated": "2026-11-06T02:02:07.542Z",
       "months": [
         {
           "month": "2027-01",
