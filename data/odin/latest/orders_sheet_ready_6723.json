@@ -4,7 +4,7 @@
   "rangeStr": "2025-08-22~2027-03-01",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-08T08:07:42.596Z",
+    "generatedAt": "2026-11-08T16:11:42.838Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-08T08:07:42.596Z",
-        "expiresAt": "2026-11-10T08:07:42.596Z"
+        "updatedAt": "2026-11-08T16:11:42.838Z",
+        "expiresAt": "2026-11-10T16:11:42.838Z"
       },
       {
         "start": "2027-01-01",
@@ -6159,6 +6159,20 @@
     },
     {
       "訂單日期": "2026-11-08",
+      "訂單編號": "OBE17040672326110803",
+      "入住日期": "2026-12-24",
+      "退房日期": "2026-12-27",
+      "姓名": "",
+      "房型": "4F二臥室套房",
+      "專案名稱": "CTrip",
+      "訂單款項": 12747,
+      "已收金額": 12747,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-08",
       "訂單編號": "OBE08650672326110801",
       "入住日期": "2026-12-25",
       "退房日期": "2026-12-28",
@@ -6215,12 +6229,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-08T08:11:16.392Z",
+    "generatedAt": "2026-11-08T16:14:09.646Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-11-08T08:11:16.392Z",
+      "lastUpdated": "2026-11-08T16:14:09.646Z",
       "months": [
         {
           "month": "2025-08",
@@ -8257,8 +8271,8 @@
         },
         {
           "month": "2026-12",
-          "totalOrders": 4,
-          "averageLeadDays": 51.5,
+          "totalOrders": 5,
+          "averageLeadDays": 50.4,
           "buckets": [
             {
               "label": "0-1天",
@@ -8293,7 +8307,7 @@
             {
               "label": "46-60天",
               "percent": 100,
-              "orders": 4,
+              "orders": 5,
               "rank": 1
             },
             {
@@ -8322,12 +8336,12 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 7.3,
+          "totalBookingRate": 9.7,
           "wholeHouseRate": 0,
-          "totalSales": 43191,
-          "adr": 4799,
-          "revpar": 348,
-          "soldNights": 9,
+          "totalSales": 55938,
+          "adr": 4662,
+          "revpar": 451,
+          "soldNights": 12,
           "capacityNights": 124,
           "roomDetails": [
             {
@@ -8350,10 +8364,10 @@
             },
             {
               "roomType": "4F",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
+              "bookingRate": 9.7,
+              "avgDailyRate": 4249,
+              "orderCount": 1,
+              "soldNights": 3,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
