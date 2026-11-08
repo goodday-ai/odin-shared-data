@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-07T13:20:54.563Z",
+  "generatedAt": "2026-11-08T16:15:16.705Z",
   "brand": {
     "brandKey": "7624",
     "hotelId": "7624",
     "name": "綠洲旅店",
-    "lastUpdated": "2026-11-07T13:20:54.563Z",
+    "lastUpdated": "2026-11-08T16:15:16.705Z",
     "months": [
       {
         "month": "2027-01",
-        "totalOrders": 1,
-        "averageLeadDays": 73,
+        "totalOrders": 0,
+        "averageLeadDays": 0,
         "buckets": [
           {
             "label": "0-1天",
@@ -50,9 +50,8 @@
           },
           {
             "label": "61-75天",
-            "percent": 100,
-            "orders": 1,
-            "rank": 1
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "76-90天",
@@ -76,22 +75,12 @@
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 9185,
-        "adr": 3062,
+        "totalSales": 0,
+        "adr": 0,
         "revpar": 0,
         "soldNights": 0,
         "capacityNights": 0,
-        "roomDetails": [
-          {
-            "roomType": "A201",
-            "bookingRate": 0,
-            "avgDailyRate": 3062,
-            "orderCount": 1,
-            "soldNights": 3,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          }
-        ],
+        "roomDetails": [],
         "notes": []
       },
       {
