@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-11-07T02:19:18.570Z",
+  "generatedAt": "2026-11-08T02:20:03.332Z",
   "brand": {
     "brandKey": "tbshomestay",
     "hotelId": "5917",
     "name": "澎湖綠果昔民宿",
-    "lastUpdated": "2026-11-07T02:19:18.570Z",
+    "lastUpdated": "2026-11-08T02:20:03.332Z",
     "months": [
       {
         "month": "2026-01",
@@ -1310,8 +1310,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 1,
-        "averageLeadDays": 15,
+        "totalOrders": 2,
+        "averageLeadDays": 10,
         "buckets": [
           {
             "label": "0-1天",
@@ -1325,8 +1325,9 @@
           },
           {
             "label": "4-7天",
-            "percent": 0,
-            "orders": 0
+            "percent": 50,
+            "orders": 1,
+            "rank": 1
           },
           {
             "label": "8-14天",
@@ -1335,9 +1336,9 @@
           },
           {
             "label": "15-30天",
-            "percent": 100,
+            "percent": 50,
             "orders": 1,
-            "rank": 1
+            "rank": 2
           },
           {
             "label": "31-45天",
@@ -1375,14 +1376,23 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 5,
+        "totalBookingRate": 8.3,
         "wholeHouseRate": 0,
-        "totalSales": 1547,
-        "adr": 258,
-        "revpar": 13,
-        "soldNights": 6,
+        "totalSales": 7547,
+        "adr": 755,
+        "revpar": 63,
+        "soldNights": 10,
         "capacityNights": 120,
         "roomDetails": [
+          {
+            "roomType": "201雙人房",
+            "bookingRate": 13.3,
+            "avgDailyRate": 1500,
+            "orderCount": 1,
+            "soldNights": 4,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
+          },
           {
             "roomType": "301雙人房",
             "bookingRate": 13.3,
@@ -1398,15 +1408,6 @@
             "avgDailyRate": 2800,
             "orderCount": 1,
             "soldNights": 2,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
-            "roomType": "201雙人房",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
           },
