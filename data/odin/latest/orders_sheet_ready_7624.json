@@ -4,7 +4,7 @@
   "rangeStr": "2026-11-04~2027-03-27",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-08T02:20:03.332Z",
+    "generatedAt": "2026-11-08T08:07:42.596Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -26,8 +26,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-08T02:20:03.332Z",
-        "expiresAt": "2026-11-10T02:20:03.332Z"
+        "updatedAt": "2026-11-08T08:07:42.596Z",
+        "expiresAt": "2026-11-10T08:07:42.596Z"
       },
       {
         "start": "2027-01-01",
@@ -76,6 +76,20 @@
       "訂單款項": 2500,
       "已收金額": 2500,
       "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-08",
+      "訂單編號": "OBE34550762426110801",
+      "入住日期": "2026-11-10",
+      "退房日期": "2026-11-12",
+      "姓名": "",
+      "房型": "A201豪華海景雙人房",
+      "專案名稱": "手動訂單",
+      "訂單款項": 5000,
+      "已收金額": 2500,
+      "剩餘尾款": 2500,
       "UUID": "",
       "電話": ""
     },
@@ -151,28 +165,29 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-08T02:22:35.667Z",
+    "generatedAt": "2026-11-08T08:11:16.854Z",
     "brand": {
       "brandKey": "7624",
       "hotelId": "7624",
       "name": "綠洲旅店",
-      "lastUpdated": "2026-11-08T02:22:35.667Z",
+      "lastUpdated": "2026-11-08T08:11:16.854Z",
       "months": [
         {
           "month": "2026-11",
-          "totalOrders": 3,
-          "averageLeadDays": 10,
+          "totalOrders": 4,
+          "averageLeadDays": 8,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 33.3,
+              "percent": 25,
               "orders": 1,
               "rank": 1
             },
             {
               "label": "2-3天",
-              "percent": 0,
-              "orders": 0
+              "percent": 25,
+              "orders": 1,
+              "rank": 2
             },
             {
               "label": "4-7天",
@@ -181,15 +196,14 @@
             },
             {
               "label": "8-14天",
-              "percent": 33.3,
+              "percent": 25,
               "orders": 1,
-              "rank": 2
+              "rank": 3
             },
             {
               "label": "15-30天",
-              "percent": 33.3,
-              "orders": 1,
-              "rank": 3
+              "percent": 25,
+              "orders": 1
             },
             {
               "label": "31-45天",
@@ -228,8 +242,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 16140,
-          "adr": 2690,
+          "totalSales": 21140,
+          "adr": 2643,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -237,9 +251,9 @@
             {
               "roomType": "A201",
               "bookingRate": 0,
-              "avgDailyRate": 3420,
-              "orderCount": 1,
-              "soldNights": 2,
+              "avgDailyRate": 2960,
+              "orderCount": 2,
+              "soldNights": 4,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
