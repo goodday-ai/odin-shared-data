@@ -8654,6 +8654,20 @@
       "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-09",
+      "訂單編號": "OBE12020717726110901",
+      "入住日期": "2026-12-29",
+      "退房日期": "2027-01-02",
+      "姓名": "",
+      "房型": "101(雙)雙人房/201(雙)雙人房",
+      "專案名稱": "CTrip",
+      "訂單款項": 7592,
+      "已收金額": 7592,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "annualCoverage": {
@@ -8670,8 +8684,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-09T08:09:19.693Z",
-        "expiresAt": "2026-11-11T08:09:19.693Z"
+        "updatedAt": "2026-11-09T16:14:14.219Z",
+        "expiresAt": "2026-11-11T16:14:14.219Z"
       },
       {
         "start": "2027-01-01",
@@ -8699,12 +8713,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-09T08:09:19.693Z",
+    "generatedAt": "2026-11-09T16:14:14.219Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-11-09T08:09:19.693Z",
+      "lastUpdated": "2026-11-09T16:14:14.219Z",
       "months": [
         {
           "month": "2026-01",
@@ -10698,8 +10712,8 @@
         },
         {
           "month": "2026-12",
-          "totalOrders": 2,
-          "averageLeadDays": 76,
+          "totalOrders": 3,
+          "averageLeadDays": 67.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -10733,20 +10747,21 @@
             },
             {
               "label": "46-60天",
-              "percent": 0,
-              "orders": 0
-            },
-            {
-              "label": "61-75天",
-              "percent": 50,
+              "percent": 33.3,
               "orders": 1,
               "rank": 1
             },
             {
-              "label": "76-90天",
-              "percent": 50,
+              "label": "61-75天",
+              "percent": 33.3,
               "orders": 1,
               "rank": 2
+            },
+            {
+              "label": "76-90天",
+              "percent": 33.3,
+              "orders": 1,
+              "rank": 3
             },
             {
               "label": "91-105天",
@@ -10764,20 +10779,29 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 3.5,
+          "totalBookingRate": 5.5,
           "wholeHouseRate": 0,
-          "totalSales": 9823,
-          "adr": 893,
-          "revpar": 32,
-          "soldNights": 11,
+          "totalSales": 15517,
+          "adr": 913,
+          "revpar": 50,
+          "soldNights": 17,
           "capacityNights": 310,
           "roomDetails": [
             {
               "roomType": "201雙人房",
-              "bookingRate": 9.7,
-              "avgDailyRate": 871,
-              "orderCount": 0.3,
-              "soldNights": 3,
+              "bookingRate": 19.4,
+              "avgDailyRate": 910,
+              "orderCount": 0.8,
+              "soldNights": 6,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "101雙人房",
+              "bookingRate": 16.1,
+              "avgDailyRate": 967,
+              "orderCount": 1.5,
+              "soldNights": 5,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -10796,15 +10820,6 @@
               "avgDailyRate": 871,
               "orderCount": 0.3,
               "soldNights": 3,
-              "capacityNights": 31,
-              "capacityText": "最大 1 間 × 31 天"
-            },
-            {
-              "roomType": "101雙人房",
-              "bookingRate": 6.5,
-              "avgDailyRate": 994,
-              "orderCount": 1,
-              "soldNights": 2,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -10873,7 +10888,8 @@
             }
           ],
           "notes": [
-            "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。"
+            "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。",
+            "跨月入住已依實際住宿夜拆分到月份。"
           ]
         }
       ]

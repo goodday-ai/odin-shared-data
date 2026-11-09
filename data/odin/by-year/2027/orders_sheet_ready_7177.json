@@ -102,8 +102,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-09T08:09:19.693Z",
-        "expiresAt": "2026-11-11T08:09:19.693Z"
+        "updatedAt": "2026-11-09T16:14:14.219Z",
+        "expiresAt": "2026-11-11T16:14:14.219Z"
       },
       {
         "start": "2027-01-01",
@@ -204,34 +204,34 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 0,
+          "totalBookingRate": 0.6,
           "wholeHouseRate": 0,
-          "totalSales": 0,
-          "adr": 0,
-          "revpar": 0,
-          "soldNights": 0,
+          "totalSales": 1898,
+          "adr": 949,
+          "revpar": 6,
+          "soldNights": 2,
           "capacityNights": 310,
           "roomDetails": [
             {
               "roomType": "101雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
-              "capacityNights": 31,
-              "capacityText": "最大 1 間 × 31 天"
-            },
-            {
-              "roomType": "102四人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
+              "bookingRate": 3.2,
+              "avgDailyRate": 949,
+              "orderCount": 0.5,
+              "soldNights": 1,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
             {
               "roomType": "201雙人房",
+              "bookingRate": 3.2,
+              "avgDailyRate": 949,
+              "orderCount": 0.5,
+              "soldNights": 1,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "102四人房",
               "bookingRate": 0,
               "avgDailyRate": 0,
               "orderCount": 0,
@@ -312,7 +312,10 @@
               "capacityText": "最大 1 組包棟 × 31 天"
             }
           ],
-          "notes": []
+          "notes": [
+            "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。",
+            "跨月入住已依實際住宿夜拆分到月份。"
+          ]
         },
         {
           "month": "2027-02",
