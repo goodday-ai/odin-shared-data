@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-09T16:19:00.045Z",
+  "generatedAt": "2026-11-10T16:18:21.711Z",
   "brand": {
     "brandKey": "houseresidence",
     "hotelId": "6723",
     "name": "好思寓所",
-    "lastUpdated": "2026-11-09T16:19:00.045Z",
+    "lastUpdated": "2026-11-10T16:18:21.711Z",
     "months": [
       {
         "month": "2027-01",
-        "totalOrders": 0,
-        "averageLeadDays": 0,
+        "totalOrders": 1,
+        "averageLeadDays": 81,
         "buckets": [
           {
             "label": "0-1天",
@@ -55,8 +55,9 @@
           },
           {
             "label": "76-90天",
-            "percent": 0,
-            "orders": 0
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
           },
           {
             "label": "91-105天",
@@ -74,20 +75,20 @@
             "orders": 0
           }
         ],
-        "totalBookingRate": 0,
+        "totalBookingRate": 1.6,
         "wholeHouseRate": 0,
-        "totalSales": 0,
-        "adr": 0,
-        "revpar": 0,
-        "soldNights": 0,
+        "totalSales": 11900,
+        "adr": 5950,
+        "revpar": 96,
+        "soldNights": 2,
         "capacityNights": 124,
         "roomDetails": [
           {
             "roomType": "2F",
-            "bookingRate": 0,
-            "avgDailyRate": 0,
-            "orderCount": 0,
-            "soldNights": 0,
+            "bookingRate": 6.5,
+            "avgDailyRate": 5950,
+            "orderCount": 1,
+            "soldNights": 2,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
           },
