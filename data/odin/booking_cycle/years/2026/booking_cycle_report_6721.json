@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-11-10T00:14:15.644Z",
+  "generatedAt": "2026-11-10T08:08:30.915Z",
   "brand": {
     "brandKey": "lunarhaven",
     "hotelId": "6721",
     "name": "泊月民宿",
-    "lastUpdated": "2026-11-10T00:14:15.644Z",
+    "lastUpdated": "2026-11-10T08:08:30.915Z",
     "months": [
       {
         "month": "2026-01",
@@ -1307,8 +1307,8 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 3,
-        "averageLeadDays": 71.7,
+        "totalOrders": 2,
+        "averageLeadDays": 105,
         "buckets": [
           {
             "label": "0-1天",
@@ -1322,9 +1322,8 @@
           },
           {
             "label": "4-7天",
-            "percent": 33.3,
-            "orders": 1,
-            "rank": 1
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "8-14天",
@@ -1338,9 +1337,9 @@
           },
           {
             "label": "31-45天",
-            "percent": 33.3,
+            "percent": 50,
             "orders": 1,
-            "rank": 2
+            "rank": 1
           },
           {
             "label": "46-60天",
@@ -1369,47 +1368,47 @@
           },
           {
             "label": "137天以上",
-            "percent": 33.3,
+            "percent": 50,
             "orders": 1,
-            "rank": 3
+            "rank": 2
           }
         ],
-        "totalBookingRate": 26.7,
-        "wholeHouseRate": 26.7,
-        "totalSales": 79686,
-        "adr": 1992,
-        "revpar": 531,
-        "soldNights": 40,
+        "totalBookingRate": 16.7,
+        "wholeHouseRate": 16.7,
+        "totalSales": 54538,
+        "adr": 2182,
+        "revpar": 364,
+        "soldNights": 25,
         "capacityNights": 150,
         "roomDetails": [
           {
             "roomType": "四人房",
-            "bookingRate": 26.7,
-            "avgDailyRate": 1992,
-            "orderCount": 4,
-            "soldNights": 32,
+            "bookingRate": 16.7,
+            "avgDailyRate": 2182,
+            "orderCount": 3,
+            "soldNights": 20,
             "capacityNights": 120,
             "capacityText": "最大 4 間 × 30 天",
-            "wholeHouseImpact": "含包棟展開 4 筆"
+            "wholeHouseImpact": "含包棟展開 3 筆"
           },
           {
             "roomType": "包棟",
-            "bookingRate": 26.7,
-            "avgDailyRate": 9961,
-            "orderCount": 4,
-            "soldNights": 8,
+            "bookingRate": 16.7,
+            "avgDailyRate": 10908,
+            "orderCount": 3,
+            "soldNights": 5,
             "capacityNights": 30,
             "capacityText": "最大 1 組包棟 × 30 天"
           },
           {
             "roomType": "雙人房",
-            "bookingRate": 26.7,
-            "avgDailyRate": 1992,
-            "orderCount": 4,
-            "soldNights": 8,
+            "bookingRate": 16.7,
+            "avgDailyRate": 2182,
+            "orderCount": 3,
+            "soldNights": 5,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天",
-            "wholeHouseImpact": "含包棟展開 4 筆"
+            "wholeHouseImpact": "含包棟展開 3 筆"
           },
           {
             "roomType": "2F",
