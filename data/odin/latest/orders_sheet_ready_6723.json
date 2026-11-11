@@ -4,7 +4,7 @@
   "rangeStr": "2025-08-22~2027-03-01",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-11T08:08:30.584Z",
+    "generatedAt": "2026-11-11T16:13:28.027Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -27,8 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-11T08:08:30.584Z",
-        "expiresAt": "2026-11-13T08:08:30.584Z"
+        "updatedAt": "2026-11-11T16:13:28.027Z",
+        "expiresAt": "2026-11-13T16:13:28.027Z"
       },
       {
         "start": "2027-01-01",
@@ -6214,6 +6214,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-11",
+      "訂單編號": "OBE23510672326111101",
+      "入住日期": "2026-12-25",
+      "退房日期": "2026-12-28",
+      "姓名": "",
+      "房型": "2F二臥室套房",
+      "專案名稱": "官網專案",
+      "訂單款項": 14253,
+      "已收金額": 7127,
+      "剩餘尾款": 7126,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-11-07",
       "訂單編號": "OBE77850672326110701",
       "入住日期": "2026-12-31",
@@ -6257,12 +6271,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-11T08:11:02.811Z",
+    "generatedAt": "2026-11-11T16:16:05.994Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-11-11T08:11:02.811Z",
+      "lastUpdated": "2026-11-11T16:16:05.994Z",
       "months": [
         {
           "month": "2025-08",
@@ -8299,8 +8313,8 @@
         },
         {
           "month": "2026-12",
-          "totalOrders": 6,
-          "averageLeadDays": 45.5,
+          "totalOrders": 7,
+          "averageLeadDays": 45.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -8329,13 +8343,13 @@
             },
             {
               "label": "31-45天",
-              "percent": 33.3,
-              "orders": 2,
+              "percent": 42.9,
+              "orders": 3,
               "rank": 2
             },
             {
               "label": "46-60天",
-              "percent": 66.7,
+              "percent": 57.1,
               "orders": 4,
               "rank": 1
             },
@@ -8365,20 +8379,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 11.3,
+          "totalBookingRate": 13.7,
           "wholeHouseRate": 0,
-          "totalSales": 60936,
-          "adr": 4353,
-          "revpar": 491,
-          "soldNights": 14,
+          "totalSales": 75189,
+          "adr": 4423,
+          "revpar": 606,
+          "soldNights": 17,
           "capacityNights": 124,
           "roomDetails": [
             {
               "roomType": "2F",
-              "bookingRate": 19.4,
-              "avgDailyRate": 4254,
-              "orderCount": 3,
-              "soldNights": 6,
+              "bookingRate": 29,
+              "avgDailyRate": 4419,
+              "orderCount": 4,
+              "soldNights": 9,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
