@@ -7485,7 +7485,7 @@
       "入住日期": "2026-11-13",
       "退房日期": "2026-11-15",
       "姓名": "",
-      "房型": "1雙人房",
+      "房型": "O雙人房",
       "專案名稱": "OTA串接專案",
       "訂單款項": 2287,
       "已收金額": 2287,
@@ -7760,8 +7760,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-10T16:13:47.562Z",
-        "expiresAt": "2026-11-12T16:13:47.562Z"
+        "updatedAt": "2026-11-11T00:15:33.214Z",
+        "expiresAt": "2026-11-13T00:15:33.214Z"
       },
       {
         "start": "2027-01-01",
@@ -7791,12 +7791,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-10T16:13:47.562Z",
+    "generatedAt": "2026-11-11T00:15:33.214Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-11-10T16:13:47.562Z",
+      "lastUpdated": "2026-11-11T00:15:33.214Z",
       "months": [
         {
           "month": "2026-01",
@@ -9763,10 +9763,10 @@
           "roomDetails": [
             {
               "roomType": "1雙人房",
-              "bookingRate": 100,
-              "avgDailyRate": 792,
-              "orderCount": 9.7,
-              "soldNights": 30,
+              "bookingRate": 93.3,
+              "avgDailyRate": 767,
+              "orderCount": 8.7,
+              "soldNights": 28,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -9834,6 +9834,15 @@
               "capacityText": "最大 1 間 × 30 天"
             },
             {
+              "roomType": "O雙人房",
+              "bookingRate": 6.7,
+              "avgDailyRate": 1144,
+              "orderCount": 1,
+              "soldNights": 2,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
               "roomType": "包棟",
               "bookingRate": 0,
               "avgDailyRate": 0,
@@ -9844,15 +9853,6 @@
             },
             {
               "roomType": "M5大雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
-              "capacityNights": 30,
-              "capacityText": "最大 1 間 × 30 天"
-            },
-            {
-              "roomType": "O雙人房",
               "bookingRate": 0,
               "avgDailyRate": 0,
               "orderCount": 0,
