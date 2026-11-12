@@ -4,12 +4,12 @@
   "tenant": "goodday",
   "hotelId": "5720",
   "displayName": "良辰吉日",
-  "rangeStart": "2026-11-12",
-  "rangeEnd": "2027-03-09",
+  "rangeStart": "2026-11-13",
+  "rangeEnd": "2027-03-12",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
   "catalogRevision": "732ad0cf45bd8981a21d40e415ec77dd7c23deb887bd049a331ace0298ea34e0",
-  "capturedAt": "2026-11-09T23:20:27.217Z",
+  "capturedAt": "2026-11-12T23:20:45.145Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -22,8 +22,8 @@
     ]
   },
   "summary": {
-    "itemCount": 354,
-    "dateCount": 118,
+    "itemCount": 360,
+    "dateCount": 120,
     "salesUnitCount": 1,
     "planCount": 3,
     "minPrice": 10000,
@@ -32,48 +32,6 @@
   },
   "items": [
     {
-      "date": "2026-11-12",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42144",
-      "planName": "2F 包棟",
-      "price": 10000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-12",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42145",
-      "planName": "3F 包棟",
-      "price": 10000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-12",
-      "salesUnitId": "26669",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "42166",
-      "planName": "獨享包棟",
-      "price": 16000,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-11-13",
       "salesUnitId": "26669",
       "salesUnitName": "獨享包棟私墅",
@@ -1425,8 +1383,8 @@
       "planName": "2F 包棟",
       "price": 10000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1439,8 +1397,8 @@
       "planName": "3F 包棟",
       "price": 10000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1453,8 +1411,8 @@
       "planName": "獨享包棟",
       "price": 16000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1467,8 +1425,8 @@
       "planName": "2F 包棟",
       "price": 10000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1481,8 +1439,8 @@
       "planName": "3F 包棟",
       "price": 10000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -1495,8 +1453,8 @@
       "planName": "獨享包棟",
       "price": 16000,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2140,7 +2098,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2154,7 +2112,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2168,7 +2126,7 @@
       "price": 16000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2182,7 +2140,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2196,7 +2154,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2210,7 +2168,7 @@
       "price": 16000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2224,7 +2182,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2238,7 +2196,7 @@
       "price": 10000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2252,7 +2210,7 @@
       "price": 16000,
       "currency": "TWD",
       "inventory": 1,
-      "available": false,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4975,6 +4933,132 @@
     },
     {
       "date": "2027-03-09",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42166",
+      "planName": "獨享包棟",
+      "price": 18000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-10",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42144",
+      "planName": "2F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-10",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42145",
+      "planName": "3F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-10",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42166",
+      "planName": "獨享包棟",
+      "price": 18000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-11",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42144",
+      "planName": "2F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-11",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42145",
+      "planName": "3F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-11",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42166",
+      "planName": "獨享包棟",
+      "price": 18000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-12",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42144",
+      "planName": "2F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-12",
+      "salesUnitId": "26669",
+      "salesUnitName": "獨享包棟私墅",
+      "planId": "42145",
+      "planName": "3F 包棟",
+      "price": 12000,
+      "currency": "TWD",
+      "inventory": 1,
+      "available": true,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-12",
       "salesUnitId": "26669",
       "salesUnitName": "獨享包棟私墅",
       "planId": "42166",
@@ -4987,10 +5071,5 @@
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-11-12",
-    "rangeEnd": "2026-12-11",
-    "capturedAt": "2026-11-11T23:21:35.396Z"
-  }
+  ]
 }
