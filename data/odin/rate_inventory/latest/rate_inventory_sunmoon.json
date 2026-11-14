@@ -4,7 +4,7 @@
   "tenant": "sunmoon",
   "hotelId": "6722",
   "displayName": "桑沐民宿",
-  "rangeStart": "2026-11-14",
+  "rangeStart": "2026-11-15",
   "rangeEnd": "2027-03-12",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -21,8 +21,8 @@
     ]
   },
   "summary": {
-    "itemCount": 79,
-    "dateCount": 79,
+    "itemCount": 78,
+    "dateCount": 78,
     "salesUnitCount": 1,
     "planCount": 1,
     "minPrice": 22131,
@@ -30,20 +30,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-14",
-      "salesUnitId": "32439",
-      "salesUnitName": "包棟（一天只接待一組客人）",
-      "planId": "37738",
-      "planName": "官網專案",
-      "price": 22131,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-15",
       "salesUnitId": "32439",
@@ -1138,8 +1124,8 @@
     }
   ],
   "refreshedWindow": {
-    "rangeStart": "2026-11-14",
-    "rangeEnd": "2026-12-13",
-    "capturedAt": "2026-11-13T23:21:22.704Z"
+    "rangeStart": "2026-11-15",
+    "rangeEnd": "2026-12-14",
+    "capturedAt": "2026-11-14T23:21:17.518Z"
   }
 }
