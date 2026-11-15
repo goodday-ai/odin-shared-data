@@ -60,8 +60,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-15T08:08:18.255Z",
-        "expiresAt": "2026-11-17T08:08:18.255Z"
+        "updatedAt": "2026-11-15T16:12:01.371Z",
+        "expiresAt": "2026-11-17T16:12:01.371Z"
       },
       {
         "start": "2027-01-01",
@@ -164,20 +164,20 @@
               "orders": 0
             }
           ],
-          "totalBookingRate": 0,
+          "totalBookingRate": 0.3,
           "wholeHouseRate": 0,
-          "totalSales": 0,
-          "adr": 0,
-          "revpar": 0,
-          "soldNights": 0,
+          "totalSales": 1705,
+          "adr": 1705,
+          "revpar": 6,
+          "soldNights": 1,
           "capacityNights": 310,
           "roomDetails": [
             {
               "roomType": "1雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 0,
-              "orderCount": 0,
-              "soldNights": 0,
+              "bookingRate": 3.2,
+              "avgDailyRate": 1705,
+              "orderCount": 1,
+              "soldNights": 1,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -272,7 +272,9 @@
               "capacityText": "最大 1 間 × 31 天"
             }
           ],
-          "notes": []
+          "notes": [
+            "跨月入住已依實際住宿夜拆分到月份。"
+          ]
         },
         {
           "month": "2027-02",
