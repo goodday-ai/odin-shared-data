@@ -86,6 +86,20 @@
       "剩餘尾款": 3280,
       "UUID": "",
       "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-15",
+      "訂單編號": "OBE01240762426111501",
+      "入住日期": "2026-12-20",
+      "退房日期": "2026-12-22",
+      "姓名": "",
+      "房型": "B101樓中樓四人房-附陽台",
+      "專案名稱": "CTrip",
+      "訂單款項": 5950,
+      "已收金額": 5950,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
     }
   ],
   "annualCoverage": {
@@ -101,8 +115,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-15T00:17:17.250Z",
-        "expiresAt": "2026-11-17T00:17:17.250Z"
+        "updatedAt": "2026-11-15T08:08:18.255Z",
+        "expiresAt": "2026-11-17T08:08:18.255Z"
       },
       {
         "start": "2027-01-01",
@@ -130,12 +144,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-15T00:17:17.250Z",
+    "generatedAt": "2026-11-15T08:08:18.255Z",
     "brand": {
       "brandKey": "7624",
       "hotelId": "7624",
       "name": "綠洲旅店",
-      "lastUpdated": "2026-11-15T00:17:17.250Z",
+      "lastUpdated": "2026-11-15T08:08:18.255Z",
       "months": [
         {
           "month": "2026-01",
@@ -995,8 +1009,8 @@
         },
         {
           "month": "2026-12",
-          "totalOrders": 1,
-          "averageLeadDays": 33,
+          "totalOrders": 2,
+          "averageLeadDays": 34,
           "buckets": [
             {
               "label": "0-1天",
@@ -1026,7 +1040,7 @@
             {
               "label": "31-45天",
               "percent": 100,
-              "orders": 1,
+              "orders": 2,
               "rank": 1
             },
             {
@@ -1061,12 +1075,21 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 3280,
-          "adr": 3280,
+          "totalSales": 9230,
+          "adr": 3077,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
           "roomDetails": [
+            {
+              "roomType": "B101",
+              "bookingRate": 0,
+              "avgDailyRate": 2975,
+              "orderCount": 1,
+              "soldNights": 2,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
             {
               "roomType": "A201",
               "bookingRate": 0,
