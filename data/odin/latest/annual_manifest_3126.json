@@ -11,11 +11,18 @@
         "end": "2027-01-01",
         "updatedAt": "2026-11-17T16:14:25.561Z",
         "expiresAt": "2026-11-19T16:14:25.561Z"
+      },
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "updatedAt": "2026-11-17T16:23:21.705Z",
+        "expiresAt": "2026-11-19T16:23:21.705Z"
       }
     ],
     "retainedYears": [
       "2025",
-      "2026"
+      "2026",
+      "2027"
     ],
     "historicalSnapshots": []
   },
@@ -25,14 +32,21 @@
       "path": "data/odin/by-year/2025/orders_sheet_ready_3126.json",
       "rowCount": 1,
       "complete": false,
-      "sha256": "69c6b6e5ad8dee32b80b2760d1d8a66e14bb15d34bb4722520effd13a5c8616b"
+      "sha256": "7be3fd49829adcd5b401e5a6187c072b108e92deae6a7647d199735ecafd19b5"
     },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_3126.json",
       "rowCount": 3597,
       "complete": true,
-      "sha256": "1a85c708d04a53765f5f308ee0d8091ddea8ab9bd0dc92364cbba04567223d80"
+      "sha256": "6b196e408282154767cd273c049e62df38cf16671df4fe8be651a7d8c6566652"
+    },
+    {
+      "year": "2027",
+      "path": "data/odin/by-year/2027/orders_sheet_ready_3126.json",
+      "rowCount": 40,
+      "complete": true,
+      "sha256": "0b050837a40c39bff0b6e34675f00732ee67693d7d9a34d5e09cec54d314226d"
     }
   ]
 }
