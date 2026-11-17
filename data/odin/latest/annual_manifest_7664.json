@@ -7,6 +7,12 @@
     "partitionBy": "checkin",
     "checkinRanges": [
       {
+        "start": "2025-01-01",
+        "end": "2026-01-01",
+        "updatedAt": "2026-11-17T16:21:54.842Z",
+        "expiresAt": "2026-11-19T16:21:54.842Z"
+      },
+      {
         "start": "2026-01-01",
         "end": "2027-01-01",
         "updatedAt": "2026-11-17T16:14:25.561Z",
@@ -14,15 +20,30 @@
       }
     ],
     "retainedYears": [],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-17T16:21:54.842Z",
+        "rowCount": 0,
+        "maxCheckout": null,
+        "stayDatesSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      }
+    ]
   },
   "years": [
+    {
+      "year": "2025",
+      "path": "data/odin/by-year/2025/orders_sheet_ready_7664.json",
+      "rowCount": 0,
+      "complete": true,
+      "sha256": "0cbe57c631ac3a9b67a51738198ca3337d64583484b96388dcf30a9fbd171783"
+    },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_7664.json",
       "rowCount": 0,
       "complete": true,
-      "sha256": "b4454e455e348d6be477ecaf541a70daac72eb920346c2d05b626e598bb87fb2"
+      "sha256": "311a91291545e34ff59ffa76fbd0227e6bff6c2d137399e38300090e5904759c"
     }
   ]
 }
