@@ -1,6 +1,11 @@
 {
   "schemaVersion": 1,
   "hotels": {
+    "3126": {
+      "years": [
+        "2026"
+      ]
+    },
     "5720": {
       "years": [
         "2025",
@@ -91,6 +96,11 @@
         "2026",
         "2027"
       ]
+    },
+    "7664": {
+      "years": [
+        "2026"
+      ]
     }
   },
   "reports": [
@@ -161,6 +171,11 @@
     },
     {
       "year": "2026",
+      "hotelId": "3126",
+      "sha256": "14f10c733bb9c75af5a1fc030cb71a0bf1c2cda3d4ee6d01dc992619dba17ebd"
+    },
+    {
+      "year": "2026",
       "hotelId": "5720",
       "sha256": "61ece2024c07d0fddbc254761cf7d26185f56fda20b87ab1890792baa5c68311"
     },
@@ -223,6 +238,11 @@
       "year": "2026",
       "hotelId": "7624",
       "sha256": "f2c66745b6d9a6699f99259312b3acf581b1561e977f44f58ab09bb076d976c2"
+    },
+    {
+      "year": "2026",
+      "hotelId": "7664",
+      "sha256": "5323ad8cdfe937567efdca9ee3a8c8b86fa382d5caf02bd46c329eb8a1fd8be0"
     },
     {
       "year": "2027",
