@@ -49872,6 +49872,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-18",
+      "訂單編號": "OBE63130312626111801",
+      "入住日期": "2026-12-23",
+      "退房日期": "2026-12-25",
+      "姓名": "",
+      "房型": "1104單人共用衛浴房(不含早餐)",
+      "專案名稱": "CTrip",
+      "訂單款項": 1156,
+      "已收金額": 1156,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-10-31",
       "訂單編號": "OBE81840312626103103",
       "入住日期": "2026-12-23",
@@ -50383,8 +50397,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-17T16:14:25.561Z",
-        "expiresAt": "2026-11-19T16:14:25.561Z"
+        "updatedAt": "2026-11-18T00:15:31.029Z",
+        "expiresAt": "2026-11-20T00:15:31.029Z"
       },
       {
         "start": "2027-01-01",
@@ -50405,12 +50419,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-17T16:14:25.561Z",
+    "generatedAt": "2026-11-18T00:15:31.029Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-17T16:14:25.561Z",
+      "lastUpdated": "2026-11-18T00:15:31.029Z",
       "months": [
         {
           "month": "2026-01",
@@ -54612,8 +54626,8 @@
         },
         {
           "month": "2026-12",
-          "totalOrders": 99,
-          "averageLeadDays": 86.8,
+          "totalOrders": 100,
+          "averageLeadDays": 86.3,
           "buckets": [
             {
               "label": "0-1天",
@@ -54637,29 +54651,29 @@
             },
             {
               "label": "15-30天",
-              "percent": 8.1,
+              "percent": 8,
               "orders": 8
             },
             {
               "label": "31-45天",
-              "percent": 20.2,
-              "orders": 20,
+              "percent": 21,
+              "orders": 21,
               "rank": 1
             },
             {
               "label": "46-60天",
-              "percent": 17.2,
+              "percent": 17,
               "orders": 17,
               "rank": 2
             },
             {
               "label": "61-75天",
-              "percent": 12.1,
+              "percent": 12,
               "orders": 12
             },
             {
               "label": "76-90天",
-              "percent": 11.1,
+              "percent": 11,
               "orders": 11
             },
             {
@@ -54669,19 +54683,19 @@
             },
             {
               "label": "106-136天",
-              "percent": 15.2,
+              "percent": 15,
               "orders": 15
             },
             {
               "label": "137天以上",
-              "percent": 16.2,
+              "percent": 16,
               "orders": 16,
               "rank": 3
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 481907,
-          "adr": 2362,
+          "totalSales": 483063,
+          "adr": 2345,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -54768,6 +54782,15 @@
               "capacityText": "容量未設定"
             },
             {
+              "roomType": "1104單人共用衛浴房",
+              "bookingRate": 0,
+              "avgDailyRate": 963,
+              "orderCount": 3.6,
+              "soldNights": 8,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
               "roomType": "1302陽台標準雙人兩小床房",
               "bookingRate": 0,
               "avgDailyRate": 2364,
@@ -54818,15 +54841,6 @@
               "avgDailyRate": 2264,
               "orderCount": 2.8,
               "soldNights": 7,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "1104單人共用衛浴房",
-              "bookingRate": 0,
-              "avgDailyRate": 1091,
-              "orderCount": 2.6,
-              "soldNights": 6,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
