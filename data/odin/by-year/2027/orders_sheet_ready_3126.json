@@ -228,6 +228,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-19",
+      "訂單編號": "OBE20590312626111912",
+      "入住日期": "2027-01-30",
+      "退房日期": "2027-01-31",
+      "姓名": "",
+      "房型": "1301陽台標準雙人兩小床房/1302陽台標準雙人兩小床房",
+      "專案名稱": "CTrip",
+      "訂單款項": 4900,
+      "已收金額": 4900,
+      "剩餘尾款": 0,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-10-13",
       "訂單編號": "OBE22170312626101314",
       "入住日期": "2027-01-30",
@@ -591,8 +605,8 @@
       {
         "start": "2027-01-01",
         "end": "2028-01-01",
-        "updatedAt": "2026-11-18T16:19:04.097Z",
-        "expiresAt": "2026-11-20T16:19:04.097Z"
+        "updatedAt": "2026-11-19T16:21:36.461Z",
+        "expiresAt": "2026-11-21T16:21:36.461Z"
       }
     ],
     "retainedYears": [
@@ -607,17 +621,17 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2027",
-    "generatedAt": "2026-11-18T16:19:04.097Z",
+    "generatedAt": "2026-11-19T16:21:36.461Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-18T16:19:04.097Z",
+      "lastUpdated": "2026-11-19T16:21:36.461Z",
       "months": [
         {
           "month": "2027-01",
-          "totalOrders": 17,
-          "averageLeadDays": 84.6,
+          "totalOrders": 18,
+          "averageLeadDays": 83.9,
           "buckets": [
             {
               "label": "0-1天",
@@ -646,7 +660,7 @@
             },
             {
               "label": "31-45天",
-              "percent": 5.9,
+              "percent": 5.6,
               "orders": 1
             },
             {
@@ -656,25 +670,25 @@
             },
             {
               "label": "61-75天",
-              "percent": 23.5,
-              "orders": 4,
+              "percent": 27.8,
+              "orders": 5,
               "rank": 2
             },
             {
               "label": "76-90天",
-              "percent": 35.3,
+              "percent": 33.3,
               "orders": 6,
               "rank": 1
             },
             {
               "label": "91-105天",
-              "percent": 17.6,
+              "percent": 16.7,
               "orders": 3,
               "rank": 3
             },
             {
               "label": "106-136天",
-              "percent": 17.6,
+              "percent": 16.7,
               "orders": 3
             },
             {
@@ -684,8 +698,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 178559,
-          "adr": 3189,
+          "totalSales": 183459,
+          "adr": 3163,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -696,6 +710,24 @@
               "avgDailyRate": 2474,
               "orderCount": 2.4,
               "soldNights": 7,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "1301陽台標準雙人兩小床房",
+              "bookingRate": 0,
+              "avgDailyRate": 2447,
+              "orderCount": 1.9,
+              "soldNights": 5,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "1302陽台標準雙人兩小床房",
+              "bookingRate": 0,
+              "avgDailyRate": 2523,
+              "orderCount": 2.6,
+              "soldNights": 5,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -713,24 +745,6 @@
               "bookingRate": 0,
               "avgDailyRate": 3115,
               "orderCount": 2.6,
-              "soldNights": 4,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "1301陽台標準雙人兩小床房",
-              "bookingRate": 0,
-              "avgDailyRate": 2446,
-              "orderCount": 1.4,
-              "soldNights": 4,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "1302陽台標準雙人兩小床房",
-              "bookingRate": 0,
-              "avgDailyRate": 2542,
-              "orderCount": 2.1,
               "soldNights": 4,
               "capacityNights": 0,
               "capacityText": "容量未設定"
