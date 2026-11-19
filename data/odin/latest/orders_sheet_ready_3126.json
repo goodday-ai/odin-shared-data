@@ -4,12 +4,12 @@
   "rangeStr": "2025-12-30~2027-06-18",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-18T16:19:04.097Z",
+    "generatedAt": "2026-11-19T00:15:43.275Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2026-01-01",
+        "end": "2027-01-01"
       }
     ]
   },
@@ -20,8 +20,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-18T16:12:53.990Z",
-        "expiresAt": "2026-11-20T16:12:53.990Z"
+        "updatedAt": "2026-11-19T00:15:43.275Z",
+        "expiresAt": "2026-11-21T00:15:43.275Z"
       },
       {
         "start": "2027-01-01",
@@ -48288,7 +48288,7 @@
       "入住日期": "2026-11-19",
       "退房日期": "2026-11-20",
       "姓名": "",
-      "房型": "1102單人共用衛浴房(不含早餐)",
+      "房型": "1103單人共用衛浴房(不含早餐)",
       "專案名稱": "CTrip",
       "訂單款項": 506,
       "已收金額": 506,
@@ -48302,7 +48302,7 @@
       "入住日期": "2026-11-19",
       "退房日期": "2026-11-20",
       "姓名": "",
-      "房型": "1501六人家庭房",
+      "房型": "2502六人家庭房",
       "專案名稱": "手動訂單",
       "訂單款項": 4080,
       "已收金額": 3280,
@@ -48386,7 +48386,7 @@
       "入住日期": "2026-11-20",
       "退房日期": "2026-11-21",
       "姓名": "",
-      "房型": "1304四人家庭房",
+      "房型": "2304四人家庭房",
       "專案名稱": "CTrip",
       "訂單款項": 1632,
       "已收金額": 1632,
@@ -48442,7 +48442,7 @@
       "入住日期": "2026-11-20",
       "退房日期": "2026-11-22",
       "姓名": "",
-      "房型": "1404四人家庭房",
+      "房型": "2204四人家庭房",
       "專案名稱": "CTrip",
       "訂單款項": 6256,
       "已收金額": 6256,
@@ -51182,12 +51182,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-18T16:21:43.904Z",
+    "generatedAt": "2026-11-19T00:18:41.378Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-18T16:21:43.904Z",
+      "lastUpdated": "2026-11-19T00:18:41.378Z",
       "months": [
         {
           "month": "2025-12",
@@ -55344,11 +55344,20 @@
               "capacityText": "容量未設定"
             },
             {
+              "roomType": "2304四人家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 2407,
+              "orderCount": 8.6,
+              "soldNights": 13,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
               "roomType": "1102單人共用衛浴房",
               "bookingRate": 0,
-              "avgDailyRate": 698,
-              "orderCount": 12.5,
-              "soldNights": 13,
+              "avgDailyRate": 714,
+              "orderCount": 11.5,
+              "soldNights": 12,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -55357,15 +55366,6 @@
               "bookingRate": 0,
               "avgDailyRate": 2958,
               "orderCount": 6.4,
-              "soldNights": 12,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "2304四人家庭房",
-              "bookingRate": 0,
-              "avgDailyRate": 2471,
-              "orderCount": 7.6,
               "soldNights": 12,
               "capacityNights": 0,
               "capacityText": "容量未設定"
@@ -55389,20 +55389,11 @@
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "1304四人家庭房",
-              "bookingRate": 0,
-              "avgDailyRate": 2897,
-              "orderCount": 4.4,
-              "soldNights": 10,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
               "roomType": "1103單人共用衛浴房",
               "bookingRate": 0,
-              "avgDailyRate": 773,
-              "orderCount": 7.7,
-              "soldNights": 9,
+              "avgDailyRate": 747,
+              "orderCount": 8.7,
+              "soldNights": 10,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -55416,10 +55407,10 @@
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "1404四人家庭房",
+              "roomType": "1304四人家庭房",
               "bookingRate": 0,
-              "avgDailyRate": 2654,
-              "orderCount": 3.9,
+              "avgDailyRate": 3038,
+              "orderCount": 3.4,
               "soldNights": 9,
               "capacityNights": 0,
               "capacityText": "容量未設定"
@@ -55434,10 +55425,28 @@
               "capacityText": "容量未設定"
             },
             {
+              "roomType": "2204四人家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 2880,
+              "orderCount": 4.5,
+              "soldNights": 8,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
               "roomType": "2502六人家庭房",
               "bookingRate": 0,
-              "avgDailyRate": 3716,
-              "orderCount": 5.5,
+              "avgDailyRate": 3762,
+              "orderCount": 6.5,
+              "soldNights": 8,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "1404四人家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 2519,
+              "orderCount": 2.9,
               "soldNights": 7,
               "capacityNights": 0,
               "capacityText": "容量未設定"
@@ -55452,29 +55461,20 @@
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "2204四人家庭房",
+              "roomType": "2501六人家庭房",
               "bookingRate": 0,
-              "avgDailyRate": 2798,
-              "orderCount": 3.5,
-              "soldNights": 6,
+              "avgDailyRate": 3238,
+              "orderCount": 3,
+              "soldNights": 4,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
             {
               "roomType": "1501六人家庭房",
               "bookingRate": 0,
-              "avgDailyRate": 4364,
-              "orderCount": 4,
-              "soldNights": 4,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "2501六人家庭房",
-              "bookingRate": 0,
-              "avgDailyRate": 3238,
+              "avgDailyRate": 4458,
               "orderCount": 3,
-              "soldNights": 4,
+              "soldNights": 3,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
