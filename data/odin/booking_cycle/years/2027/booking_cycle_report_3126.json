@@ -1,0 +1,1541 @@
+{
+  "schemaVersion": 1,
+  "year": "2027",
+  "generatedAt": "2026-11-18T16:19:04.097Z",
+  "brand": {
+    "brandKey": "3126",
+    "hotelId": "3126",
+    "name": "遇見秘境",
+    "lastUpdated": "2026-11-18T16:19:04.097Z",
+    "months": [
+      {
+        "month": "2027-01",
+        "totalOrders": 17,
+        "averageLeadDays": 84.6,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 5.9,
+            "orders": 1
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 23.5,
+            "orders": 4,
+            "rank": 2
+          },
+          {
+            "label": "76-90天",
+            "percent": 35.3,
+            "orders": 6,
+            "rank": 1
+          },
+          {
+            "label": "91-105天",
+            "percent": 17.6,
+            "orders": 3,
+            "rank": 3
+          },
+          {
+            "label": "106-136天",
+            "percent": 17.6,
+            "orders": 3
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 175686,
+        "adr": 3194,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2474,
+            "orderCount": 2.4,
+            "soldNights": 7,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2573,
+            "orderCount": 1.4,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1203四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3115,
+            "orderCount": 2.6,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2446,
+            "orderCount": 1.4,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1501六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 5204,
+            "orderCount": 2.1,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3780,
+            "orderCount": 1.1,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2431,
+            "orderCount": 1.1,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1303四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3998,
+            "orderCount": 0.6,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2401陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2613,
+            "orderCount": 0.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2613,
+            "orderCount": 0.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2403豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 3215,
+            "orderCount": 1.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2404四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 2613,
+            "orderCount": 0.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1304四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1401陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1403四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1404四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1502六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4250,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2203豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2833,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2303豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2304四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3948,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2501六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4250,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2502六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4250,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": [
+          "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。",
+          "跨月入住已依實際住宿夜拆分到月份。"
+        ]
+      },
+      {
+        "month": "2027-02",
+        "totalOrders": 15,
+        "averageLeadDays": 101.7,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 46.7,
+            "orders": 7,
+            "rank": 1
+          },
+          {
+            "label": "91-105天",
+            "percent": 26.7,
+            "orders": 4,
+            "rank": 2
+          },
+          {
+            "label": "106-136天",
+            "percent": 20,
+            "orders": 3,
+            "rank": 3
+          },
+          {
+            "label": "137天以上",
+            "percent": 6.7,
+            "orders": 1
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 147089,
+        "adr": 3871,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1101單人共用衛浴房",
+            "bookingRate": 0,
+            "avgDailyRate": 846,
+            "orderCount": 3,
+            "soldNights": 5,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3787,
+            "orderCount": 0.8,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1303四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 5000,
+            "orderCount": 2,
+            "soldNights": 4,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1203四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3857,
+            "orderCount": 1.3,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4493,
+            "orderCount": 0.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3800,
+            "orderCount": 1.3,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3080,
+            "orderCount": 0.5,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1501六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 6334,
+            "orderCount": 2,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1502六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 6826,
+            "orderCount": 1,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3130,
+            "orderCount": 0.5,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3130,
+            "orderCount": 0.5,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2203豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 3280,
+            "orderCount": 0.5,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2303豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 3280,
+            "orderCount": 0.5,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1304四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4745,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1403四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4745,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1404四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 4745,
+            "orderCount": 0.3,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2501六人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 7200,
+            "orderCount": 1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": [
+          "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。",
+          "跨月入住已依實際住宿夜拆分到月份。"
+        ]
+      },
+      {
+        "month": "2027-03",
+        "totalOrders": 5,
+        "averageLeadDays": 136,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 60,
+            "orders": 3,
+            "rank": 1
+          },
+          {
+            "label": "137天以上",
+            "percent": 40,
+            "orders": 2,
+            "rank": 2
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 61316,
+        "adr": 2358,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1101單人共用衛浴房",
+            "bookingRate": 0,
+            "avgDailyRate": 652,
+            "orderCount": 1,
+            "soldNights": 5,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2203豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 2071,
+            "orderCount": 2,
+            "soldNights": 3,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 3011,
+            "orderCount": 0.6,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1203四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1401陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 3180,
+            "orderCount": 0.5,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2303豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2401陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2403豪華陽台雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 2843,
+            "orderCount": 0.1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": [
+          "多房型訂單已按可辨識房間數量比例分攤筆數與金額；房型夜會依房間數量完整計入。"
+        ]
+      },
+      {
+        "month": "2027-04",
+        "totalOrders": 1,
+        "averageLeadDays": 180,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 1468,
+        "adr": 734,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1101單人共用衛浴房",
+            "bookingRate": 0,
+            "avgDailyRate": 734,
+            "orderCount": 1,
+            "soldNights": 2,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": []
+      },
+      {
+        "month": "2027-05",
+        "totalOrders": 1,
+        "averageLeadDays": 218,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 2788,
+        "adr": 2788,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2788,
+            "orderCount": 1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": []
+      },
+      {
+        "month": "2027-06",
+        "totalOrders": 1,
+        "averageLeadDays": 246,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 100,
+            "orders": 1,
+            "rank": 1
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 766,
+        "adr": 766,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [
+          {
+            "roomType": "1101單人共用衛浴房",
+            "bookingRate": 0,
+            "avgDailyRate": 766,
+            "orderCount": 1,
+            "soldNights": 1,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          }
+        ],
+        "notes": []
+      },
+      {
+        "month": "2027-07",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-08",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-09",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-10",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-11",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      },
+      {
+        "month": "2027-12",
+        "totalOrders": 0,
+        "averageLeadDays": 0,
+        "buckets": [
+          {
+            "label": "0-1天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "2-3天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "4-7天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "8-14天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "31-45天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "46-60天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "61-75天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "76-90天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "91-105天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "106-136天",
+            "percent": 0,
+            "orders": 0
+          },
+          {
+            "label": "137天以上",
+            "percent": 0,
+            "orders": 0
+          }
+        ],
+        "totalBookingRate": 0,
+        "totalSales": 0,
+        "adr": 0,
+        "revpar": 0,
+        "soldNights": 0,
+        "capacityNights": 0,
+        "roomDetails": [],
+        "notes": []
+      }
+    ]
+  }
+}
