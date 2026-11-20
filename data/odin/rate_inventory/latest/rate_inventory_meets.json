@@ -4,7 +4,7 @@
   "tenant": "meets",
   "hotelId": "3126",
   "displayName": "遇見秘境",
-  "rangeStart": "2026-11-20",
+  "rangeStart": "2026-11-21",
   "rangeEnd": "2027-03-19",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -24,8 +24,8 @@
     ]
   },
   "summary": {
-    "itemCount": 720,
-    "dateCount": 120,
+    "itemCount": 714,
+    "dateCount": 119,
     "salesUnitCount": 6,
     "planCount": 1,
     "minPrice": 650,
@@ -33,90 +33,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13571",
-      "salesUnitName": "陽台標準雙人一大床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13572",
-      "salesUnitName": "陽台標準雙人兩小床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13573",
-      "salesUnitName": "豪華陽台雙人房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2100,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13574",
-      "salesUnitName": "四人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 3680,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13575",
-      "salesUnitName": "六人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 5400,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-20",
-      "salesUnitId": "13576",
-      "salesUnitName": "單人共用衛浴房(不含早餐)",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 650,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-21",
       "salesUnitId": "13571",
@@ -223,8 +139,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 4,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -10113,5 +10029,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-11-21",
+    "rangeEnd": "2026-12-20",
+    "capturedAt": "2026-11-20T23:21:23.083Z"
+  }
 }

@@ -4,7 +4,7 @@
   "tenant": "lunarhaven",
   "hotelId": "6721",
   "displayName": "泊月民宿",
-  "rangeStart": "2026-11-20",
+  "rangeStart": "2026-11-21",
   "rangeEnd": "2027-03-19",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 240,
-    "dateCount": 120,
+    "itemCount": 238,
+    "dateCount": 119,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 5994,
@@ -30,7 +30,7 @@
   },
   "items": [
     {
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "salesUnitId": "32438",
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
@@ -44,7 +44,7 @@
       "ctd": false
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "salesUnitId": "32438",
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
@@ -58,34 +58,6 @@
       "ctd": false
     },
     {
-      "date": "2026-11-21",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 7472,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-21",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 6725,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-11-22",
       "salesUnitId": "32438",
       "salesUnitName": "獨享包棟私墅",
@@ -93,8 +65,8 @@
       "planName": "官網專屬優惠",
       "price": 7472,
       "currency": "TWD",
-      "inventory": 0,
-      "available": false,
+      "inventory": 1,
+      "available": true,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -107,7 +79,7 @@
       "planName": "官網專屬連住優惠",
       "price": 6725,
       "currency": "TWD",
-      "inventory": 0,
+      "inventory": 1,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -3389,5 +3361,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-11-21",
+    "rangeEnd": "2026-12-20",
+    "capturedAt": "2026-11-20T23:21:07.097Z"
+  }
 }
