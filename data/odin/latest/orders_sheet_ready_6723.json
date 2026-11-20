@@ -4,12 +4,12 @@
   "rangeStr": "2025-08-22~2027-03-01",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-20T16:08:49.362Z",
+    "generatedAt": "2026-11-20T16:12:28.560Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -21,8 +21,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-06T01:57:00.553Z",
-        "expiresAt": "2026-11-08T01:57:00.553Z"
+        "updatedAt": "2026-11-20T16:12:28.560Z",
+        "expiresAt": "2026-11-22T16:12:28.560Z"
       },
       {
         "start": "2026-01-01",
@@ -45,7 +45,7 @@
     "historicalSnapshots": [
       {
         "year": "2025",
-        "capturedAt": "2026-11-06T01:57:00.553Z",
+        "capturedAt": "2026-11-20T16:12:28.560Z",
         "rowCount": 53,
         "maxCheckout": "2025-12-31",
         "stayDatesSha256": "dbe5187a6f67d249aec64ecfbd54b27d6e514cc17028ffc5326d76d0821abfbc"
@@ -6383,12 +6383,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-20T16:10:56.855Z",
+    "generatedAt": "2026-11-20T16:16:05.587Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-11-20T16:10:56.855Z",
+      "lastUpdated": "2026-11-20T16:16:05.587Z",
       "months": [
         {
           "month": "2025-08",

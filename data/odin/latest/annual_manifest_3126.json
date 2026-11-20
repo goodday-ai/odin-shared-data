@@ -7,6 +7,12 @@
     "partitionBy": "checkin",
     "checkinRanges": [
       {
+        "start": "2025-01-01",
+        "end": "2026-01-01",
+        "updatedAt": "2026-11-20T16:12:28.560Z",
+        "expiresAt": "2026-11-22T16:12:28.560Z"
+      },
+      {
         "start": "2026-01-01",
         "end": "2027-01-01",
         "updatedAt": "2026-11-20T16:00:50.613Z",
@@ -20,26 +26,42 @@
       }
     ],
     "retainedYears": [
+      "2024",
       "2025",
       "2026",
       "2027"
     ],
-    "historicalSnapshots": []
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-20T16:12:28.560Z",
+        "rowCount": 4065,
+        "maxCheckout": "2026-01-02",
+        "stayDatesSha256": "d0d1adfed847297712d85af8b1e1e88ae299ef4fa3374640185c26eea9e0ee10"
+      }
+    ]
   },
   "years": [
     {
+      "year": "2024",
+      "path": "data/odin/by-year/2024/orders_sheet_ready_3126.json",
+      "rowCount": 2,
+      "complete": false,
+      "sha256": "fdb98bd0f7e156745e4e15b40cbc2346200e779fcb0955f32a29e1bd3dd4a076"
+    },
+    {
       "year": "2025",
       "path": "data/odin/by-year/2025/orders_sheet_ready_3126.json",
-      "rowCount": 1,
-      "complete": false,
-      "sha256": "19a67ed7beaf7ed31c5b3b3590ff16a08a0c815d746336f04c7103d18575cfff"
+      "rowCount": 4065,
+      "complete": true,
+      "sha256": "8f4ad037535000efeb7010746e0087f2785be2a69ae7ff59df693653205e068d"
     },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_3126.json",
       "rowCount": 3626,
       "complete": true,
-      "sha256": "a06494357e713769a46dcb46570ebaf32eacb8558f093f074e1c55bed0a96534",
+      "sha256": "67d3767a1d35597e5175e26ca568b685bad8f4006c2d5984efe7d6d2072c3431",
       "staysCheckedOn": "2026-11-21",
       "firstOpenCheckin": "2026-11-20"
     },
@@ -48,7 +70,7 @@
       "path": "data/odin/by-year/2027/orders_sheet_ready_3126.json",
       "rowCount": 44,
       "complete": true,
-      "sha256": "dabb3f86d5717e67401d2db7fb3e361dc62f72c620427c6e3f3ee863110e579a"
+      "sha256": "21261a11091443ec32ba1904f3ea73d44aca21174196e30cec625688a89957a2"
     }
   ]
 }

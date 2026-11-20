@@ -4,12 +4,12 @@
   "rangeStr": "2025-03-13~2026-09-28",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-20T16:08:49.362Z",
+    "generatedAt": "2026-11-20T16:12:28.560Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -21,8 +21,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-06T01:57:00.553Z",
-        "expiresAt": "2026-11-08T01:57:00.553Z"
+        "updatedAt": "2026-11-20T16:12:28.560Z",
+        "expiresAt": "2026-11-22T16:12:28.560Z"
       },
       {
         "start": "2026-01-01",
@@ -44,7 +44,7 @@
     "historicalSnapshots": [
       {
         "year": "2025",
-        "capturedAt": "2026-11-06T01:57:00.553Z",
+        "capturedAt": "2026-11-20T16:12:28.560Z",
         "rowCount": 43,
         "maxCheckout": "2025-12-26",
         "stayDatesSha256": "54c27e7be05a98cad02d9e937602df8b14b3843219ec880acc254d26c5b81923"
@@ -1202,12 +1202,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-20T16:10:56.281Z",
+    "generatedAt": "2026-11-20T16:16:04.976Z",
     "brand": {
       "brandKey": "nightph",
       "hotelId": "6454",
       "name": "伊莉莎白甜夜民宿",
-      "lastUpdated": "2026-11-20T16:10:56.281Z",
+      "lastUpdated": "2026-11-20T16:16:04.976Z",
       "months": [
         {
           "month": "2025-03",
