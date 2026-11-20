@@ -43,6 +43,13 @@
         "expiresAt": "2026-11-22T00:14:17.751Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-05",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-20T00:29:36.894Z",
+        "expiresAt": "2026-11-22T00:29:36.894Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-19T16:21:36.461Z",
@@ -61,12 +68,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2025",
-    "generatedAt": "2026-11-20T00:17:59.284Z",
+    "generatedAt": "2026-11-20T00:32:29.067Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-20T00:17:59.284Z",
+      "lastUpdated": "2026-11-20T00:32:29.067Z",
       "months": [
         {
           "month": "2025-01",
