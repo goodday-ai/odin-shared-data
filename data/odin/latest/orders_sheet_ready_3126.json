@@ -4,12 +4,12 @@
   "rangeStr": "2024-12-31~2027-06-18",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-22T16:04:48.249Z",
+    "generatedAt": "2026-11-22T16:07:34.897Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2025-01-01",
+        "end": "2026-01-01"
       }
     ]
   },
@@ -20,8 +20,8 @@
       {
         "start": "2025-01-01",
         "end": "2026-01-01",
-        "updatedAt": "2026-11-21T16:08:01.973Z",
-        "expiresAt": "2026-11-23T16:08:01.973Z"
+        "updatedAt": "2026-11-22T16:07:34.897Z",
+        "expiresAt": "2026-11-24T16:07:34.897Z"
       },
       {
         "start": "2026-01-01",
@@ -45,7 +45,7 @@
     "historicalSnapshots": [
       {
         "year": "2025",
-        "capturedAt": "2026-11-21T16:08:01.973Z",
+        "capturedAt": "2026-11-22T16:07:34.897Z",
         "rowCount": 4065,
         "maxCheckout": "2026-01-02",
         "stayDatesSha256": "d0d1adfed847297712d85af8b1e1e88ae299ef4fa3374640185c26eea9e0ee10"
@@ -108667,12 +108667,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-22T16:06:56.506Z",
+    "generatedAt": "2026-11-22T16:08:35.165Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-22T16:06:56.506Z",
+      "lastUpdated": "2026-11-22T16:08:35.165Z",
       "months": [
         {
           "month": "2024-12",
