@@ -48850,6 +48850,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-22",
+      "訂單編號": "OBE59770312626112110",
+      "入住日期": "2026-11-22",
+      "退房日期": "2026-11-23",
+      "姓名": "",
+      "房型": "1104單人共用衛浴房(不含早餐)",
+      "專案名稱": "Booking.com",
+      "訂單款項": 768,
+      "已收金額": 0,
+      "剩餘尾款": 768,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-11-12",
       "訂單編號": "OBE62680312626111202",
       "入住日期": "2026-11-22",
@@ -50883,6 +50897,13 @@
         "expiresAt": "2026-11-23T16:00:54.292Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-07",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-22T00:00:43.650Z",
+        "expiresAt": "2026-11-24T00:00:43.650Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-21T16:04:58.001Z",
@@ -50910,12 +50931,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-21T16:00:54.292Z",
+    "generatedAt": "2026-11-22T00:00:43.650Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-21T16:00:54.292Z",
+      "lastUpdated": "2026-11-22T00:00:43.650Z",
       "months": [
         {
           "month": "2026-01",
@@ -54746,18 +54767,18 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 310,
-          "averageLeadDays": 20.8,
+          "totalOrders": 311,
+          "averageLeadDays": 20.7,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 21.3,
-              "orders": 66,
+              "percent": 21.5,
+              "orders": 67,
               "rank": 1
             },
             {
               "label": "2-3天",
-              "percent": 9.4,
+              "percent": 9.3,
               "orders": 29
             },
             {
@@ -54768,18 +54789,18 @@
             },
             {
               "label": "8-14天",
-              "percent": 15.5,
+              "percent": 15.4,
               "orders": 48
             },
             {
               "label": "15-30天",
-              "percent": 16.5,
+              "percent": 16.4,
               "orders": 51,
               "rank": 3
             },
             {
               "label": "31-45天",
-              "percent": 9.4,
+              "percent": 9.3,
               "orders": 29
             },
             {
@@ -54814,8 +54835,8 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 988565,
-          "adr": 2090,
+          "totalSales": 989333,
+          "adr": 2087,
           "revpar": 0,
           "soldNights": 0,
           "capacityNights": 0,
@@ -54956,20 +54977,20 @@
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "2403豪華陽台雙人房",
+              "roomType": "1104單人共用衛浴房",
               "bookingRate": 0,
-              "avgDailyRate": 2161,
-              "orderCount": 10.8,
+              "avgDailyRate": 753,
+              "orderCount": 14.2,
               "soldNights": 16,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
             {
-              "roomType": "1104單人共用衛浴房",
+              "roomType": "2403豪華陽台雙人房",
               "bookingRate": 0,
-              "avgDailyRate": 752,
-              "orderCount": 13.2,
-              "soldNights": 15,
+              "avgDailyRate": 2161,
+              "orderCount": 10.8,
+              "soldNights": 16,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },

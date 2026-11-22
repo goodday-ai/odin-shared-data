@@ -20,6 +20,13 @@
         "expiresAt": "2026-11-23T16:00:54.292Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-07",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-22T00:00:43.650Z",
+        "expiresAt": "2026-11-24T00:00:43.650Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-21T16:04:58.001Z",
@@ -47,14 +54,14 @@
       "path": "data/odin/by-year/2025/orders_sheet_ready_5917.json",
       "rowCount": 120,
       "complete": true,
-      "sha256": "dfcc8241b3c69c1cf3cb1293279cc8d3eab1183368c06856d3688192886c45cc"
+      "sha256": "0acea7f663e9a106d06979fd25d39fdb2d1c44096bdf4f216f21624361660eb1"
     },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_5917.json",
       "rowCount": 108,
       "complete": true,
-      "sha256": "bb28051d889fcd32587950b21dd7552dc05bdd24db8d3b61286fa68c9557fbe0",
+      "sha256": "126c2d5f01425aa22d4fd86c393d9f2b4cd339ab2d57b32aa23272257594c606",
       "staysCheckedOn": "2026-11-22",
       "firstOpenCheckin": "2026-12-30"
     },
@@ -63,7 +70,7 @@
       "path": "data/odin/by-year/2027/orders_sheet_ready_5917.json",
       "rowCount": 1,
       "complete": true,
-      "sha256": "5aabf16d87b2fd2e5d48ff03cbbf5870b261e5b105eb8c95cecac9e4ca538150"
+      "sha256": "4ee820a5d51f9915893ab0106cc2e2f5328a34fec32eac1fed3fb3b2e5bd4360"
     }
   ]
 }
