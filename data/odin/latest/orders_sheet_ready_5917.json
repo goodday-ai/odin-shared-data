@@ -4,15 +4,14 @@
   "rangeStr": "2025-01-20~2027-02-09",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-23T08:00:47.725Z",
+    "generatedAt": "2026-11-23T16:02:36.632Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-11-08",
+        "start": "2026-01-01",
         "end": "2027-01-01"
       }
-    ],
-    "rollingDay": "2026-11-23"
+    ]
   },
   "annualCoverage": {
     "version": "odin_annual_v1",
@@ -28,15 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-22T16:00:51.033Z",
-        "expiresAt": "2026-11-24T16:00:51.033Z"
-      },
-      {
-        "source": "scheduled_rolling",
-        "start": "2026-11-08",
-        "end": "2027-01-01",
-        "updatedAt": "2026-11-23T08:00:47.725Z",
-        "expiresAt": "2026-11-25T08:00:47.725Z"
+        "updatedAt": "2026-11-23T16:02:36.632Z",
+        "expiresAt": "2026-11-25T16:02:36.632Z"
       },
       {
         "start": "2027-01-01",
@@ -3283,12 +3275,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-23T08:04:43.127Z",
+    "generatedAt": "2026-11-23T16:06:04.354Z",
     "brand": {
       "brandKey": "tbshomestay",
       "hotelId": "5917",
       "name": "澎湖綠果昔民宿",
-      "lastUpdated": "2026-11-23T08:04:43.127Z",
+      "lastUpdated": "2026-11-23T16:06:04.354Z",
       "months": [
         {
           "month": "2025-01",
