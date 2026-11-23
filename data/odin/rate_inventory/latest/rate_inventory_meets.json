@@ -4,11 +4,11 @@
   "tenant": "meets",
   "hotelId": "3126",
   "displayName": "遇見秘境",
-  "rangeStart": "2026-11-23",
-  "rangeEnd": "2027-03-19",
+  "rangeStart": "2026-11-24",
+  "rangeEnd": "2027-03-23",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
-  "capturedAt": "2026-11-20T05:46:22.509Z",
+  "capturedAt": "2026-11-23T23:21:35.264Z",
   "publishPolicy": {
     "mode": "plan_id_allowlist",
     "planIds": [
@@ -24,8 +24,8 @@
     ]
   },
   "summary": {
-    "itemCount": 702,
-    "dateCount": 117,
+    "itemCount": 720,
+    "dateCount": 120,
     "salesUnitCount": 6,
     "planCount": 1,
     "minPrice": 650,
@@ -34,90 +34,6 @@
   },
   "items": [
     {
-      "date": "2026-11-23",
-      "salesUnitId": "13571",
-      "salesUnitName": "陽台標準雙人一大床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 1,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-23",
-      "salesUnitId": "13572",
-      "salesUnitName": "陽台標準雙人兩小床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 5,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-23",
-      "salesUnitId": "13573",
-      "salesUnitName": "豪華陽台雙人房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2100,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-23",
-      "salesUnitId": "13574",
-      "salesUnitName": "四人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2880,
-      "currency": "TWD",
-      "inventory": 9,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-23",
-      "salesUnitId": "13575",
-      "salesUnitName": "六人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 4080,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-23",
-      "salesUnitId": "13576",
-      "salesUnitName": "單人共用衛浴房(不含早餐)",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 650,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-11-24",
       "salesUnitId": "13571",
       "salesUnitName": "陽台標準雙人一大床房",
@@ -125,7 +41,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 3,
+      "inventory": 2,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -133,90 +49,6 @@
     },
     {
       "date": "2026-11-24",
-      "salesUnitId": "13572",
-      "salesUnitName": "陽台標準雙人兩小床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 6,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "13573",
-      "salesUnitName": "豪華陽台雙人房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2100,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "13574",
-      "salesUnitName": "四人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2880,
-      "currency": "TWD",
-      "inventory": 9,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "13575",
-      "salesUnitName": "六人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 4080,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "13576",
-      "salesUnitName": "單人共用衛浴房(不含早餐)",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 650,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
-      "salesUnitId": "13571",
-      "salesUnitName": "陽台標準雙人一大床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1800,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
       "salesUnitId": "13572",
       "salesUnitName": "陽台標準雙人兩小床房",
       "planId": "10539",
@@ -224,6 +56,90 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 7,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-24",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2100,
+      "currency": "TWD",
+      "inventory": 2,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-24",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2880,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-24",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 4080,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-24",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 650,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-25",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1800,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2026-11-25",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1800,
+      "currency": "TWD",
+      "inventory": 8,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -293,7 +209,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 4,
+      "inventory": 3,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -419,7 +335,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2880,
       "currency": "TWD",
-      "inventory": 9,
+      "inventory": 8,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -461,7 +377,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2400,
       "currency": "TWD",
-      "inventory": 1,
+      "inventory": 2,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -475,7 +391,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2400,
       "currency": "TWD",
-      "inventory": 5,
+      "inventory": 4,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -559,7 +475,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 8,
+      "inventory": 4,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -587,7 +503,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2880,
       "currency": "TWD",
-      "inventory": 8,
+      "inventory": 7,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -643,7 +559,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 8,
+      "inventory": 7,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -727,7 +643,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 5,
+      "inventory": 4,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -811,7 +727,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 5,
+      "inventory": 4,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -881,7 +797,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 2,
+      "inventory": 1,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -895,7 +811,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 5,
+      "inventory": 4,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -923,7 +839,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2880,
       "currency": "TWD",
-      "inventory": 9,
+      "inventory": 8,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -1021,7 +937,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 5400,
       "currency": "TWD",
-      "inventory": 3,
+      "inventory": 2,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -1567,7 +1483,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 1800,
       "currency": "TWD",
-      "inventory": 8,
+      "inventory": 6,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -1931,7 +1847,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2880,
       "currency": "TWD",
-      "inventory": 6,
+      "inventory": 7,
       "available": false,
       "minLos": 1,
       "cta": false,
@@ -2562,7 +2478,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2576,7 +2492,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2590,7 +2506,7 @@
       "price": 2100,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2604,7 +2520,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2618,7 +2534,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2631,8 +2547,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 650,
       "currency": "TWD",
-      "inventory": 3,
-      "available": true,
+      "inventory": 4,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2646,7 +2562,7 @@
       "price": 2000,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2659,8 +2575,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 2000,
       "currency": "TWD",
-      "inventory": 2,
-      "available": true,
+      "inventory": 1,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2674,7 +2590,7 @@
       "price": 2400,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2688,7 +2604,7 @@
       "price": 3280,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2702,7 +2618,7 @@
       "price": 5600,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2743,8 +2659,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 3000,
       "currency": "TWD",
-      "inventory": 1,
-      "available": true,
+      "inventory": 0,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2758,7 +2674,7 @@
       "price": 3300,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2771,8 +2687,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 4800,
       "currency": "TWD",
-      "inventory": 7,
-      "available": true,
+      "inventory": 6,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2786,7 +2702,7 @@
       "price": 6600,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2814,7 +2730,7 @@
       "price": 3000,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2827,8 +2743,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 3000,
       "currency": "TWD",
-      "inventory": 4,
-      "available": true,
+      "inventory": 3,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2842,7 +2758,7 @@
       "price": 3300,
       "currency": "TWD",
       "inventory": 1,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2856,7 +2772,7 @@
       "price": 4800,
       "currency": "TWD",
       "inventory": 5,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2870,7 +2786,7 @@
       "price": 6600,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2898,7 +2814,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2912,7 +2828,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2926,7 +2842,7 @@
       "price": 2100,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2940,7 +2856,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2954,7 +2870,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2968,7 +2884,7 @@
       "price": 850,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2982,7 +2898,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -2996,7 +2912,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3010,7 +2926,7 @@
       "price": 2100,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3024,7 +2940,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3038,7 +2954,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3052,7 +2968,7 @@
       "price": 650,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3066,7 +2982,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3080,7 +2996,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3094,7 +3010,7 @@
       "price": 2100,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3108,7 +3024,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3122,7 +3038,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3136,7 +3052,7 @@
       "price": 650,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3150,7 +3066,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3164,7 +3080,7 @@
       "price": 1800,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3178,7 +3094,7 @@
       "price": 2100,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3192,7 +3108,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3206,7 +3122,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3220,7 +3136,7 @@
       "price": 650,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3402,7 +3318,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3416,7 +3332,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3430,7 +3346,7 @@
       "price": 3380,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3444,7 +3360,7 @@
       "price": 4480,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3458,7 +3374,7 @@
       "price": 6900,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3472,7 +3388,7 @@
       "price": 980,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3486,7 +3402,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3500,7 +3416,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3514,7 +3430,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3528,7 +3444,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3542,7 +3458,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3556,7 +3472,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3570,7 +3486,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3584,7 +3500,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3598,7 +3514,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3612,7 +3528,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3626,7 +3542,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3640,7 +3556,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3654,7 +3570,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3668,7 +3584,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3682,7 +3598,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3696,7 +3612,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3710,7 +3626,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3724,7 +3640,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3738,7 +3654,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3752,7 +3668,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3766,7 +3682,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3780,7 +3696,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3794,7 +3710,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3808,7 +3724,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3822,7 +3738,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3836,7 +3752,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3850,7 +3766,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3864,7 +3780,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3878,7 +3794,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3892,7 +3808,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3906,7 +3822,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3920,7 +3836,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3934,7 +3850,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3948,7 +3864,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3962,7 +3878,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -3976,7 +3892,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4060,7 +3976,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4074,7 +3990,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4088,7 +4004,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4102,7 +4018,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4116,7 +4032,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4130,7 +4046,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4144,7 +4060,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4158,7 +4074,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4172,7 +4088,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4186,7 +4102,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4200,7 +4116,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4214,7 +4130,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4228,7 +4144,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4242,7 +4158,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4256,7 +4172,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4270,7 +4186,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4284,7 +4200,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4298,7 +4214,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4312,7 +4228,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4326,7 +4242,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4340,7 +4256,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4354,7 +4270,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4368,7 +4284,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4382,7 +4298,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4396,7 +4312,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4410,7 +4326,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4424,7 +4340,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4438,7 +4354,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4452,7 +4368,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4466,7 +4382,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4480,7 +4396,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4494,7 +4410,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4508,7 +4424,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4522,7 +4438,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4536,7 +4452,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4550,7 +4466,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4564,7 +4480,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4578,7 +4494,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4592,7 +4508,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4606,7 +4522,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4620,7 +4536,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4634,7 +4550,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4648,7 +4564,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4662,7 +4578,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4676,7 +4592,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4690,7 +4606,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4704,7 +4620,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4718,7 +4634,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4732,7 +4648,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4746,7 +4662,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4760,7 +4676,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4774,7 +4690,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4788,7 +4704,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4802,7 +4718,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4816,7 +4732,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4830,7 +4746,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4844,7 +4760,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4858,97 +4774,13 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
     },
     {
       "date": "2027-01-19",
-      "salesUnitId": "13574",
-      "salesUnitName": "四人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2880,
-      "currency": "TWD",
-      "inventory": 9,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-19",
-      "salesUnitId": "13575",
-      "salesUnitName": "六人家庭房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 4200,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-19",
-      "salesUnitId": "13576",
-      "salesUnitName": "單人共用衛浴房(不含早餐)",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 680,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-20",
-      "salesUnitId": "13571",
-      "salesUnitName": "陽台標準雙人一大床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1880,
-      "currency": "TWD",
-      "inventory": 4,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-20",
-      "salesUnitId": "13572",
-      "salesUnitName": "陽台標準雙人兩小床房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 1880,
-      "currency": "TWD",
-      "inventory": 8,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-20",
-      "salesUnitId": "13573",
-      "salesUnitName": "豪華陽台雙人房",
-      "planId": "10539",
-      "planName": "官網優惠價(不與其他優惠方案合併使用)",
-      "price": 2180,
-      "currency": "TWD",
-      "inventory": 3,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2027-01-20",
       "salesUnitId": "13574",
       "salesUnitName": "四人家庭房",
       "planId": "10539",
@@ -4956,7 +4788,91 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-19",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 4200,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-19",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 680,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-20",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-20",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 8,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-20",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2180,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-01-20",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2880,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4970,7 +4886,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4984,7 +4900,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -4998,7 +4914,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5012,7 +4928,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5026,7 +4942,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5040,7 +4956,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5054,7 +4970,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5068,7 +4984,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5082,7 +4998,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5096,7 +5012,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5110,7 +5026,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5124,7 +5040,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5138,7 +5054,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5152,7 +5068,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5166,7 +5082,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5180,7 +5096,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5194,7 +5110,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5208,7 +5124,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5222,7 +5138,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5236,7 +5152,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5250,7 +5166,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5264,7 +5180,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5278,7 +5194,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5292,7 +5208,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5306,7 +5222,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5320,7 +5236,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5334,7 +5250,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5348,7 +5264,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5362,7 +5278,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5376,7 +5292,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5390,7 +5306,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5404,7 +5320,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5418,7 +5334,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5432,7 +5348,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5446,7 +5362,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5460,7 +5376,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5474,7 +5390,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5488,7 +5404,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5502,7 +5418,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5516,7 +5432,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5530,7 +5446,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5544,7 +5460,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5558,7 +5474,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5572,7 +5488,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5586,7 +5502,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5600,7 +5516,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5614,7 +5530,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5628,7 +5544,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5642,7 +5558,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5656,7 +5572,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5670,7 +5586,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5684,7 +5600,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5698,7 +5614,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5712,7 +5628,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5726,7 +5642,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5740,7 +5656,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5754,7 +5670,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5768,7 +5684,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 6,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5782,7 +5698,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5795,8 +5711,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 3680,
       "currency": "TWD",
-      "inventory": 9,
-      "available": true,
+      "inventory": 7,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5810,7 +5726,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5823,8 +5739,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 880,
       "currency": "TWD",
-      "inventory": 4,
-      "available": true,
+      "inventory": 3,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5838,7 +5754,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5852,7 +5768,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5866,7 +5782,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5880,7 +5796,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5894,7 +5810,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5908,7 +5824,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5922,7 +5838,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5936,7 +5852,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5950,7 +5866,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5964,7 +5880,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5978,7 +5894,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -5992,7 +5908,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6006,7 +5922,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6020,7 +5936,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6034,7 +5950,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6048,7 +5964,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6062,7 +5978,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6076,7 +5992,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6090,7 +6006,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6104,7 +6020,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6118,7 +6034,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6132,7 +6048,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6146,7 +6062,7 @@
       "price": 4080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6160,7 +6076,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6467,7 +6383,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 5200,
       "currency": "TWD",
-      "inventory": 3,
+      "inventory": 1,
       "available": false,
       "minLos": 2,
       "cta": false,
@@ -6551,7 +6467,7 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 5200,
       "currency": "TWD",
-      "inventory": 8,
+      "inventory": 6,
       "available": false,
       "minLos": 2,
       "cta": false,
@@ -6678,7 +6594,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -6692,7 +6608,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -6706,7 +6622,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -6720,7 +6636,7 @@
       "price": 4800,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -6734,7 +6650,7 @@
       "price": 6600,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 2,
       "cta": false,
       "ctd": false
@@ -6748,7 +6664,7 @@
       "price": 980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6762,7 +6678,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6776,7 +6692,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6790,7 +6706,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6804,7 +6720,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6818,7 +6734,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6832,7 +6748,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6846,7 +6762,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6860,7 +6776,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6874,7 +6790,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6888,7 +6804,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6902,7 +6818,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6916,7 +6832,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6930,7 +6846,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6944,7 +6860,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6958,7 +6874,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6972,7 +6888,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -6986,7 +6902,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7000,7 +6916,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7014,7 +6930,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7028,7 +6944,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7042,7 +6958,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7056,7 +6972,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7070,7 +6986,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7084,7 +7000,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7098,7 +7014,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7112,7 +7028,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7126,7 +7042,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7140,7 +7056,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7154,7 +7070,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7168,7 +7084,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7182,7 +7098,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7196,7 +7112,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7210,7 +7126,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7224,7 +7140,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7238,7 +7154,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7252,7 +7168,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7266,7 +7182,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7280,7 +7196,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7294,7 +7210,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7308,7 +7224,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7322,7 +7238,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7336,7 +7252,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7350,7 +7266,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7364,7 +7280,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7378,7 +7294,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7392,7 +7308,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7406,7 +7322,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7420,7 +7336,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7434,7 +7350,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7448,7 +7364,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7462,7 +7378,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7476,7 +7392,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7490,7 +7406,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7504,7 +7420,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7518,7 +7434,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7532,7 +7448,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7546,7 +7462,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7560,7 +7476,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7574,7 +7490,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7588,7 +7504,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7602,7 +7518,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7616,7 +7532,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7630,7 +7546,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7644,7 +7560,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7658,7 +7574,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7671,8 +7587,8 @@
       "planName": "官網優惠價(不與其他優惠方案合併使用)",
       "price": 680,
       "currency": "TWD",
-      "inventory": 4,
-      "available": true,
+      "inventory": 3,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7686,7 +7602,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7700,7 +7616,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7714,7 +7630,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7728,7 +7644,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7742,7 +7658,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7756,7 +7672,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7770,7 +7686,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7784,7 +7700,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7798,7 +7714,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7812,7 +7728,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7826,7 +7742,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7840,7 +7756,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7854,7 +7770,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7868,7 +7784,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7882,7 +7798,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7896,7 +7812,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7910,7 +7826,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7924,7 +7840,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7938,7 +7854,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7952,7 +7868,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7966,7 +7882,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7980,7 +7896,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -7994,7 +7910,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8008,7 +7924,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8022,7 +7938,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8036,7 +7952,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8050,7 +7966,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8064,7 +7980,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8078,7 +7994,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8092,7 +8008,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8106,7 +8022,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8120,7 +8036,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8134,7 +8050,7 @@
       "price": 3380,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8148,7 +8064,7 @@
       "price": 4800,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8162,7 +8078,7 @@
       "price": 6900,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8176,7 +8092,7 @@
       "price": 1080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8190,7 +8106,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8204,7 +8120,7 @@
       "price": 3080,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8218,7 +8134,7 @@
       "price": 3380,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8232,7 +8148,7 @@
       "price": 4800,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8246,7 +8162,7 @@
       "price": 6900,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8260,7 +8176,7 @@
       "price": 1080,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8274,7 +8190,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8288,7 +8204,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8302,7 +8218,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8316,7 +8232,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8330,7 +8246,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8344,7 +8260,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8358,7 +8274,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8372,7 +8288,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8386,7 +8302,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8400,7 +8316,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8414,7 +8330,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8428,7 +8344,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8442,7 +8358,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8456,7 +8372,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8470,7 +8386,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8484,7 +8400,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8498,7 +8414,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8512,7 +8428,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8526,7 +8442,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8540,7 +8456,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8554,7 +8470,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8568,7 +8484,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8582,7 +8498,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8596,7 +8512,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8610,7 +8526,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8624,7 +8540,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8638,7 +8554,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8652,7 +8568,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8666,7 +8582,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8680,7 +8596,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8736,7 +8652,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 7,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8750,7 +8666,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8764,7 +8680,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8778,7 +8694,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8792,7 +8708,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8806,7 +8722,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8820,7 +8736,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8834,7 +8750,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8848,7 +8764,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8862,7 +8778,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8876,7 +8792,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8890,7 +8806,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8904,7 +8820,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8918,7 +8834,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8932,7 +8848,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8946,7 +8862,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8960,7 +8876,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8974,7 +8890,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -8988,7 +8904,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9002,7 +8918,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9016,7 +8932,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9030,7 +8946,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9044,7 +8960,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9058,7 +8974,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9072,7 +8988,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9086,7 +9002,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9100,7 +9016,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9114,7 +9030,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9128,7 +9044,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9142,7 +9058,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9156,7 +9072,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9170,7 +9086,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9184,7 +9100,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9198,7 +9114,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9212,7 +9128,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9226,7 +9142,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9240,7 +9156,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9254,7 +9170,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9268,7 +9184,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9282,7 +9198,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9296,7 +9212,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9310,7 +9226,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9324,7 +9240,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9338,7 +9254,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9352,7 +9268,7 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9366,7 +9282,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9380,7 +9296,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9394,7 +9310,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9408,7 +9324,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9422,7 +9338,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9436,7 +9352,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9450,7 +9366,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9464,7 +9380,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9478,7 +9394,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9492,7 +9408,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9506,7 +9422,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9520,7 +9436,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9534,7 +9450,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9548,7 +9464,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9562,7 +9478,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 2,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9576,7 +9492,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9590,7 +9506,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9604,7 +9520,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9618,7 +9534,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9632,7 +9548,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9646,7 +9562,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9660,7 +9576,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9674,7 +9590,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9688,7 +9604,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9702,7 +9618,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9716,7 +9632,7 @@
       "price": 1880,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9730,7 +9646,7 @@
       "price": 2180,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9744,7 +9660,7 @@
       "price": 2880,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9758,7 +9674,7 @@
       "price": 4200,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9772,7 +9688,7 @@
       "price": 680,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9786,7 +9702,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9800,7 +9716,7 @@
       "price": 2680,
       "currency": "TWD",
       "inventory": 8,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9814,7 +9730,7 @@
       "price": 2980,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9828,7 +9744,7 @@
       "price": 3680,
       "currency": "TWD",
       "inventory": 9,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9842,7 +9758,7 @@
       "price": 5400,
       "currency": "TWD",
       "inventory": 4,
-      "available": true,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
@@ -9856,15 +9772,346 @@
       "price": 880,
       "currency": "TWD",
       "inventory": 3,
-      "available": true,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2680,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2680,
+      "currency": "TWD",
+      "inventory": 8,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2980,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 3680,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 5400,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-20",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 880,
+      "currency": "TWD",
+      "inventory": 2,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 8,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2180,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2880,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 4200,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-21",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 680,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 8,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2180,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2880,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 4200,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-22",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 680,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13571",
+      "salesUnitName": "陽台標準雙人一大床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13572",
+      "salesUnitName": "陽台標準雙人兩小床房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 1880,
+      "currency": "TWD",
+      "inventory": 8,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13573",
+      "salesUnitName": "豪華陽台雙人房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2180,
+      "currency": "TWD",
+      "inventory": 3,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13574",
+      "salesUnitName": "四人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 2880,
+      "currency": "TWD",
+      "inventory": 9,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13575",
+      "salesUnitName": "六人家庭房",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 4200,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
+      "minLos": 1,
+      "cta": false,
+      "ctd": false
+    },
+    {
+      "date": "2027-03-23",
+      "salesUnitId": "13576",
+      "salesUnitName": "單人共用衛浴房(不含早餐)",
+      "planId": "10539",
+      "planName": "官網優惠價(不與其他優惠方案合併使用)",
+      "price": 680,
+      "currency": "TWD",
+      "inventory": 4,
+      "available": false,
       "minLos": 1,
       "cta": false,
       "ctd": false
     }
-  ],
-  "refreshedWindow": {
-    "rangeStart": "2026-11-23",
-    "rangeEnd": "2026-12-22",
-    "capturedAt": "2026-11-22T23:21:32.824Z"
-  }
+  ]
 }
