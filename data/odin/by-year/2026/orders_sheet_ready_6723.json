@@ -5580,6 +5580,13 @@
         "expiresAt": "2026-11-25T16:02:36.632Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-09",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-24T00:00:51.772Z",
+        "expiresAt": "2026-11-26T00:00:51.772Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-23T16:06:34.870Z",
@@ -5606,12 +5613,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-23T16:02:36.632Z",
+    "generatedAt": "2026-11-24T00:00:51.772Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-11-23T16:02:36.632Z",
+      "lastUpdated": "2026-11-24T00:00:51.772Z",
       "months": [
         {
           "month": "2026-01",
