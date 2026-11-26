@@ -438,8 +438,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-24T16:00:56.879Z",
-        "expiresAt": "2026-11-26T16:00:56.879Z"
+        "updatedAt": "2026-11-26T02:30:47.854Z",
+        "expiresAt": "2026-11-28T02:30:47.854Z"
       },
       {
         "start": "2027-01-01",
@@ -466,12 +466,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-24T16:00:56.879Z",
+    "generatedAt": "2026-11-26T02:30:47.854Z",
     "brand": {
       "brandKey": "7480",
       "hotelId": "7480",
       "name": "晴井包棟民宿",
-      "lastUpdated": "2026-11-24T16:00:56.879Z",
+      "lastUpdated": "2026-11-26T02:30:47.854Z",
       "months": [
         {
           "month": "2026-01",
@@ -544,6 +544,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -619,6 +624,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -694,6 +704,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -769,6 +784,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -844,6 +864,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -919,6 +944,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -996,7 +1026,12 @@
           "totalSales": 94315,
           "adr": 7255,
           "revpar": 0,
-          "soldNights": 0,
+          "soldNights": 13,
+          "pricedNights": 13,
+          "adrRevenue": 94315,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -1005,13 +1040,15 @@
               "avgDailyRate": 7255,
               "orderCount": 6,
               "soldNights": 13,
+              "pricedNights": 13,
+              "roomRevenue": 94315,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
           ],
           "notes": [
-            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。",
-            "部分訂單缺少訂單款項，銷售額、ADR 與 RevPAR 只反映已提供金額的資料。"
+            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
           ]
         },
         {
@@ -1087,7 +1124,12 @@
           "totalSales": 205398,
           "adr": 7607,
           "revpar": 0,
-          "soldNights": 0,
+          "soldNights": 27,
+          "pricedNights": 27,
+          "adrRevenue": 205398,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -1096,13 +1138,15 @@
               "avgDailyRate": 7607,
               "orderCount": 12,
               "soldNights": 27,
+              "pricedNights": 27,
+              "roomRevenue": 205398,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
           ],
           "notes": [
-            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。",
-            "部分訂單缺少訂單款項，銷售額、ADR 與 RevPAR 只反映已提供金額的資料。"
+            "包棟訂單已展開到所有實體房型；金額按實體房型數量比例分攤。"
           ]
         },
         {
@@ -1178,7 +1222,12 @@
           "totalSales": 144502,
           "adr": 14450,
           "revpar": 0,
-          "soldNights": 0,
+          "soldNights": 10,
+          "pricedNights": 10,
+          "adrRevenue": 144502,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -1187,6 +1236,9 @@
               "avgDailyRate": 14450,
               "orderCount": 5,
               "soldNights": 10,
+              "pricedNights": 10,
+              "roomRevenue": 144502,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
@@ -1268,7 +1320,12 @@
           "totalSales": 135450,
           "adr": 12314,
           "revpar": 0,
-          "soldNights": 0,
+          "soldNights": 11,
+          "pricedNights": 11,
+          "adrRevenue": 135450,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -1277,6 +1334,9 @@
               "avgDailyRate": 12314,
               "orderCount": 6,
               "soldNights": 11,
+              "pricedNights": 11,
+              "roomRevenue": 135450,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
@@ -1356,6 +1416,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -1431,6 +1496,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []

@@ -872,8 +872,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-24T16:00:56.879Z",
-        "expiresAt": "2026-11-26T16:00:56.879Z"
+        "updatedAt": "2026-11-26T02:30:47.854Z",
+        "expiresAt": "2026-11-28T02:30:47.854Z"
       },
       {
         "start": "2027-01-01",
@@ -2290,12 +2290,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-24T16:00:56.879Z",
+    "generatedAt": "2026-11-26T02:30:47.854Z",
     "brand": {
       "brandKey": "goodday",
       "hotelId": "5720",
       "name": "良辰吉日",
-      "lastUpdated": "2026-11-24T16:00:56.879Z",
+      "lastUpdated": "2026-11-26T02:30:47.854Z",
       "months": [
         {
           "month": "2026-01",
@@ -2369,6 +2369,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -2377,6 +2382,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -2386,6 +2394,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
             },
@@ -2395,6 +2406,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -2474,6 +2488,11 @@
           "adr": 11220,
           "revpar": 401,
           "soldNights": 2,
+          "pricedNights": 2,
+          "adrRevenue": 22440,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 56,
           "roomDetails": [
             {
@@ -2482,6 +2501,9 @@
               "avgDailyRate": 11220,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 22440,
+              "capacityConflicts": 0,
               "capacityNights": 28,
               "capacityText": "最大 1 間 × 28 天"
             },
@@ -2491,6 +2513,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 28,
               "capacityText": "最大 1 間 × 28 天"
             },
@@ -2500,6 +2525,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 28,
               "capacityText": "最大 1 組包棟 × 28 天"
             }
@@ -2581,6 +2609,11 @@
           "adr": 7625,
           "revpar": 1968,
           "soldNights": 16,
+          "pricedNights": 16,
+          "adrRevenue": 122000,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -2589,6 +2622,9 @@
               "avgDailyRate": 7625,
               "orderCount": 5,
               "soldNights": 8,
+              "pricedNights": 8,
+              "roomRevenue": 61000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 5 筆"
@@ -2599,6 +2635,9 @@
               "avgDailyRate": 7625,
               "orderCount": 5,
               "soldNights": 8,
+              "pricedNights": 8,
+              "roomRevenue": 61000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 5 筆"
@@ -2609,6 +2648,9 @@
               "avgDailyRate": 15250,
               "orderCount": 5,
               "soldNights": 8,
+              "pricedNights": 8,
+              "roomRevenue": 122000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -2692,6 +2734,11 @@
           "adr": 9533,
           "revpar": 3178,
           "soldNights": 20,
+          "pricedNights": 20,
+          "adrRevenue": 190653,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 60,
           "roomDetails": [
             {
@@ -2700,6 +2747,9 @@
               "avgDailyRate": 9533,
               "orderCount": 5,
               "soldNights": 10,
+              "pricedNights": 10,
+              "roomRevenue": 95326.5,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 5 筆"
@@ -2710,6 +2760,9 @@
               "avgDailyRate": 9533,
               "orderCount": 5,
               "soldNights": 10,
+              "pricedNights": 10,
+              "roomRevenue": 95326.5,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 5 筆"
@@ -2720,6 +2773,9 @@
               "avgDailyRate": 19065,
               "orderCount": 5,
               "soldNights": 10,
+              "pricedNights": 10,
+              "roomRevenue": 190653,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             }
@@ -2803,6 +2859,11 @@
           "adr": 10605,
           "revpar": 8210,
           "soldNights": 48,
+          "pricedNights": 48,
+          "adrRevenue": 509048,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -2811,6 +2872,9 @@
               "avgDailyRate": 10842,
               "orderCount": 11,
               "soldNights": 25,
+              "pricedNights": 25,
+              "roomRevenue": 271048,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 10 筆"
@@ -2821,6 +2885,9 @@
               "avgDailyRate": 10348,
               "orderCount": 10,
               "soldNights": 23,
+              "pricedNights": 23,
+              "roomRevenue": 238000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 10 筆"
@@ -2831,6 +2898,9 @@
               "avgDailyRate": 20696,
               "orderCount": 10,
               "soldNights": 23,
+              "pricedNights": 23,
+              "roomRevenue": 476000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -2915,6 +2985,11 @@
           "adr": 10114,
           "revpar": 7417,
           "soldNights": 44,
+          "pricedNights": 44,
+          "adrRevenue": 445000,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 60,
           "roomDetails": [
             {
@@ -2923,6 +2998,9 @@
               "avgDailyRate": 10114,
               "orderCount": 11,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 222500,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 11 筆"
@@ -2933,6 +3011,9 @@
               "avgDailyRate": 10114,
               "orderCount": 11,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 222500,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 11 筆"
@@ -2943,6 +3024,9 @@
               "avgDailyRate": 20227,
               "orderCount": 11,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 445000,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             }
@@ -3027,6 +3111,11 @@
           "adr": 10307,
           "revpar": 7315,
           "soldNights": 44,
+          "pricedNights": 44,
+          "adrRevenue": 453500,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -3035,6 +3124,9 @@
               "avgDailyRate": 10307,
               "orderCount": 9,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 226750,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 9 筆"
@@ -3045,6 +3137,9 @@
               "avgDailyRate": 10307,
               "orderCount": 9,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 226750,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 9 筆"
@@ -3055,6 +3150,9 @@
               "avgDailyRate": 20614,
               "orderCount": 9,
               "soldNights": 22,
+              "pricedNights": 22,
+              "roomRevenue": 453500,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -3139,6 +3237,11 @@
           "adr": 10106,
           "revpar": 4564,
           "soldNights": 28,
+          "pricedNights": 28,
+          "adrRevenue": 282957,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -3147,6 +3250,9 @@
               "avgDailyRate": 10330,
               "orderCount": 7,
               "soldNights": 15,
+              "pricedNights": 15,
+              "roomRevenue": 154957,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 6 筆"
@@ -3157,6 +3263,9 @@
               "avgDailyRate": 9846,
               "orderCount": 6,
               "soldNights": 13,
+              "pricedNights": 13,
+              "roomRevenue": 128000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 6 筆"
@@ -3167,6 +3276,9 @@
               "avgDailyRate": 19692,
               "orderCount": 6,
               "soldNights": 13,
+              "pricedNights": 13,
+              "roomRevenue": 256000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -3250,6 +3362,11 @@
           "adr": 9433,
           "revpar": 4717,
           "soldNights": 30,
+          "pricedNights": 30,
+          "adrRevenue": 283000,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 60,
           "roomDetails": [
             {
@@ -3258,6 +3375,9 @@
               "avgDailyRate": 9433,
               "orderCount": 8,
               "soldNights": 15,
+              "pricedNights": 15,
+              "roomRevenue": 141500,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 8 筆"
@@ -3268,6 +3388,9 @@
               "avgDailyRate": 9433,
               "orderCount": 8,
               "soldNights": 15,
+              "pricedNights": 15,
+              "roomRevenue": 141500,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天",
               "wholeHouseImpact": "含包棟展開 8 筆"
@@ -3278,6 +3401,9 @@
               "avgDailyRate": 18867,
               "orderCount": 8,
               "soldNights": 15,
+              "pricedNights": 15,
+              "roomRevenue": 283000,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             }
@@ -3361,6 +3487,11 @@
           "adr": 7780,
           "revpar": 2259,
           "soldNights": 18,
+          "pricedNights": 18,
+          "adrRevenue": 140032,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -3369,6 +3500,9 @@
               "avgDailyRate": 8103,
               "orderCount": 4,
               "soldNights": 10,
+              "pricedNights": 10,
+              "roomRevenue": 81032,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 3 筆"
@@ -3379,6 +3513,9 @@
               "avgDailyRate": 7375,
               "orderCount": 3,
               "soldNights": 8,
+              "pricedNights": 8,
+              "roomRevenue": 59000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 3 筆"
@@ -3389,6 +3526,9 @@
               "avgDailyRate": 14750,
               "orderCount": 3,
               "soldNights": 8,
+              "pricedNights": 8,
+              "roomRevenue": 118000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }
@@ -3469,6 +3609,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 60,
           "roomDetails": [
             {
@@ -3477,6 +3622,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -3486,6 +3634,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 間 × 30 天"
             },
@@ -3495,6 +3646,9 @@
               "avgDailyRate": 0,
               "orderCount": 0,
               "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 30,
               "capacityText": "最大 1 組包棟 × 30 天"
             }
@@ -3574,6 +3728,11 @@
           "adr": 5000,
           "revpar": 323,
           "soldNights": 4,
+          "pricedNights": 4,
+          "adrRevenue": 20000,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 62,
           "roomDetails": [
             {
@@ -3582,6 +3741,9 @@
               "avgDailyRate": 5000,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 10000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 1 筆"
@@ -3592,6 +3754,9 @@
               "avgDailyRate": 5000,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 10000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天",
               "wholeHouseImpact": "含包棟展開 1 筆"
@@ -3602,6 +3767,9 @@
               "avgDailyRate": 10000,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 20000,
+              "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 組包棟 × 31 天"
             }

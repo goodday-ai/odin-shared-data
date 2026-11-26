@@ -4,12 +4,12 @@
   "rangeStr": "2026-11-04~2027-03-27",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-24T16:05:02.859Z",
+    "generatedAt": "2026-11-26T02:30:47.854Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2026-01-01",
+        "end": "2027-01-01"
       }
     ]
   },
@@ -26,8 +26,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-24T16:00:56.879Z",
-        "expiresAt": "2026-11-26T16:00:56.879Z"
+        "updatedAt": "2026-11-26T02:30:47.854Z",
+        "expiresAt": "2026-11-28T02:30:47.854Z"
       },
       {
         "start": "2027-01-01",
@@ -151,12 +151,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-24T16:07:37.976Z",
+    "generatedAt": "2026-11-26T02:34:19.440Z",
     "brand": {
       "brandKey": "7624",
       "hotelId": "7624",
       "name": "綠洲旅店",
-      "lastUpdated": "2026-11-24T16:07:37.976Z",
+      "lastUpdated": "2026-11-26T02:34:19.440Z",
       "months": [
         {
           "month": "2026-11",
@@ -232,6 +232,11 @@
           "adr": 2643,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 8,
+          "adrRevenue": 21140,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -240,6 +245,9 @@
               "avgDailyRate": 2960,
               "orderCount": 2,
               "soldNights": 4,
+              "pricedNights": 4,
+              "roomRevenue": 11840,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -249,6 +257,9 @@
               "avgDailyRate": 1250,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 2500,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -258,6 +269,9 @@
               "avgDailyRate": 3400,
               "orderCount": 1,
               "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 6800,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
@@ -336,6 +350,11 @@
           "adr": 3280,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 1,
+          "adrRevenue": 3280,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -344,6 +363,9 @@
               "avgDailyRate": 3280,
               "orderCount": 1,
               "soldNights": 1,
+              "pricedNights": 1,
+              "roomRevenue": 3280,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
@@ -422,6 +444,11 @@
           "adr": 3281,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 6,
+          "adrRevenue": 19683,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -430,6 +457,9 @@
               "avgDailyRate": 3281,
               "orderCount": 0.5,
               "soldNights": 3,
+              "pricedNights": 3,
+              "roomRevenue": 9841.5,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -439,6 +469,9 @@
               "avgDailyRate": 3281,
               "orderCount": 0.5,
               "soldNights": 3,
+              "pricedNights": 3,
+              "roomRevenue": 9841.5,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }

@@ -59,8 +59,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-24T16:00:56.879Z",
-        "expiresAt": "2026-11-26T16:00:56.879Z"
+        "updatedAt": "2026-11-26T02:30:47.854Z",
+        "expiresAt": "2026-11-28T02:30:47.854Z"
       },
       {
         "start": "2027-01-01",
@@ -90,12 +90,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2024",
-    "generatedAt": "2026-11-24T16:09:25.253Z",
+    "generatedAt": "2026-11-26T02:34:19.607Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-24T16:09:25.253Z",
+      "lastUpdated": "2026-11-26T02:34:19.607Z",
       "months": [
         {
           "month": "2024-01",
@@ -168,6 +168,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -243,6 +248,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -318,6 +328,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -393,6 +408,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -468,6 +488,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -543,6 +568,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -618,6 +648,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -693,6 +728,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -768,6 +808,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -843,6 +888,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -918,6 +968,11 @@
           "adr": 0,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [],
           "notes": []
@@ -995,6 +1050,11 @@
           "adr": 1060,
           "revpar": 0,
           "soldNights": 0,
+          "pricedNights": 2,
+          "adrRevenue": 2120,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
           "capacityNights": 0,
           "roomDetails": [
             {
@@ -1003,6 +1063,9 @@
               "avgDailyRate": 2120,
               "orderCount": 1,
               "soldNights": 1,
+              "pricedNights": 1,
+              "roomRevenue": 2120,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             },
@@ -1012,13 +1075,15 @@
               "avgDailyRate": 0,
               "orderCount": 1,
               "soldNights": 1,
+              "pricedNights": 1,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
             }
           ],
           "notes": [
-            "跨月入住已依實際住宿夜拆分到月份。",
-            "部分訂單缺少訂單款項，銷售額、ADR 與 RevPAR 只反映已提供金額的資料。"
+            "跨月入住已依實際住宿夜拆分到月份。"
           ]
         }
       ]
