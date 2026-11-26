@@ -5,6 +5,7 @@
   "annualCoverage": {
     "version": "odin_annual_v1",
     "partitionBy": "checkin",
+    "historyBaselineYear": "2025",
     "checkinRanges": [
       {
         "start": "2025-01-01",
@@ -17,6 +18,13 @@
         "end": "2027-01-01",
         "updatedAt": "2026-11-26T02:30:47.854Z",
         "expiresAt": "2026-11-28T02:30:47.854Z"
+      },
+      {
+        "source": "scheduled_rolling",
+        "start": "2026-11-11",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-26T03:01:04.056Z",
+        "expiresAt": "2026-11-28T03:01:04.056Z"
       },
       {
         "start": "2027-01-01",
@@ -39,8 +47,7 @@
         "maxCheckout": "2026-01-02",
         "stayDatesSha256": "d0d1adfed847297712d85af8b1e1e88ae299ef4fa3374640185c26eea9e0ee10"
       }
-    ],
-    "historyBaselineYear": "2025"
+    ]
   },
   "years": [
     {
@@ -48,21 +55,21 @@
       "path": "data/odin/by-year/2024/orders_sheet_ready_3126.json",
       "rowCount": 2,
       "complete": false,
-      "sha256": "e7428990708c52f9a0f7282c4cbd41a8abfa3510be0a227f0498d4ea55e8d0b1"
+      "sha256": "82f7d2efdc47c490d3b186a78ea6b54ab52f504ec200b865150253042c566dd7"
     },
     {
       "year": "2025",
       "path": "data/odin/by-year/2025/orders_sheet_ready_3126.json",
       "rowCount": 4065,
       "complete": true,
-      "sha256": "82315599a3ac4e5d3acabb39d809114805981cd3636f5f55acbced981be66beb"
+      "sha256": "c1672891e5c26e546c009cc4e6cf9744b1d8b890e38bed5f10ff0fab2a0c7a5d"
     },
     {
       "year": "2026",
       "path": "data/odin/by-year/2026/orders_sheet_ready_3126.json",
-      "rowCount": 3673,
+      "rowCount": 3674,
       "complete": true,
-      "sha256": "3f59c2158ac7a83f6aa6bc4c41affdf7ca3956f8be585d809bfc13574e2751f8",
+      "sha256": "2e4f3f590489d924fd8295d91b520d1535f21506ca39503b0d4904fc61fd0742",
       "staysCheckedOn": "2026-11-26",
       "firstOpenCheckin": "2026-11-26"
     },
@@ -71,7 +78,7 @@
       "path": "data/odin/by-year/2027/orders_sheet_ready_3126.json",
       "rowCount": 46,
       "complete": true,
-      "sha256": "134f39d1a773c12a9a8c585715c823bdd171474bf3debeab3addced1bd4a20b1"
+      "sha256": "ea37e04446874edaeb66f15c903e466b4ab44d50e3e4b231506f51c45a7244f8"
     }
   ]
 }
