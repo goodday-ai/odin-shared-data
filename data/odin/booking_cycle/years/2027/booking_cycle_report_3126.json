@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "year": "2027",
-  "generatedAt": "2026-11-24T16:05:02.859Z",
+  "generatedAt": "2026-11-26T02:35:03.639Z",
   "brand": {
     "brandKey": "3126",
     "hotelId": "3126",
     "name": "遇見秘境",
-    "lastUpdated": "2026-11-24T16:05:02.859Z",
+    "lastUpdated": "2026-11-26T02:35:03.639Z",
     "months": [
       {
         "month": "2027-01",
-        "totalOrders": 21,
-        "averageLeadDays": 81.7,
+        "totalOrders": 20,
+        "averageLeadDays": 81.2,
         "buckets": [
           {
             "label": "0-1天",
@@ -40,7 +40,7 @@
           },
           {
             "label": "31-45天",
-            "percent": 4.8,
+            "percent": 5,
             "orders": 1
           },
           {
@@ -50,26 +50,26 @@
           },
           {
             "label": "61-75天",
-            "percent": 38.1,
+            "percent": 40,
             "orders": 8,
             "rank": 1
           },
           {
             "label": "76-90天",
-            "percent": 28.6,
+            "percent": 30,
             "orders": 6,
             "rank": 2
           },
           {
             "label": "91-105天",
-            "percent": 14.3,
-            "orders": 3,
-            "rank": 3
+            "percent": 10,
+            "orders": 2
           },
           {
             "label": "106-136天",
-            "percent": 14.3,
-            "orders": 3
+            "percent": 15,
+            "orders": 3,
+            "rank": 3
           },
           {
             "label": "137天以上",
@@ -78,10 +78,15 @@
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 193052,
-        "adr": 3114,
+        "totalSales": 191260,
+        "adr": 3135,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 61,
+        "adrRevenue": 191260,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -90,6 +95,9 @@
             "avgDailyRate": 2474,
             "orderCount": 2.4,
             "soldNights": 7,
+            "pricedNights": 7,
+            "roomRevenue": 17319.333333333332,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -99,15 +107,9 @@
             "avgDailyRate": 3167,
             "orderCount": 3.1,
             "soldNights": 5,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "1301陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2447,
-            "orderCount": 1.9,
-            "soldNights": 5,
+            "pricedNights": 5,
+            "roomRevenue": 15835.222222222223,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -117,6 +119,9 @@
             "avgDailyRate": 2573,
             "orderCount": 1.4,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 10291.733333333334,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -126,6 +131,21 @@
             "avgDailyRate": 3679,
             "orderCount": 1.6,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 14715.222222222223,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2611,
+            "orderCount": 0.9,
+            "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 10443.333333333332,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -135,6 +155,9 @@
             "avgDailyRate": 2436,
             "orderCount": 1.6,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 9743.333333333332,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -144,6 +167,9 @@
             "avgDailyRate": 5204,
             "orderCount": 2.1,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 20817.333333333332,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -153,6 +179,9 @@
             "avgDailyRate": 2516,
             "orderCount": 1.1,
             "soldNights": 3,
+            "pricedNights": 3,
+            "roomRevenue": 7549.133333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -162,6 +191,9 @@
             "avgDailyRate": 3998,
             "orderCount": 0.6,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 7996.222222222223,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -171,6 +203,9 @@
             "avgDailyRate": 2613,
             "orderCount": 0.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 5226.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -180,6 +215,9 @@
             "avgDailyRate": 2613,
             "orderCount": 0.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 5226.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -189,6 +227,9 @@
             "avgDailyRate": 3215,
             "orderCount": 1.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6430,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -198,6 +239,9 @@
             "avgDailyRate": 2613,
             "orderCount": 0.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 5226.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -207,6 +251,9 @@
             "avgDailyRate": 1000,
             "orderCount": 1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 1000,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -216,6 +263,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -225,6 +275,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -234,6 +287,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -243,6 +299,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -252,6 +311,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -261,6 +323,9 @@
             "avgDailyRate": 4250,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4250,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -270,6 +335,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -279,6 +347,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -288,6 +359,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -297,6 +371,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -306,6 +383,9 @@
             "avgDailyRate": 2833,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2833.333333333333,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -315,6 +395,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -324,6 +407,9 @@
             "avgDailyRate": 3948,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3948.222222222222,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -333,6 +419,9 @@
             "avgDailyRate": 4250,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4250,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -342,6 +431,9 @@
             "avgDailyRate": 4250,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4250,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -425,6 +517,11 @@
         "adr": 3922,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 43,
+        "adrRevenue": 168657,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -433,6 +530,9 @@
             "avgDailyRate": 833,
             "orderCount": 4,
             "soldNights": 6,
+            "pricedNights": 6,
+            "roomRevenue": 4999.7,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -442,6 +542,9 @@
             "avgDailyRate": 3787,
             "orderCount": 0.8,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 15146.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -451,6 +554,9 @@
             "avgDailyRate": 5000,
             "orderCount": 2,
             "soldNights": 4,
+            "pricedNights": 4,
+            "roomRevenue": 20000,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -460,6 +566,9 @@
             "avgDailyRate": 3857,
             "orderCount": 1.3,
             "soldNights": 3,
+            "pricedNights": 3,
+            "roomRevenue": 11570.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -469,6 +578,9 @@
             "avgDailyRate": 4493,
             "orderCount": 0.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 8986.666666666666,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -478,6 +590,9 @@
             "avgDailyRate": 3800,
             "orderCount": 1.3,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 7599,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -487,6 +602,9 @@
             "avgDailyRate": 3080,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6160,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -496,6 +614,9 @@
             "avgDailyRate": 6334,
             "orderCount": 2,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 12668.4,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -505,6 +626,9 @@
             "avgDailyRate": 6826,
             "orderCount": 1,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 13651,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -514,6 +638,9 @@
             "avgDailyRate": 3130,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6260,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -523,6 +650,9 @@
             "avgDailyRate": 3130,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6260,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -532,6 +662,9 @@
             "avgDailyRate": 3280,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6560,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -541,6 +674,9 @@
             "avgDailyRate": 5200,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 10400,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -550,6 +686,9 @@
             "avgDailyRate": 3280,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6560,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -559,6 +698,9 @@
             "avgDailyRate": 5200,
             "orderCount": 0.5,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 10400,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -568,6 +710,9 @@
             "avgDailyRate": 4745,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4745,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -577,6 +722,9 @@
             "avgDailyRate": 4745,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4745,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -586,6 +734,9 @@
             "avgDailyRate": 4745,
             "orderCount": 0.3,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 4745,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -595,6 +746,9 @@
             "avgDailyRate": 7200,
             "orderCount": 1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 7200,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -677,6 +831,11 @@
         "adr": 2306,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 27,
+        "adrRevenue": 62262,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -685,6 +844,9 @@
             "avgDailyRate": 652,
             "orderCount": 1,
             "soldNights": 5,
+            "pricedNights": 5,
+            "roomRevenue": 3262,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -694,6 +856,9 @@
             "avgDailyRate": 2071,
             "orderCount": 2,
             "soldNights": 3,
+            "pricedNights": 3,
+            "roomRevenue": 6214,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -703,6 +868,9 @@
             "avgDailyRate": 3011,
             "orderCount": 0.6,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 6022.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -712,6 +880,9 @@
             "avgDailyRate": 946,
             "orderCount": 1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 946,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -721,6 +892,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -730,6 +904,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -739,6 +916,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -748,6 +928,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -757,6 +940,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -766,6 +952,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -775,6 +964,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -784,6 +976,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -793,6 +988,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -802,6 +1000,9 @@
             "avgDailyRate": 3180,
             "orderCount": 0.5,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 3180,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -811,6 +1012,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -820,6 +1024,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -829,6 +1036,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -838,6 +1048,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -847,6 +1060,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
@@ -856,6 +1072,9 @@
             "avgDailyRate": 2843,
             "orderCount": 0.1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2842.5,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -936,6 +1155,11 @@
         "adr": 734,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 2,
+        "adrRevenue": 1468,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -944,6 +1168,9 @@
             "avgDailyRate": 734,
             "orderCount": 1,
             "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 1468,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -1022,6 +1249,11 @@
         "adr": 2788,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 1,
+        "adrRevenue": 2788,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -1030,6 +1262,9 @@
             "avgDailyRate": 2788,
             "orderCount": 1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 2788,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -1108,6 +1343,11 @@
         "adr": 766,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 1,
+        "adrRevenue": 766,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [
           {
@@ -1116,6 +1356,9 @@
             "avgDailyRate": 766,
             "orderCount": 1,
             "soldNights": 1,
+            "pricedNights": 1,
+            "roomRevenue": 766,
+            "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           }
@@ -1193,6 +1436,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
@@ -1268,6 +1516,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
@@ -1343,6 +1596,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
@@ -1418,6 +1676,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
@@ -1493,6 +1756,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
@@ -1568,6 +1836,11 @@
         "adr": 0,
         "revpar": 0,
         "soldNights": 0,
+        "pricedNights": 0,
+        "adrRevenue": 0,
+        "capacityConflicts": 0,
+        "revenueComplete": true,
+        "invalidStayCount": 0,
         "capacityNights": 0,
         "roomDetails": [],
         "notes": []
