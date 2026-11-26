@@ -4,7 +4,7 @@
   "rangeStr": "2025-08-22~2027-03-01",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-26T03:01:04.056Z",
+    "generatedAt": "2026-11-26T08:00:48.207Z",
     "maxAgeHours": 48,
     "ranges": [
       {
@@ -35,8 +35,8 @@
         "source": "scheduled_rolling",
         "start": "2026-11-11",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-26T03:01:04.056Z",
-        "expiresAt": "2026-11-28T03:01:04.056Z"
+        "updatedAt": "2026-11-26T08:00:48.207Z",
+        "expiresAt": "2026-11-28T08:00:48.207Z"
       },
       {
         "start": "2027-01-01",
@@ -6202,8 +6202,8 @@
       "房型": "4F二臥室套房",
       "專案名稱": "官網專案",
       "訂單款項": 9502,
-      "已收金額": 4751,
-      "剩餘尾款": 4751,
+      "已收金額": 9502,
+      "剩餘尾款": 0,
       "UUID": "",
       "電話": ""
     },
@@ -6405,12 +6405,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-26T03:03:45.215Z",
+    "generatedAt": "2026-11-26T08:03:46.888Z",
     "brand": {
       "brandKey": "houseresidence",
       "hotelId": "6723",
       "name": "好思寓所",
-      "lastUpdated": "2026-11-26T03:03:45.215Z",
+      "lastUpdated": "2026-11-26T08:03:46.888Z",
       "months": [
         {
           "month": "2025-08",
