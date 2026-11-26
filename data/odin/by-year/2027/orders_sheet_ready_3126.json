@@ -228,20 +228,6 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-10-25",
-      "訂單編號": "OBE41040312626102505",
-      "入住日期": "2027-01-24",
-      "退房日期": "2027-01-25",
-      "姓名": "",
-      "房型": "1301陽台標準雙人兩小床房",
-      "專案名稱": "Expedia",
-      "訂單款項": 1791.8,
-      "已收金額": 1791.8,
-      "剩餘尾款": 0,
-      "UUID": "",
-      "電話": ""
-    },
-    {
       "訂單日期": "2026-11-19",
       "訂單編號": "OBE20590312626111912",
       "入住日期": "2027-01-30",
@@ -695,8 +681,8 @@
       {
         "start": "2027-01-01",
         "end": "2028-01-01",
-        "updatedAt": "2026-11-24T16:05:02.859Z",
-        "expiresAt": "2026-11-26T16:05:02.859Z"
+        "updatedAt": "2026-11-26T02:35:03.639Z",
+        "expiresAt": "2026-11-28T02:35:03.639Z"
       }
     ],
     "retainedYears": [
@@ -720,17 +706,17 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2027",
-    "generatedAt": "2026-11-24T16:05:02.859Z",
+    "generatedAt": "2026-11-26T02:35:03.639Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-24T16:05:02.859Z",
+      "lastUpdated": "2026-11-26T02:35:03.639Z",
       "months": [
         {
           "month": "2027-01",
-          "totalOrders": 21,
-          "averageLeadDays": 81.7,
+          "totalOrders": 20,
+          "averageLeadDays": 81.2,
           "buckets": [
             {
               "label": "0-1天",
@@ -759,7 +745,7 @@
             },
             {
               "label": "31-45天",
-              "percent": 4.8,
+              "percent": 5,
               "orders": 1
             },
             {
@@ -769,26 +755,26 @@
             },
             {
               "label": "61-75天",
-              "percent": 38.1,
+              "percent": 40,
               "orders": 8,
               "rank": 1
             },
             {
               "label": "76-90天",
-              "percent": 28.6,
+              "percent": 30,
               "orders": 6,
               "rank": 2
             },
             {
               "label": "91-105天",
-              "percent": 14.3,
-              "orders": 3,
-              "rank": 3
+              "percent": 10,
+              "orders": 2
             },
             {
               "label": "106-136天",
-              "percent": 14.3,
-              "orders": 3
+              "percent": 15,
+              "orders": 3,
+              "rank": 3
             },
             {
               "label": "137天以上",
@@ -797,12 +783,12 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 195925,
-          "adr": 3110,
+          "totalSales": 194133,
+          "adr": 3131,
           "revpar": 0,
           "soldNights": 0,
-          "pricedNights": 63,
-          "adrRevenue": 195925,
+          "pricedNights": 62,
+          "adrRevenue": 194133,
           "capacityConflicts": 0,
           "revenueComplete": true,
           "invalidStayCount": 0,
@@ -828,18 +814,6 @@
               "soldNights": 5,
               "pricedNights": 5,
               "roomRevenue": 15835.222222222223,
-              "capacityConflicts": 0,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "1301陽台標準雙人兩小床房",
-              "bookingRate": 0,
-              "avgDailyRate": 2447,
-              "orderCount": 1.9,
-              "soldNights": 5,
-              "pricedNights": 5,
-              "roomRevenue": 12235.133333333333,
               "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
@@ -876,6 +850,18 @@
               "soldNights": 4,
               "pricedNights": 4,
               "roomRevenue": 14715.222222222223,
+              "capacityConflicts": 0,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "1301陽台標準雙人兩小床房",
+              "bookingRate": 0,
+              "avgDailyRate": 2611,
+              "orderCount": 0.9,
+              "soldNights": 4,
+              "pricedNights": 4,
+              "roomRevenue": 10443.333333333332,
               "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
