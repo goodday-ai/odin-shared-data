@@ -4,7 +4,7 @@
   "tenant": "houseresidence",
   "hotelId": "6723",
   "displayName": "好思寓所",
-  "rangeStart": "2026-11-24",
+  "rangeStart": "2026-11-26",
   "rangeEnd": "2027-03-23",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 240,
-    "dateCount": 120,
+    "itemCount": 236,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 4751,
@@ -29,62 +29,6 @@
     "truncated": false
   },
   "items": [
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "40071",
-      "planName": "官網專屬優惠",
-      "price": 5277,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "43777",
-      "planName": "官網專屬不可取消優惠",
-      "price": 4751,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "40071",
-      "planName": "官網專屬優惠",
-      "price": 5277,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
-      "salesUnitId": "32440",
-      "salesUnitName": "二臥室套房",
-      "planId": "43777",
-      "planName": "官網專屬不可取消優惠",
-      "price": 4751,
-      "currency": "TWD",
-      "inventory": 2,
-      "available": true,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
     {
       "date": "2026-11-26",
       "salesUnitId": "32440",
@@ -3389,5 +3333,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-11-26",
+    "rangeEnd": "2026-12-25",
+    "capturedAt": "2026-11-26T02:51:19.774Z"
+  }
 }

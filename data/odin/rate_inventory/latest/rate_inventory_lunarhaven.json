@@ -4,7 +4,7 @@
   "tenant": "lunarhaven",
   "hotelId": "6721",
   "displayName": "泊月民宿",
-  "rangeStart": "2026-11-24",
+  "rangeStart": "2026-11-26",
   "rangeEnd": "2027-03-23",
   "currency": "TWD",
   "source": "owlting_admin_calendars",
@@ -20,8 +20,8 @@
     ]
   },
   "summary": {
-    "itemCount": 240,
-    "dateCount": 120,
+    "itemCount": 236,
+    "dateCount": 118,
     "salesUnitCount": 1,
     "planCount": 2,
     "minPrice": 5994,
@@ -30,62 +30,6 @@
   },
   "items": [
     {
-      "date": "2026-11-24",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 6660,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-24",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 5994,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40073",
-      "planName": "官網專屬優惠",
-      "price": 6660,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
-      "date": "2026-11-25",
-      "salesUnitId": "32438",
-      "salesUnitName": "獨享包棟私墅",
-      "planId": "40684",
-      "planName": "官網專屬連住優惠",
-      "price": 5994,
-      "currency": "TWD",
-      "inventory": 0,
-      "available": false,
-      "minLos": 1,
-      "cta": false,
-      "ctd": false
-    },
-    {
       "date": "2026-11-26",
       "salesUnitId": "32438",
       "salesUnitName": "獨享包棟私墅",
@@ -427,7 +371,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 13176,
+      "price": 6660,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -441,7 +385,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 11858,
+      "price": 5994,
       "currency": "TWD",
       "inventory": 1,
       "available": false,
@@ -455,7 +399,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 13176,
+      "price": 6660,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -469,7 +413,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 11858,
+      "price": 5994,
       "currency": "TWD",
       "inventory": 1,
       "available": false,
@@ -875,7 +819,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40073",
       "planName": "官網專屬優惠",
-      "price": 16082,
+      "price": 13176,
       "currency": "TWD",
       "inventory": 1,
       "available": true,
@@ -889,7 +833,7 @@
       "salesUnitName": "獨享包棟私墅",
       "planId": "40684",
       "planName": "官網專屬連住優惠",
-      "price": 14473,
+      "price": 11858,
       "currency": "TWD",
       "inventory": 1,
       "available": false,
@@ -3389,5 +3333,10 @@
       "cta": false,
       "ctd": false
     }
-  ]
+  ],
+  "refreshedWindow": {
+    "rangeStart": "2026-11-26",
+    "rangeEnd": "2026-12-25",
+    "capturedAt": "2026-11-26T02:51:21.610Z"
+  }
 }
