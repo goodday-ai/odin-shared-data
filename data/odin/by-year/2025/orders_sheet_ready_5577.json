@@ -1,0 +1,1680 @@
+{
+  "hotelId": "5577",
+  "hotelName": "今棧行旅",
+  "year": "2025",
+  "columns": [
+    "訂單日期",
+    "訂單編號",
+    "入住日期",
+    "退房日期",
+    "姓名",
+    "房型",
+    "專案名稱",
+    "訂單款項",
+    "已收金額",
+    "剩餘尾款",
+    "UUID",
+    "電話"
+  ],
+  "rows": [
+    {
+      "訂單日期": "2025-12-29",
+      "訂單編號": "100002",
+      "入住日期": "2025-12-29",
+      "退房日期": "2025-12-31",
+      "姓名": "",
+      "房型": "高級雙人房",
+      "專案名稱": "[NABE] Ctrip-cm預付｜Ctrip-CM預付 高級雙人房(不含早餐)",
+      "訂單款項": "2550",
+      "已收金額": "",
+      "剩餘尾款": "",
+      "UUID": "",
+      "電話": ""
+    }
+  ],
+  "annualCoverage": {
+    "version": "odin_annual_v1",
+    "partitionBy": "checkin",
+    "verifiedStayRanges": [
+      {
+        "start": "2026-09-26",
+        "end": "2026-09-27",
+        "source": "operator_confirmed",
+        "updatedAt": "2026-09-24T10:55:09.450Z"
+      },
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "source": "operator_confirmed",
+        "updatedAt": "2026-09-24T13:01:08.838Z"
+      }
+    ],
+    "historyBaselineYear": "2026",
+    "checkinRanges": [
+      {
+        "start": "2025-01-01",
+        "end": "2026-01-01",
+        "updatedAt": "2026-11-27T01:16:29.791Z"
+      },
+      {
+        "start": "2026-01-01",
+        "end": "2027-01-01",
+        "updatedAt": "2026-10-21T01:44:19.773Z"
+      },
+      {
+        "start": "2027-01-01",
+        "end": "2028-01-01",
+        "updatedAt": "2026-09-24T12:23:40.217Z"
+      }
+    ],
+    "retainedYears": [
+      "2025",
+      "2026",
+      "2027"
+    ],
+    "historicalSnapshots": [
+      {
+        "year": "2025",
+        "capturedAt": "2026-11-27T01:16:29.791Z",
+        "rowCount": 1,
+        "maxCheckout": "2025-12-31",
+        "stayDatesSha256": "e2c32f403e186c58eebad5b3191dbb6b441b490b84998e0857d0148f0826fb84"
+      }
+    ]
+  },
+  "complete": true,
+  "emptyVerified": false,
+  "lodging": {
+    "schemaVersion": "lodging_sheet_metadata_v2",
+    "tenantKey": "superbhotel",
+    "hotelId": "5577",
+    "catalogRevision": "6d698a59c29374fc797ee42b67eec16b2702b96d07f28d393d3b385510760574",
+    "items": {
+      "9b442ff1388d062f64be888ab05b0a9f7bbccc3bc80c8ac9daf3d944ceff386f": {
+        "schemaVersion": "lodging_reservation_v2",
+        "tenantKey": "superbhotel",
+        "hotelId": "5577",
+        "catalogRevision": "6d698a59c29374fc797ee42b67eec16b2702b96d07f28d393d3b385510760574",
+        "source": {
+          "provider": "nabe_pms",
+          "salesUnitId": null,
+          "planId": null,
+          "originalPlanName": null,
+          "orderItemId": null,
+          "quantity": null,
+          "roomTypeKey": "高級雙人房",
+          "originalRoomTypeLabel": "高級雙人房"
+        },
+        "status": "resolved",
+        "reason": "CONFIGURED_ORDER_ROOM_TYPE",
+        "productId": null,
+        "candidateProductIds": [],
+        "occupancyBindingIds": [
+          "ORDER_TYPE_1"
+        ]
+      }
+    }
+  },
+  "bookingCycleReport": {
+    "schemaVersion": 1,
+    "year": "2025",
+    "generatedAt": "2026-11-27T01:16:29.791Z",
+    "brand": {
+      "brandKey": "superbhotel",
+      "hotelId": "5577",
+      "name": "今棧行旅",
+      "lastUpdated": "2026-11-27T01:16:29.791Z",
+      "months": [
+        {
+          "month": "2025-01",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-02",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 476,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 112,
+              "capacityText": "最大 4 間 × 28 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 224,
+              "capacityText": "最大 8 間 × 28 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 28,
+              "capacityText": "最大 1 間 × 28 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 112,
+              "capacityText": "最大 4 間 × 28 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-03",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-04",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 510,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 240,
+              "capacityText": "最大 8 間 × 30 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-05",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-06",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 510,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 240,
+              "capacityText": "最大 8 間 × 30 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-07",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-08",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-09",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 510,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 240,
+              "capacityText": "最大 8 間 × 30 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-10",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-11",
+          "totalOrders": 0,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0,
+          "totalSales": 0,
+          "adr": 0,
+          "revpar": 0,
+          "soldNights": 0,
+          "pricedNights": 0,
+          "adrRevenue": 0,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 510,
+          "roomDetails": [
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            },
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 240,
+              "capacityText": "最大 8 間 × 30 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 30,
+              "capacityText": "最大 1 間 × 30 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 120,
+              "capacityText": "最大 4 間 × 30 天"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "month": "2025-12",
+          "totalOrders": 1,
+          "averageLeadDays": 0,
+          "buckets": [
+            {
+              "label": "0-1天",
+              "percent": 100,
+              "orders": 1,
+              "rank": 1
+            },
+            {
+              "label": "2-3天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "4-7天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "8-14天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "31-45天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "46-60天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "61-75天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "76-90天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "91-105天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "106-136天",
+              "percent": 0,
+              "orders": 0
+            },
+            {
+              "label": "137天以上",
+              "percent": 0,
+              "orders": 0
+            }
+          ],
+          "totalBookingRate": 0.4,
+          "totalSales": 2550,
+          "adr": 1275,
+          "revpar": 5,
+          "soldNights": 2,
+          "pricedNights": 2,
+          "adrRevenue": 2550,
+          "capacityConflicts": 0,
+          "revenueComplete": true,
+          "invalidStayCount": 0,
+          "capacityNights": 527,
+          "roomDetails": [
+            {
+              "roomType": "高級雙人房",
+              "bookingRate": 0.8,
+              "avgDailyRate": 1275,
+              "orderCount": 1,
+              "soldNights": 2,
+              "pricedNights": 2,
+              "roomRevenue": 2550,
+              "capacityConflicts": 0,
+              "capacityNights": 248,
+              "capacityText": "最大 8 間 × 31 天"
+            },
+            {
+              "roomType": "高級家庭房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            },
+            {
+              "roomType": "尊榮四人房-無障礙",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 31,
+              "capacityText": "最大 1 間 × 31 天"
+            },
+            {
+              "roomType": "豪華雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 0,
+              "orderCount": 0,
+              "soldNights": 0,
+              "pricedNights": 0,
+              "roomRevenue": 0,
+              "capacityConflicts": 0,
+              "capacityNights": 124,
+              "capacityText": "最大 4 間 × 31 天"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    }
+  }
+}
