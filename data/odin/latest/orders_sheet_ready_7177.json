@@ -4,15 +4,14 @@
   "rangeStr": "2026-03-15~2027-03-21",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-27T08:00:42.275Z",
+    "generatedAt": "2026-11-27T16:00:59.326Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-11-12",
+        "start": "2026-01-01",
         "end": "2027-01-01"
       }
-    ],
-    "rollingDay": "2026-11-27"
+    ]
   },
   "annualCoverage": {
     "version": "odin_annual_v1",
@@ -28,15 +27,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-26T16:00:48.621Z",
-        "expiresAt": "2026-11-28T16:00:48.621Z"
-      },
-      {
-        "source": "scheduled_rolling",
-        "start": "2026-11-12",
-        "end": "2027-01-01",
-        "updatedAt": "2026-11-27T08:00:42.275Z",
-        "expiresAt": "2026-11-29T08:00:42.275Z"
+        "updatedAt": "2026-11-27T16:00:59.326Z",
+        "expiresAt": "2026-11-29T16:00:59.326Z"
       },
       {
         "start": "2027-01-01",
@@ -8797,16 +8789,16 @@
       "電話": ""
     },
     {
-      "訂單日期": "2026-11-22",
-      "訂單編號": "OBE91290717726112201",
+      "訂單日期": "2026-11-27",
+      "訂單編號": "OBE06190717726112701",
       "入住日期": "2026-12-07",
       "退房日期": "2026-12-10",
       "姓名": "",
       "房型": "203(雙)雙人房/201(雙)雙人房",
-      "專案名稱": "Booking",
-      "訂單款項": 6100,
+      "專案名稱": "官網專案",
+      "訂單款項": 6102,
       "已收金額": 0,
-      "剩餘尾款": 6100,
+      "剩餘尾款": 6102,
       "UUID": "",
       "電話": ""
     },
@@ -8924,12 +8916,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-27T08:02:37.610Z",
+    "generatedAt": "2026-11-27T16:04:26.443Z",
     "brand": {
       "brandKey": "theinlandisland",
       "hotelId": "7177",
       "name": "澎湖島嶼時光民宿",
-      "lastUpdated": "2026-11-27T08:02:37.610Z",
+      "lastUpdated": "2026-11-27T16:04:26.443Z",
       "months": [
         {
           "month": "2026-03",
@@ -10919,7 +10911,7 @@
         {
           "month": "2026-12",
           "totalOrders": 4,
-          "averageLeadDays": 54.3,
+          "averageLeadDays": 53,
           "buckets": [
             {
               "label": "0-1天",
@@ -10938,14 +10930,14 @@
             },
             {
               "label": "8-14天",
-              "percent": 0,
-              "orders": 0
-            },
-            {
-              "label": "15-30天",
               "percent": 25,
               "orders": 1,
               "rank": 1
+            },
+            {
+              "label": "15-30天",
+              "percent": 0,
+              "orders": 0
             },
             {
               "label": "31-45天",
@@ -10987,12 +10979,12 @@
           ],
           "totalBookingRate": 9.4,
           "wholeHouseRate": 0,
-          "totalSales": 29417,
+          "totalSales": 29419,
           "adr": 1014,
           "revpar": 95,
           "soldNights": 29,
           "pricedNights": 29,
-          "adrRevenue": 29417,
+          "adrRevenue": 29419,
           "capacityConflicts": 0,
           "revenueComplete": true,
           "invalidStayCount": 0,
@@ -11001,11 +10993,11 @@
             {
               "roomType": "201雙人房",
               "bookingRate": 29,
-              "avgDailyRate": 945,
+              "avgDailyRate": 946,
               "orderCount": 1.3,
               "soldNights": 9,
               "pricedNights": 9,
-              "roomRevenue": 8509,
+              "roomRevenue": 8510,
               "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"
@@ -11017,7 +11009,7 @@
               "orderCount": 0.8,
               "soldNights": 6,
               "pricedNights": 6,
-              "roomRevenue": 5662,
+              "roomRevenue": 5663,
               "capacityConflicts": 0,
               "capacityNights": 31,
               "capacityText": "最大 1 間 × 31 天"

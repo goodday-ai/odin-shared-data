@@ -1,18 +1,17 @@
 {
   "hotelId": "7664",
   "hotelName": "觀海別墅",
-  "rangeStr": "2026-11-12~2026-12-31",
+  "rangeStr": "2026-01-01~2026-12-31",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-27T08:00:42.275Z",
+    "generatedAt": "2026-11-27T16:00:59.326Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2026-11-12",
+        "start": "2026-01-01",
         "end": "2027-01-01"
       }
-    ],
-    "rollingDay": "2026-11-27"
+    ]
   },
   "annualCoverage": {
     "version": "odin_annual_v1",
@@ -27,15 +26,8 @@
       {
         "start": "2026-01-01",
         "end": "2027-01-01",
-        "updatedAt": "2026-11-26T16:00:48.621Z",
-        "expiresAt": "2026-11-28T16:00:48.621Z"
-      },
-      {
-        "source": "scheduled_rolling",
-        "start": "2026-11-12",
-        "end": "2027-01-01",
-        "updatedAt": "2026-11-27T08:00:42.275Z",
-        "expiresAt": "2026-11-29T08:00:42.275Z"
+        "updatedAt": "2026-11-27T16:00:59.326Z",
+        "expiresAt": "2026-11-29T16:00:59.326Z"
       },
       {
         "start": "2027-01-01",
