@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-11-26T16:00:48.621Z",
+  "generatedAt": "2026-11-27T16:00:59.326Z",
   "brand": {
     "brandKey": "3126",
     "hotelId": "3126",
     "name": "遇見秘境",
-    "lastUpdated": "2026-11-26T16:00:48.621Z",
+    "lastUpdated": "2026-11-27T16:00:59.326Z",
     "months": [
       {
         "month": "2026-01",
@@ -4876,45 +4876,45 @@
       },
       {
         "month": "2026-11",
-        "totalOrders": 338,
-        "averageLeadDays": 19.2,
+        "totalOrders": 342,
+        "averageLeadDays": 19,
         "buckets": [
           {
             "label": "0-1天",
-            "percent": 23.1,
-            "orders": 78,
+            "percent": 24,
+            "orders": 82,
             "rank": 1
           },
           {
             "label": "2-3天",
-            "percent": 11.2,
+            "percent": 11.1,
             "orders": 38
           },
           {
             "label": "4-7天",
-            "percent": 18.6,
+            "percent": 18.4,
             "orders": 63,
             "rank": 2
           },
           {
             "label": "8-14天",
-            "percent": 13.9,
+            "percent": 13.7,
             "orders": 47
           },
           {
             "label": "15-30天",
-            "percent": 15.1,
+            "percent": 14.9,
             "orders": 51,
             "rank": 3
           },
           {
             "label": "31-45天",
-            "percent": 8.6,
+            "percent": 8.5,
             "orders": 29
           },
           {
             "label": "46-60天",
-            "percent": 2.1,
+            "percent": 2,
             "orders": 7
           },
           {
@@ -4939,17 +4939,17 @@
           },
           {
             "label": "137天以上",
-            "percent": 2.7,
+            "percent": 2.6,
             "orders": 9
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 1065312,
-        "adr": 2093,
+        "totalSales": 1074308,
+        "adr": 2094,
         "revpar": 0,
         "soldNights": 0,
-        "pricedNights": 509,
-        "adrRevenue": 1065312,
+        "pricedNights": 513,
+        "adrRevenue": 1074308,
         "capacityConflicts": 0,
         "revenueComplete": true,
         "invalidStayCount": 0,
@@ -4958,11 +4958,23 @@
           {
             "roomType": "2202陽台標準雙人一大床房",
             "bookingRate": 0,
-            "avgDailyRate": 2049,
-            "orderCount": 18.6,
-            "soldNights": 27,
-            "pricedNights": 27,
-            "roomRevenue": 55315.43444444444,
+            "avgDailyRate": 2053,
+            "orderCount": 19.6,
+            "soldNights": 28,
+            "pricedNights": 28,
+            "roomRevenue": 57483.43444444444,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 1964,
+            "orderCount": 19.4,
+            "soldNights": 26,
+            "pricedNights": 26,
+            "roomRevenue": 51051.66521367522,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -4980,25 +4992,13 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1202陽台標準雙人一大床房",
-            "bookingRate": 0,
-            "avgDailyRate": 1968,
-            "orderCount": 18.4,
-            "soldNights": 25,
-            "pricedNights": 25,
-            "roomRevenue": 49191.66521367522,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
             "roomType": "2402陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1799,
-            "orderCount": 17.3,
-            "soldNights": 24,
-            "pricedNights": 24,
-            "roomRevenue": 43178.53444444445,
+            "avgDailyRate": 1794,
+            "orderCount": 19.3,
+            "soldNights": 26,
+            "pricedNights": 26,
+            "roomRevenue": 46651.46444444444,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5006,11 +5006,11 @@
           {
             "roomType": "2302陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1888,
-            "orderCount": 17.7,
-            "soldNights": 23,
-            "pricedNights": 23,
-            "roomRevenue": 43420.64444444444,
+            "avgDailyRate": 1881,
+            "orderCount": 18.7,
+            "soldNights": 25,
+            "pricedNights": 25,
+            "roomRevenue": 47020.64444444444,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5042,23 +5042,11 @@
           {
             "roomType": "1201陽台標準雙人一大床房",
             "bookingRate": 0,
-            "avgDailyRate": 2013,
-            "orderCount": 15.1,
-            "soldNights": 22,
-            "pricedNights": 22,
-            "roomRevenue": 44275.66521367522,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "1301陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2014,
-            "orderCount": 11.8,
+            "avgDailyRate": 2015,
+            "orderCount": 14.1,
             "soldNights": 21,
             "pricedNights": 21,
-            "roomRevenue": 42298.42521367522,
+            "roomRevenue": 42307.66521367522,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5088,25 +5076,25 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1401陽台標準雙人兩小床房",
+            "roomType": "1301陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1915,
-            "orderCount": 10,
+            "avgDailyRate": 2033,
+            "orderCount": 10.8,
             "soldNights": 20,
             "pricedNights": 20,
-            "roomRevenue": 38307.724444444444,
+            "roomRevenue": 40653.49521367522,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1402陽台標準雙人兩小床房",
+            "roomType": "1401陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1976,
-            "orderCount": 10.7,
+            "avgDailyRate": 1903,
+            "orderCount": 10.3,
             "soldNights": 20,
             "pricedNights": 20,
-            "roomRevenue": 39513,
+            "roomRevenue": 38052.724444444444,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5114,11 +5102,23 @@
           {
             "roomType": "1104單人共用衛浴房",
             "bookingRate": 0,
-            "avgDailyRate": 747,
-            "orderCount": 15.2,
-            "soldNights": 18,
-            "pricedNights": 18,
-            "roomRevenue": 13446.900000000001,
+            "avgDailyRate": 742,
+            "orderCount": 16.2,
+            "soldNights": 19,
+            "pricedNights": 19,
+            "roomRevenue": 14095.86,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 1993,
+            "orderCount": 10.3,
+            "soldNights": 19,
+            "pricedNights": 19,
+            "roomRevenue": 37868,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5174,11 +5174,11 @@
           {
             "roomType": "1204四人家庭房",
             "bookingRate": 0,
-            "avgDailyRate": 2877,
+            "avgDailyRate": 2873,
             "orderCount": 7.2,
             "soldNights": 13,
             "pricedNights": 13,
-            "roomRevenue": 37394.67521367522,
+            "roomRevenue": 37346.39521367522,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5210,11 +5210,23 @@
           {
             "roomType": "1103單人共用衛浴房",
             "bookingRate": 0,
-            "avgDailyRate": 743,
-            "orderCount": 10.7,
-            "soldNights": 12,
-            "pricedNights": 12,
-            "roomRevenue": 8912.34,
+            "avgDailyRate": 751,
+            "orderCount": 9.7,
+            "soldNights": 11,
+            "pricedNights": 11,
+            "roomRevenue": 8263.380000000001,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 2858,
+            "orderCount": 6.9,
+            "soldNights": 11,
+            "pricedNights": 11,
+            "roomRevenue": 31442.510769230772,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5222,11 +5234,11 @@
           {
             "roomType": "1203四人家庭房",
             "bookingRate": 0,
-            "avgDailyRate": 3003,
-            "orderCount": 5.2,
-            "soldNights": 11,
-            "pricedNights": 11,
-            "roomRevenue": 33035.67521367522,
+            "avgDailyRate": 3045,
+            "orderCount": 4.2,
+            "soldNights": 10,
+            "pricedNights": 10,
+            "roomRevenue": 30451.675213675215,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5251,18 +5263,6 @@
             "soldNights": 10,
             "pricedNights": 10,
             "roomRevenue": 30789.23076923077,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "2204四人家庭房",
-            "bookingRate": 0,
-            "avgDailyRate": 2822,
-            "orderCount": 4.9,
-            "soldNights": 9,
-            "pricedNights": 9,
-            "roomRevenue": 25402.23076923077,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5318,11 +5318,11 @@
           {
             "roomType": "2501六人家庭房",
             "bookingRate": 0,
-            "avgDailyRate": 3238,
-            "orderCount": 3,
-            "soldNights": 4,
-            "pricedNights": 4,
-            "roomRevenue": 12950,
+            "avgDailyRate": 3525,
+            "orderCount": 4,
+            "soldNights": 5,
+            "pricedNights": 5,
+            "roomRevenue": 17624.989999999998,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5330,11 +5330,11 @@
           {
             "roomType": "1501六人家庭房",
             "bookingRate": 0,
-            "avgDailyRate": 4458,
-            "orderCount": 3,
-            "soldNights": 3,
-            "pricedNights": 3,
-            "roomRevenue": 13373.77,
+            "avgDailyRate": 4349,
+            "orderCount": 2,
+            "soldNights": 2,
+            "pricedNights": 2,
+            "roomRevenue": 8698.779999999999,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5347,8 +5347,8 @@
       },
       {
         "month": "2026-12",
-        "totalOrders": 138,
-        "averageLeadDays": 65.6,
+        "totalOrders": 139,
+        "averageLeadDays": 65.2,
         "buckets": [
           {
             "label": "0-1天",
@@ -5362,35 +5362,35 @@
           },
           {
             "label": "4-7天",
-            "percent": 5.8,
-            "orders": 8
+            "percent": 6.5,
+            "orders": 9
           },
           {
             "label": "8-14天",
-            "percent": 8,
+            "percent": 7.9,
             "orders": 11
           },
           {
             "label": "15-30天",
-            "percent": 18.1,
+            "percent": 18,
             "orders": 25,
             "rank": 2
           },
           {
             "label": "31-45天",
-            "percent": 18.8,
+            "percent": 18.7,
             "orders": 26,
             "rank": 1
           },
           {
             "label": "46-60天",
-            "percent": 11.6,
+            "percent": 11.5,
             "orders": 16,
             "rank": 3
           },
           {
             "label": "61-75天",
-            "percent": 8.7,
+            "percent": 8.6,
             "orders": 12
           },
           {
@@ -5410,17 +5410,17 @@
           },
           {
             "label": "137天以上",
-            "percent": 11.6,
+            "percent": 11.5,
             "orders": 16
           }
         ],
         "totalBookingRate": 0,
-        "totalSales": 676547,
-        "adr": 2325,
+        "totalSales": 677315,
+        "adr": 2336,
         "revpar": 0,
         "soldNights": 0,
-        "pricedNights": 291,
-        "adrRevenue": 676547,
+        "pricedNights": 290,
+        "adrRevenue": 677315,
         "capacityConflicts": 0,
         "revenueComplete": true,
         "invalidStayCount": 0,
@@ -5429,11 +5429,11 @@
           {
             "roomType": "1301陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1855,
+            "avgDailyRate": 1938,
             "orderCount": 8.5,
-            "soldNights": 19,
-            "pricedNights": 19,
-            "roomRevenue": 35247.46315789474,
+            "soldNights": 18,
+            "pricedNights": 18,
+            "roomRevenue": 34885.46315789474,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5441,35 +5441,11 @@
           {
             "roomType": "1201陽台標準雙人一大床房",
             "bookingRate": 0,
-            "avgDailyRate": 1786,
-            "orderCount": 11.1,
-            "soldNights": 18,
-            "pricedNights": 18,
-            "roomRevenue": 32147.05,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "1202陽台標準雙人一大床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2056,
-            "orderCount": 8.7,
-            "soldNights": 14,
-            "pricedNights": 14,
-            "roomRevenue": 28784.943157894737,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "1302陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2207,
-            "orderCount": 5.1,
-            "soldNights": 14,
-            "pricedNights": 14,
-            "roomRevenue": 30893.8995215311,
+            "avgDailyRate": 1869,
+            "orderCount": 11.6,
+            "soldNights": 17,
+            "pricedNights": 17,
+            "roomRevenue": 31775.05,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5489,11 +5465,47 @@
           {
             "roomType": "1203四人家庭房",
             "bookingRate": 0,
-            "avgDailyRate": 3141,
-            "orderCount": 7.4,
+            "avgDailyRate": 3038,
+            "orderCount": 7.9,
+            "soldNights": 13,
+            "pricedNights": 13,
+            "roomRevenue": 39488.25744360902,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1202陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2228,
+            "orderCount": 7.2,
             "soldNights": 12,
             "pricedNights": 12,
-            "roomRevenue": 37688.25744360902,
+            "roomRevenue": 26737.943157894737,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2274,
+            "orderCount": 3.6,
+            "soldNights": 12,
+            "pricedNights": 12,
+            "roomRevenue": 27293.8995215311,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2201陽台標準雙人一大床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2212,
+            "orderCount": 6.7,
+            "soldNights": 12,
+            "pricedNights": 12,
+            "roomRevenue": 26549.9495215311,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5511,18 +5523,6 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1401陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2361,
-            "orderCount": 3.5,
-            "soldNights": 11,
-            "pricedNights": 11,
-            "roomRevenue": 25968.8995215311,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
             "roomType": "1403四人家庭房",
             "bookingRate": 0,
             "avgDailyRate": 2324,
@@ -5535,25 +5535,25 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "2201陽台標準雙人一大床房",
+            "roomType": "2202陽台標準雙人一大床房",
             "bookingRate": 0,
-            "avgDailyRate": 2227,
+            "avgDailyRate": 2326,
             "orderCount": 6.6,
             "soldNights": 11,
             "pricedNights": 11,
-            "roomRevenue": 24497.616188197768,
+            "roomRevenue": 25589.56618819777,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "2202陽台標準雙人一大床房",
+            "roomType": "1103單人共用衛浴房",
             "bookingRate": 0,
-            "avgDailyRate": 2293,
-            "orderCount": 5.7,
-            "soldNights": 11,
-            "pricedNights": 11,
-            "roomRevenue": 25222.8995215311,
+            "avgDailyRate": 1156,
+            "orderCount": 4.4,
+            "soldNights": 10,
+            "pricedNights": 10,
+            "roomRevenue": 11555.263157894737,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5571,18 +5571,6 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1402陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2395,
-            "orderCount": 5.2,
-            "soldNights": 10,
-            "pricedNights": 10,
-            "roomRevenue": 23952.263157894737,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
             "roomType": "2203豪華陽台雙人房",
             "bookingRate": 0,
             "avgDailyRate": 2773,
@@ -5590,6 +5578,30 @@
             "soldNights": 10,
             "pricedNights": 10,
             "roomRevenue": 27728.929824561405,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2301陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2268,
+            "orderCount": 3.9,
+            "soldNights": 10,
+            "pricedNights": 10,
+            "roomRevenue": 22683.636363636364,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "2302陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2129,
+            "orderCount": 2.9,
+            "soldNights": 10,
+            "pricedNights": 10,
+            "roomRevenue": 21288.636363636364,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5619,13 +5631,25 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "1103單人共用衛浴房",
+            "roomType": "1401陽台標準雙人兩小床房",
             "bookingRate": 0,
-            "avgDailyRate": 1199,
-            "orderCount": 3.4,
+            "avgDailyRate": 2485,
+            "orderCount": 3.5,
             "soldNights": 9,
             "pricedNights": 9,
-            "roomRevenue": 10787.263157894737,
+            "roomRevenue": 22368.8995215311,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
+            "roomType": "1402陽台標準雙人兩小床房",
+            "bookingRate": 0,
+            "avgDailyRate": 2389,
+            "orderCount": 4.2,
+            "soldNights": 8,
+            "pricedNights": 8,
+            "roomRevenue": 19114.263157894737,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"
@@ -5643,18 +5667,6 @@
             "capacityText": "容量未設定"
           },
           {
-            "roomType": "2301陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2410,
-            "orderCount": 3.4,
-            "soldNights": 8,
-            "pricedNights": 8,
-            "roomRevenue": 19283.636363636364,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
             "roomType": "2401陽台標準雙人兩小床房",
             "bookingRate": 0,
             "avgDailyRate": 2198,
@@ -5667,6 +5679,18 @@
             "capacityText": "容量未設定"
           },
           {
+            "roomType": "1204四人家庭房",
+            "bookingRate": 0,
+            "avgDailyRate": 2962,
+            "orderCount": 2.7,
+            "soldNights": 7,
+            "pricedNights": 7,
+            "roomRevenue": 20730.977443609023,
+            "capacityConflicts": 0,
+            "capacityNights": 0,
+            "capacityText": "容量未設定"
+          },
+          {
             "roomType": "1304四人家庭房",
             "bookingRate": 0,
             "avgDailyRate": 3065,
@@ -5674,30 +5698,6 @@
             "soldNights": 7,
             "pricedNights": 7,
             "roomRevenue": 21455.977443609023,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "2302陽台標準雙人兩小床房",
-            "bookingRate": 0,
-            "avgDailyRate": 2270,
-            "orderCount": 1.9,
-            "soldNights": 7,
-            "pricedNights": 7,
-            "roomRevenue": 15888.636363636364,
-            "capacityConflicts": 0,
-            "capacityNights": 0,
-            "capacityText": "容量未設定"
-          },
-          {
-            "roomType": "1204四人家庭房",
-            "bookingRate": 0,
-            "avgDailyRate": 3155,
-            "orderCount": 2.2,
-            "soldNights": 6,
-            "pricedNights": 6,
-            "roomRevenue": 18930.977443609023,
             "capacityConflicts": 0,
             "capacityNights": 0,
             "capacityText": "容量未設定"

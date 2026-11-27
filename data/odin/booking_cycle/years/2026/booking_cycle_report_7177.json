@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "year": "2026",
-  "generatedAt": "2026-11-26T16:00:48.621Z",
+  "generatedAt": "2026-11-27T16:00:59.326Z",
   "brand": {
     "brandKey": "theinlandisland",
     "hotelId": "7177",
     "name": "澎湖島嶼時光民宿",
-    "lastUpdated": "2026-11-26T16:00:48.621Z",
+    "lastUpdated": "2026-11-27T16:00:59.326Z",
     "months": [
       {
         "month": "2026-01",
@@ -2424,7 +2424,7 @@
       {
         "month": "2026-12",
         "totalOrders": 4,
-        "averageLeadDays": 54.3,
+        "averageLeadDays": 53,
         "buckets": [
           {
             "label": "0-1天",
@@ -2443,14 +2443,14 @@
           },
           {
             "label": "8-14天",
-            "percent": 0,
-            "orders": 0
-          },
-          {
-            "label": "15-30天",
             "percent": 25,
             "orders": 1,
             "rank": 1
+          },
+          {
+            "label": "15-30天",
+            "percent": 0,
+            "orders": 0
           },
           {
             "label": "31-45天",
@@ -2492,12 +2492,12 @@
         ],
         "totalBookingRate": 9.4,
         "wholeHouseRate": 0,
-        "totalSales": 29417,
+        "totalSales": 29419,
         "adr": 1014,
         "revpar": 95,
         "soldNights": 29,
         "pricedNights": 29,
-        "adrRevenue": 29417,
+        "adrRevenue": 29419,
         "capacityConflicts": 0,
         "revenueComplete": true,
         "invalidStayCount": 0,
@@ -2506,11 +2506,11 @@
           {
             "roomType": "201雙人房",
             "bookingRate": 29,
-            "avgDailyRate": 945,
+            "avgDailyRate": 946,
             "orderCount": 1.3,
             "soldNights": 9,
             "pricedNights": 9,
-            "roomRevenue": 8509,
+            "roomRevenue": 8510,
             "capacityConflicts": 0,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
@@ -2522,7 +2522,7 @@
             "orderCount": 0.8,
             "soldNights": 6,
             "pricedNights": 6,
-            "roomRevenue": 5662,
+            "roomRevenue": 5663,
             "capacityConflicts": 0,
             "capacityNights": 31,
             "capacityText": "最大 1 間 × 31 天"
