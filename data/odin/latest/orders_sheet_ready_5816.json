@@ -4,14 +4,15 @@
   "rangeStr": "2024-12-30~2027-04-25",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-26T16:06:09.048Z",
+    "generatedAt": "2026-11-27T00:00:55.729Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2026-11-12",
+        "end": "2027-01-01"
       }
-    ]
+    ],
+    "rollingDay": "2026-11-27"
   },
   "annualCoverage": {
     "version": "odin_annual_v1",
@@ -29,6 +30,13 @@
         "end": "2027-01-01",
         "updatedAt": "2026-11-26T16:00:48.621Z",
         "expiresAt": "2026-11-28T16:00:48.621Z"
+      },
+      {
+        "source": "scheduled_rolling",
+        "start": "2026-11-12",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-27T00:00:55.729Z",
+        "expiresAt": "2026-11-29T00:00:55.729Z"
       },
       {
         "start": "2027-01-01",
@@ -16478,12 +16486,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-26T16:08:30.449Z",
+    "generatedAt": "2026-11-27T00:04:35.930Z",
     "brand": {
       "brandKey": "mozhouse",
       "hotelId": "5816",
       "name": "木子寓所",
-      "lastUpdated": "2026-11-26T16:08:30.449Z",
+      "lastUpdated": "2026-11-27T00:04:35.930Z",
       "months": [
         {
           "month": "2024-12",
