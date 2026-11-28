@@ -1338,6 +1338,13 @@
         "expiresAt": "2026-11-29T16:00:59.326Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-13",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-28T00:00:55.275Z",
+        "expiresAt": "2026-11-30T00:00:55.275Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-27T16:05:56.986Z",
@@ -1364,12 +1371,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-27T16:00:59.326Z",
+    "generatedAt": "2026-11-28T00:00:55.275Z",
     "brand": {
       "brandKey": "lunarhaven",
       "hotelId": "6721",
       "name": "泊月民宿",
-      "lastUpdated": "2026-11-27T16:00:59.326Z",
+      "lastUpdated": "2026-11-28T00:00:55.275Z",
       "months": [
         {
           "month": "2026-01",

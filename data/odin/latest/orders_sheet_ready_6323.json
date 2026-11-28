@@ -4,14 +4,15 @@
   "rangeStr": "2025-01-21~2027-02-22",
   "lastImportScope": {
     "protocol": "checkin_scope_v1",
-    "generatedAt": "2026-11-27T16:05:56.986Z",
+    "generatedAt": "2026-11-28T00:00:55.275Z",
     "maxAgeHours": 48,
     "ranges": [
       {
-        "start": "2027-01-01",
-        "end": "2028-01-01"
+        "start": "2026-11-13",
+        "end": "2027-01-01"
       }
-    ]
+    ],
+    "rollingDay": "2026-11-28"
   },
   "annualCoverage": {
     "version": "odin_annual_v1",
@@ -29,6 +30,13 @@
         "end": "2027-01-01",
         "updatedAt": "2026-11-27T16:00:59.326Z",
         "expiresAt": "2026-11-29T16:00:59.326Z"
+      },
+      {
+        "source": "scheduled_rolling",
+        "start": "2026-11-13",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-28T00:00:55.275Z",
+        "expiresAt": "2026-11-30T00:00:55.275Z"
       },
       {
         "start": "2027-01-01",
@@ -2645,12 +2653,12 @@
     }
   ],
   "bookingCycleReport": {
-    "generatedAt": "2026-11-27T16:07:15.101Z",
+    "generatedAt": "2026-11-28T00:02:22.175Z",
     "brand": {
       "brandKey": "triplesuite",
       "hotelId": "6323",
       "name": "弎居胡同",
-      "lastUpdated": "2026-11-27T16:07:15.101Z",
+      "lastUpdated": "2026-11-28T00:02:22.175Z",
       "months": [
         {
           "month": "2025-01",

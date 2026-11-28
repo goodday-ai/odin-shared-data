@@ -49522,6 +49522,20 @@
       "電話": ""
     },
     {
+      "訂單日期": "2026-11-28",
+      "訂單編號": "OBE90650312626112711",
+      "入住日期": "2026-11-28",
+      "退房日期": "2026-11-29",
+      "姓名": "",
+      "房型": "2403豪華陽台雙人房",
+      "專案名稱": "手動訂單",
+      "訂單款項": 2800,
+      "已收金額": 0,
+      "剩餘尾款": 2800,
+      "UUID": "",
+      "電話": ""
+    },
+    {
       "訂單日期": "2026-10-07",
       "訂單編號": "OBE91730312626100702",
       "入住日期": "2026-11-28",
@@ -49574,6 +49588,20 @@
       "訂單款項": 2053,
       "已收金額": 1027,
       "剩餘尾款": 1026,
+      "UUID": "",
+      "電話": ""
+    },
+    {
+      "訂單日期": "2026-11-28",
+      "訂單編號": "OBE97570312626112710",
+      "入住日期": "2026-11-28",
+      "退房日期": "2026-11-29",
+      "姓名": "",
+      "房型": "2301陽台標準雙人兩小床房",
+      "專案名稱": "Booking.com",
+      "訂單款項": 2000,
+      "已收金額": 0,
+      "剩餘尾款": 2000,
       "UUID": "",
       "電話": ""
     },
@@ -51702,6 +51730,13 @@
         "expiresAt": "2026-11-28T09:12:18.195Z"
       },
       {
+        "source": "scheduled_rolling",
+        "start": "2026-11-13",
+        "end": "2027-01-01",
+        "updatedAt": "2026-11-28T00:00:55.275Z",
+        "expiresAt": "2026-11-30T00:00:55.275Z"
+      },
+      {
         "start": "2027-01-01",
         "end": "2028-01-01",
         "updatedAt": "2026-11-27T16:05:56.986Z",
@@ -51729,12 +51764,12 @@
   "bookingCycleReport": {
     "schemaVersion": 1,
     "year": "2026",
-    "generatedAt": "2026-11-27T16:00:59.326Z",
+    "generatedAt": "2026-11-28T00:00:55.275Z",
     "brand": {
       "brandKey": "3126",
       "hotelId": "3126",
       "name": "遇見秘境",
-      "lastUpdated": "2026-11-27T16:00:59.326Z",
+      "lastUpdated": "2026-11-28T00:00:55.275Z",
       "months": [
         {
           "month": "2026-01",
@@ -56604,23 +56639,23 @@
         },
         {
           "month": "2026-11",
-          "totalOrders": 342,
-          "averageLeadDays": 19,
+          "totalOrders": 344,
+          "averageLeadDays": 18.9,
           "buckets": [
             {
               "label": "0-1天",
-              "percent": 24,
-              "orders": 82,
+              "percent": 24.4,
+              "orders": 84,
               "rank": 1
             },
             {
               "label": "2-3天",
-              "percent": 11.1,
+              "percent": 11,
               "orders": 38
             },
             {
               "label": "4-7天",
-              "percent": 18.4,
+              "percent": 18.3,
               "orders": 63,
               "rank": 2
             },
@@ -56631,13 +56666,13 @@
             },
             {
               "label": "15-30天",
-              "percent": 14.9,
+              "percent": 14.8,
               "orders": 51,
               "rank": 3
             },
             {
               "label": "31-45天",
-              "percent": 8.5,
+              "percent": 8.4,
               "orders": 29
             },
             {
@@ -56647,7 +56682,7 @@
             },
             {
               "label": "61-75天",
-              "percent": 1.8,
+              "percent": 1.7,
               "orders": 6
             },
             {
@@ -56672,12 +56707,12 @@
             }
           ],
           "totalBookingRate": 0,
-          "totalSales": 1074308,
-          "adr": 2094,
+          "totalSales": 1079108,
+          "adr": 2095,
           "revpar": 0,
           "soldNights": 0,
-          "pricedNights": 513,
-          "adrRevenue": 1074308,
+          "pricedNights": 515,
+          "adrRevenue": 1079108,
           "capacityConflicts": 0,
           "revenueComplete": true,
           "invalidStayCount": 0,
@@ -56854,11 +56889,23 @@
             {
               "roomType": "2301陽台標準雙人兩小床房",
               "bookingRate": 0,
-              "avgDailyRate": 1827,
-              "orderCount": 11.1,
-              "soldNights": 17,
-              "pricedNights": 17,
-              "roomRevenue": 31067.34,
+              "avgDailyRate": 1837,
+              "orderCount": 12.1,
+              "soldNights": 18,
+              "pricedNights": 18,
+              "roomRevenue": 33067.34,
+              "capacityConflicts": 0,
+              "capacityNights": 0,
+              "capacityText": "容量未設定"
+            },
+            {
+              "roomType": "2403豪華陽台雙人房",
+              "bookingRate": 0,
+              "avgDailyRate": 2193,
+              "orderCount": 12.8,
+              "soldNights": 18,
+              "pricedNights": 18,
+              "roomRevenue": 39474.484444444446,
               "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
@@ -56871,18 +56918,6 @@
               "soldNights": 17,
               "pricedNights": 17,
               "roomRevenue": 44451.777777777774,
-              "capacityConflicts": 0,
-              "capacityNights": 0,
-              "capacityText": "容量未設定"
-            },
-            {
-              "roomType": "2403豪華陽台雙人房",
-              "bookingRate": 0,
-              "avgDailyRate": 2157,
-              "orderCount": 11.8,
-              "soldNights": 17,
-              "pricedNights": 17,
-              "roomRevenue": 36674.484444444446,
               "capacityConflicts": 0,
               "capacityNights": 0,
               "capacityText": "容量未設定"
