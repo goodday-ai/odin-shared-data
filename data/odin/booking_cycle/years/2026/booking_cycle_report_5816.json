@@ -2355,12 +2355,12 @@
         ],
         "totalBookingRate": 37.3,
         "wholeHouseRate": 0,
-        "totalSales": 132581,
-        "adr": 1044,
-        "revpar": 442,
+        "totalSales": 131861,
+        "adr": 1038,
+        "revpar": 440,
         "soldNights": 112,
         "pricedNights": 127,
-        "adrRevenue": 132581,
+        "adrRevenue": 131861,
         "capacityConflicts": 15,
         "revenueComplete": false,
         "invalidStayCount": 0,
@@ -2379,6 +2379,18 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
+            "roomType": "M2大雙人房",
+            "bookingRate": 70,
+            "avgDailyRate": 1363,
+            "orderCount": 8.5,
+            "soldNights": 21,
+            "pricedNights": 21,
+            "roomRevenue": 28630,
+            "capacityConflicts": 0,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
+          },
+          {
             "roomType": "M1雙人房",
             "bookingRate": 63.3,
             "avgDailyRate": 693,
@@ -2386,18 +2398,6 @@
             "soldNights": 19,
             "pricedNights": 19,
             "roomRevenue": 13164.5,
-            "capacityConflicts": 0,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
-            "roomType": "M2大雙人房",
-            "bookingRate": 63.3,
-            "avgDailyRate": 1313,
-            "orderCount": 7.5,
-            "soldNights": 19,
-            "pricedNights": 19,
-            "roomRevenue": 24950,
             "capacityConflicts": 0,
             "capacityNights": 30,
             "capacityText": "最大 1 間 × 30 天"
@@ -2475,18 +2475,6 @@
             "capacityText": "最大 1 間 × 30 天"
           },
           {
-            "roomType": "M5大雙人房",
-            "bookingRate": 6.7,
-            "avgDailyRate": 2200,
-            "orderCount": 1,
-            "soldNights": 2,
-            "pricedNights": 2,
-            "roomRevenue": 4400,
-            "capacityConflicts": 0,
-            "capacityNights": 30,
-            "capacityText": "最大 1 間 × 30 天"
-          },
-          {
             "roomType": "包棟",
             "bookingRate": 0,
             "avgDailyRate": 0,
@@ -2497,6 +2485,18 @@
             "capacityConflicts": 0,
             "capacityNights": 30,
             "capacityText": "最大 1 組包棟 × 30 天"
+          },
+          {
+            "roomType": "M5大雙人房",
+            "bookingRate": 0,
+            "avgDailyRate": 0,
+            "orderCount": 0,
+            "soldNights": 0,
+            "pricedNights": 0,
+            "roomRevenue": 0,
+            "capacityConflicts": 0,
+            "capacityNights": 30,
+            "capacityText": "最大 1 間 × 30 天"
           }
         ],
         "notes": [
